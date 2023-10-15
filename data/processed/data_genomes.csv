@@ -1,1001 +1,1001 @@
 accession,tax_id,organism_name
+GCF_000006945.2,99287,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+GCF_000195955.2,83332,Mycobacterium tuberculosis H37Rv
+GCF_000009045.1,224308,Bacillus subtilis subsp. subtilis str. 168
+GCF_000005845.2,511145,Escherichia coli str. K-12 substr. MG1655
+GCF_000008865.2,386585,Escherichia coli O157:H7 str. Sakai
 GCF_000146045.2,559292,Saccharomyces cerevisiae S288C
 GCF_000002985.6,6239,Caenorhabditis elegans
+GCF_000006765.1,208964,Pseudomonas aeruginosa PAO1
+GCF_000013425.1,93061,Staphylococcus aureus subsp. aureus NCTC 8325
+GCF_000240185.1,1125630,Klebsiella pneumoniae subsp. pneumoniae HS11286
+GCF_000196035.1,169963,Listeria monocytogenes EGD-e
+GCF_000009085.1,192222,Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819
+GCF_000006925.2,198214,Shigella flexneri 2a str. 301
+GCF_000191145.1,871585,Acinetobacter pittii PHEA-2
+GCF_000022005.1,565050,Caulobacter vibrioides NA1000
+GCF_000008725.1,272561,Chlamydia trachomatis D/UW-3/CX
+GCF_000007765.2,227377,Coxiella burnetii RSA 493
 GCF_000001735.4,3702,Arabidopsis thaliana
 GCF_000001405.40,9606,Homo sapiens
 GCF_000001635.27,10090,Mus musculus
 GCF_000001215.4,7227,Drosophila melanogaster
 GCF_000002035.6,7955,Danio rerio
+GCF_000412675.1,1211579,Pseudomonas putida NBRC 14164
+GCF_006094375.1,1282,Staphylococcus epidermidis
+GCF_000196555.1,565042,Bifidobacterium longum subsp. longum JCM 1217
+GCF_000007125.1,224914,Brucella melitensis bv. 1 str. 16M
 GCF_003013715.1,498019,[Candida] auris
+GCF_000832905.1,1121088,Heyndrickxia coagulans DSM 1 = ATCC 7050
+GCF_019048385.1,549,Pantoea agglomerans
+GCF_000010505.1,431947,Porphyromonas gingivalis ATCC 33277
+GCF_001888925.1,1217420,Lactobacillus delbrueckii subsp. jakobsenii ZN7a-9 = DSM 26046
+GCF_014131755.1,818,Bacteroides thetaiotaomicron
+GCF_016026695.1,1363,Lactococcus garvieae
+GCF_900560965.1,1124983,Pseudomonas protegens CHA0
+GCF_001729805.1,1812935,Enterobacter roggenkampii
+GCF_000146165.2,211586,Shewanella oneidensis MR-1
+GCF_018223745.1,1520,Clostridium beijerinckii
+GCF_000829055.1,1423732,Lacticaseibacillus casei DSM 20011 = JCM 1134 = ATCC 393
+GCF_002023665.2,1246994,Elizabethkingia anophelis R26
+GCF_000091545.1,300852,Thermus thermophilus HB8
+GCF_003019295.1,190304,Fusobacterium nucleatum subsp. nucleatum ATCC 25586
+GCF_001750725.1,299767,Enterobacter ludwigii
+GCF_003641185.1,1589,Lactiplantibacillus pentosus
+GCF_000007505.1,204722,Brucella suis 1330
+GCF_000083545.1,661410,Methylorubrum extorquens DM4
+GCF_004101845.1,1293592,Latilactobacillus curvatus JCM 1096 = DSM 20019
+GCF_900637025.1,655813,Streptococcus oralis ATCC 35037
+GCF_000204255.1,331636,Chlamydia psittaci 6BC
+GCF_001558415.2,676,Vibrio fluvialis
+GCF_004799605.1,2242,Halobacterium salinarum
+GCF_002706795.1,1121121,Brevibacillus laterosporus DSM 25
+GCF_000236925.1,985002,Staphylococcus argenteus
 GCF_003054445.1,4909,Pichia kudriavzevii
+GCF_000007985.2,243231,Geobacter sulfurreducens PCA
+GCF_000007805.1,223283,Pseudomonas syringae pv. tomato str. DC3000
+GCF_020097475.1,564,Escherichia fergusonii
+GCF_020546685.1,243230,Deinococcus radiodurans R1 = ATCC 13939 = DSM 20539
+GCF_000025685.1,309800,Haloferax volcanii DS2
+GCF_900660465.1,2104,Mycoplasmoides pneumoniae
+GCF_000697965.2,106592,Ensifer adhaerens
+GCF_002813755.1,53346,Enterococcus mundtii
+GCF_900637055.1,1393,Brevibacillus brevis
+GCF_019916025.1,1490,Paraclostridium bifermentans
+GCF_900637845.1,1648,Erysipelothrix rhusiopathiae
+GCF_001456255.1,1219067,Vibrio natriegens NBRC 15636 = ATCC 14048 = DSM 759
+GCF_017724035.1,359387,Xanthomonas euvesicatoria pv. alfalfae
+GCF_001006005.1,47917,Serratia fonticola
+GCF_002945325.1,39152,Methanococcus maripaludis
+GCF_000009765.2,227882,Streptomyces avermitilis MA-4680 = NBRC 14893
+GCF_000062885.1,405948,Saccharopolyspora erythraea NRRL 2338
+GCF_000018525.1,483179,Brucella canis ATCC 23365
+GCF_900475975.1,1338,Streptococcus intermedius
+GCF_000157895.3,557599,Mycobacterium kansasii ATCC 12478
+GCF_001632805.1,1460372,Mycobacteroides chelonae CCUG 47445
+GCF_000012765.1,340047,Mycoplasma capricolum subsp. capricolum ATCC 27343
+GCF_004792415.1,470934,Pantoea vagans
+GCF_001700985.1,1426,Parageobacillus thermoglucosidasius
+GCF_001314995.1,28116,Bacteroides ovatus
+GCF_000007345.1,188937,Methanosarcina acetivorans C2A
+GCF_009831375.1,411470,[Ruminococcus] gnavus ATCC 29149
+GCF_018314255.1,1581,Lentilactobacillus buchneri
+GCF_000196795.1,436717,Acinetobacter oleivorans DR1
+GCF_008245085.1,186497,Pyrococcus furiosus DSM 3638
+GCF_000016525.1,420247,Methanobrevibacter smithii ATCC 35061
+GCF_021278985.1,1218085,Citrobacter rodentium NBRC 105723 = DSM 16636
+GCF_002812485.1,1778540,Dickeya fangzhongdai
+GCF_900186885.1,29466,Veillonella parvula
+GCF_001484725.1,1341692,Clostridium autoethanogenum DSM 10061
+GCF_002243645.1,1349754,Peribacillus simplex NBRC 15720 = DSM 1321
+GCF_000019725.1,426355,Methylobacterium radiotolerans JCM 2831
+GCF_001953955.1,1122984,Prevotella intermedia ATCC 25611 = DSM 20706
+GCF_001028665.1,60550,Burkholderia pyrrocinia
+GCF_001298465.1,199,Campylobacter concisus
+GCF_000007085.1,273068,Caldanaerobacter subterraneus subsp. tengcongensis MB4
+GCF_000009965.1,69014,Thermococcus kodakarensis KOD1
+GCF_000196875.2,768066,Halomonas elongata DSM 2581
+GCF_000763515.1,202751,Listeria ivanovii subsp. ivanovii
+GCF_009662475.1,637390,Acidithiobacillus thiooxidans ATCC 19377
+GCF_000007025.1,272944,Rickettsia conorii str. Malish 7
+GCF_000007205.1,182082,Chlamydia pneumoniae TW-183
+GCF_000019345.1,505682,Ureaplasma parvum serovar 3 str. ATCC 27815
+GCF_000020025.1,63737,Nostoc punctiforme PCC 73102
+GCF_000230655.2,243274,Thermotoga maritima MSB8
+GCF_000179635.2,697329,Ruminococcus albus 7 = DSM 20455
+GCF_000021925.1,272564,Desulfitobacterium hafniense DCB-2
+GCF_000284295.1,512565,Actinoplanes missouriensis 431
+GCF_016026735.1,61652,Serratia rubidaea
+GCF_016127195.1,650,Aeromonas jandaei
+GCF_016027095.1,13689,Sphingomonas paucimobilis
+GCF_000961515.1,134537,Paraburkholderia fungorum
+GCF_015074805.1,336203,Sphingobium fuliginis
+GCF_008801925.2,68895,Cupriavidus basilensis
+GCF_016028795.1,69966,Macrococcus caseolyticus
+GCF_010508875.1,292800,Flavonifractor plautii
+GCF_000018145.1,398580,Dinoroseobacter shibae DFL 12 = DSM 16493
+GCF_000016645.1,376686,Flavobacterium johnsoniae UW101
+GCF_000330885.1,698761,Rhizobium tropici CIAT 899
+GCF_002706745.1,936140,Companilactobacillus farciminis KCTC 3681 = DSM 20184
+GCF_000026105.1,384676,Pseudomonas entomophila L48
+GCF_003660105.1,1032070,Aliarcobacter cryaerophilus ATCC 43158
+GCF_008704425.1,1319510,Streptomyces fradiae ATCC 10745 = DSM 40063
+GCF_000313175.2,758847,Leptospira santarosai serovar Shermani str. LT 821
+GCF_000023145.1,645127,Corynebacterium kroppenstedtii DSM 44385
+GCF_001411805.1,41899,Burkholderia plantarii
+GCF_001687625.2,192421,Planococcus maritimus
+GCF_012317185.1,1522,[Clostridium] innocuum
+GCF_900474605.1,44008,Enterococcus cecorum
+GCF_000011965.2,246200,Ruegeria pomeroyi DSS-3
+GCF_000146505.1,59374,Fibrobacter succinogenes subsp. succinogenes S85
+GCF_008153345.1,162,Treponema phagedenis
+GCF_002288285.1,121428,Sphingobium xenophagum
+GCF_019668505.1,47466,Borrelia miyamotoi
+GCF_005406325.1,523841,Haloferax mediterranei ATCC 33500
+GCF_000008185.1,243275,Treponema denticola ATCC 35405
+GCF_001025195.1,566552,Bifidobacterium catenulatum DSM 16992 = JCM 1194 = LMG 11043
+GCF_000006685.1,243161,Chlamydia muridarum str. Nigg
+GCF_000818015.1,1123016,Stutzerimonas balearica DSM 6083
+GCF_002706425.1,913848,Loigolactobacillus coryniformis subsp. coryniformis KCTC 3167 = DSM 20001
+GCF_000331185.2,1265868,Streptomyces rimosus subsp. rimosus ATCC 10970
+GCF_900537995.1,536231,Roseburia intestinalis L1-82
+GCF_000010265.1,583346,Clostridium kluyveri NBRC 12016
+GCF_000470775.1,1389489,Leifsonia xyli subsp. cynodontis DSM 46306
+GCF_900636915.1,985008,Aggregatibacter aphrophilus ATCC 33389
+GCF_001682385.1,418699,Azoarcus olearius
+GCF_000807675.2,1736,Eubacterium limosum
+GCF_020883495.1,352475,Shinella zoogloeoides
+GCF_024347355.1,170679,Vibrio chagasii
+GCF_003606265.1,1504,Clostridium septicum
+GCF_000953635.1,451,Legionella micdadei
+GCF_001941345.1,1705,Corynebacterium stationis
+GCF_000816085.1,1284,Staphylococcus hyicus
+GCF_001553955.1,34062,Moraxella osloensis
+GCF_008824185.1,82367,Paracoccus pantotrophus
+GCF_900638215.1,2014,Nocardiopsis dassonvillei
+GCF_003015125.1,88688,Caulobacter segnis
+GCF_900183975.1,48664,Xanthomonas fragariae
+GCF_001267435.1,1525,Moorella thermoacetica
+GCF_020099395.1,35621,Streptomyces mobaraensis
+GCF_019930665.1,291645,Bacteroides nordii
+GCF_000067205.1,94624,Bordetella petrii
+GCF_006364355.1,29494,Vibrio furnissii
+GCF_900187105.1,539,Eikenella corrodens
+GCF_016127255.1,33968,Leuconostoc pseudomesenteroides
+GCF_000055785.1,290398,Chromohalobacter salexigens DSM 3043
+GCF_000196115.1,243090,Rhodopirellula baltica SH 1
+GCF_000220705.2,1038929,Streptomyces xinghaiensis S187
+GCF_000145235.1,644283,Micromonospora aurantiaca ATCC 27029
+GCF_000340885.1,931276,Clostridium saccharoperbutylacetonicum N1-4(HMT)
+GCF_003584745.1,1136880,Mycobacterium pseudoshottsii JCM 15466
+GCF_000012805.1,323261,Nitrosococcus oceani ATCC 19707
+GCF_000772105.1,1051646,Vibrio tubiashii ATCC 19109
+GCF_000022325.1,521460,Caldicellulosiruptor bescii DSM 6725
 GCF_000026945.1,573826,Candida dubliniensis CD36
+GCF_900475445.1,889201,Streptococcus cristatus ATCC 51100
+GCF_000027325.1,243273,Mycoplasmoides genitalium G37
+GCF_010669205.1,1121114,Blautia producta ATCC 27340 = DSM 2950
+GCF_000019945.1,441620,Methylorubrum populi BJ001
+GCF_000176855.2,643561,Paracidovorax avenae ATCC 19860
+GCF_000513295.1,1430440,Magnetospirillum gryphiswaldense MSR-1 v2
+GCF_001277215.2,1159491,Cronobacter malonaticus LMG 23826
+GCF_000478885.1,1384484,Adlercreutzia equolifaciens DSM 19450
+GCF_000027145.1,683837,Listeria seeligeri serovar 1/2b str. SLCC3954
+GCF_000196435.1,382640,Bartonella tribocorum CIP 105476
+GCF_000013345.1,106370,Frankia casuarinae
+GCF_016028515.1,2968969,Stutzerimonas frequens
+GCF_001482365.1,446860,Kocuria flava
+GCF_002310835.1,43659,Pseudoalteromonas tetraodonis
+GCF_021654455.1,1501662,Streptococcus parasuis
+GCF_001886855.1,2133,Spiroplasma citri
 GCF_000090985.2,296587,Micromonas commoda
+GCF_002849715.1,37928,Arthrobacter crystallopoietes
+GCF_001719165.1,39960,Erythrobacter litoralis
+GCF_013046825.1,154288,Turicibacter sanguinis
+GCF_000011345.1,197221,Thermosynechococcus vestitus BP-1
+GCF_016728365.1,38304,Corynebacterium tuberculostearicum
+GCF_002302565.1,28188,Capnocytophaga canimorsus
+GCF_010727475.1,53462,Mycolicibacterium mageritense
+GCF_008705175.1,223919,Clostridium diolis
+GCF_010727605.1,1784,Mycobacterium simiae
+GCF_001038625.1,536227,Clostridium carboxidivorans P7
+GCF_004117055.1,51101,Brevibacillus agri
+GCF_001441165.1,1748,Acidipropionibacterium acidipropionici
+GCF_001547995.1,1231624,Asaia bogorensis NBRC 16594
+GCF_013372225.1,827,Campylobacter ureolyticus
+GCF_001267885.1,278992,Streptomyces ambofaciens ATCC 23877
+GCF_002234575.2,208479,Enterocloster bolteae
+GCF_000012925.1,269799,Geobacter metallireducens GS-15
+GCF_000511385.1,1423144,Phaeobacter gallaeciensis DSM 26640
+GCF_000013325.1,279238,Novosphingobium aromaticivorans DSM 12444
+GCF_900638015.1,1641,Listeria grayi
+GCF_000208405.1,546271,Selenomonas sputigena ATCC 35185
+GCF_000008305.1,265311,Mesoplasma florum L1
+GCF_000981585.1,1073571,Paenibacillus riograndensis SBR5
+GCF_000010665.1,573370,Solidesulfovibrio magneticus RS-1
+GCF_001742185.1,1175631,Pectobacterium wasabiae CFBP 3304
+GCF_000017305.1,266940,Kineococcus radiotolerans SRS30216 = ATCC BAA-149
+GCF_000020125.1,398527,Paraburkholderia phytofirmans PsJN
+GCF_000304355.2,1201294,Methanoculleus bourgensis MS2
+GCF_030408375.1,144184,Corynebacterium afermentans subsp. lipophilum
+GCF_004803815.1,204,Campylobacter showae
+GCF_001025155.1,518635,Bifidobacterium angulatum DSM 20098 = JCM 7096
+GCF_001655245.1,1354275,Mycolicibacterium vaccae 95051
+GCF_000212695.1,590998,Cellulomonas fimi ATCC 484
+GCF_000284615.1,1163748,Marinobacter nauticus ATCC 49840
+GCF_000020385.1,398767,Trichlorobacter lovleyi SZ
+GCF_000264945.2,861109,Sphingobium indicum B90A
+GCF_002097715.1,265293,Burkholderia ubonensis subsp. mesacidophila
+GCF_000164695.2,762948,Rothia dentocariosa ATCC 17931
+GCF_013372165.1,91353,Campylobacter hyointestinalis subsp. lawsonii
 GCF_947243775.1,226230,Saccharomyces kudriavzevii IFO 1802
+GCF_008704795.1,68270,Streptomyces spectabilis
+GCF_014673495.1,146922,Streptomyces griseofuscus
+GCF_012767755.2,2725477,Pseudomonas tohonis
+GCF_002762215.1,946333,Rhizobacter gummiphilus
+GCF_019645875.1,1796,Mycolicibacterium senegalense
+GCF_900187205.1,93222,Pandoraea sputorum
+GCF_001584145.1,158899,Collimonas fungivorans
+GCF_010731695.1,758802,Mycolicibacterium litorale
+GCF_000973105.1,63186,Zobellia galactanivorans
+GCF_001465595.2,93218,Pandoraea apista
+GCF_001658025.2,497725,Kosakonia oryzae
+GCF_002356315.1,722731,Mycobacterium shigaense
+GCF_021462285.1,42906,Serratia entomophila
+GCF_012427845.1,2108399,Pectobacterium punjabense
+GCF_018075365.1,1473,Virgibacillus pantothenticus
+GCF_021919345.1,29320,Paenarthrobacter nicotinovorans
+GCF_019977755.1,104609,Vibrio penaeicida
+GCF_001975665.1,996801,Polaribacter reichenbachii
+GCF_001007935.1,44574,Nitrosomonas communis
+GCF_016028635.1,2968968,Stutzerimonas degradans
+GCF_000012945.1,482957,Burkholderia lata
+GCF_003367705.1,104336,Microbacterium foliorum
+GCF_900005615.1,34004,Paracoccus aminovorans
+GCF_003628755.1,626937,Christensenella minuta
+GCF_020162115.1,307486,Tepidimonas taiwanensis
+GCF_003860565.1,237258,Cloacibacterium normanense
+GCF_029909795.1,34007,Paracoccus versutus
+GCF_003012915.1,46127,Staphylococcus felis
+GCF_016028295.1,29379,Staphylococcus auricularis
+GCF_002080395.1,28898,Campylobacter helveticus
+GCF_003194085.1,1987356,Aurantimicrobium photophilum
+GCF_001761545.1,155866,Weissella soli
+GCF_004117095.1,79263,Paenibacillus chitinolyticus
+GCF_000014885.1,225849,Shewanella piezotolerans WP3
+GCF_000017845.1,43989,Crocosphaera subtropica ATCC 51142
+GCF_019669905.1,702114,Methylomonas koyamae
+GCF_000016065.1,323850,Shewanella loihica PV-4
+GCF_003860345.1,1219035,Caenibius tardaugens NBRC 16725
+GCF_022674245.1,1450,Alicyclobacillus acidoterrestris
+GCF_029094545.1,79885,Alkalihalophilus pseudofirmus
+GCF_024347635.1,212663,Vibrio tasmaniensis
+GCF_030408675.1,61592,Corynebacterium durum
+GCF_900478045.1,38301,Corynebacterium minutissimum
+GCF_005221305.1,28449,Neisseria subflava
+GCF_019931005.1,46124,Granulicatella adiacens
+GCF_016127475.1,33037,Anaerococcus vaginalis
+GCF_900475675.1,150055,Streptococcus lutetiensis
+GCF_027554905.1,145262,Methanothermobacter thermautotrophicus
+GCF_018394055.1,759620,Weissella ceti
+GCF_000473995.1,1345695,Clostridium saccharobutylicum DSM 13864
+GCF_000143685.1,748727,Clostridium ljungdahlii DSM 13528
+GCF_000022025.1,452863,Pseudarthrobacter chlorophenolicus A6
+GCF_001955735.1,81479,Rhodoferax antarcticus
+GCF_016127955.1,544580,Actinomyces oris
+GCF_000019905.1,262543,Exiguobacterium sibiricum 255-15
+GCF_016724805.1,40545,Sutterella wadsworthensis
+GCF_001457555.1,76857,Fusobacterium polymorphum
+GCF_000724605.1,59505,Actinotignum schaalii
+GCF_900637515.1,39778,Veillonella dispar
+GCF_013372125.1,200,Campylobacter curvus
+GCF_000091665.1,243232,Methanocaldococcus jannaschii DSM 2661
+GCF_000018465.1,436308,Nitrosopumilus maritimus SCM1
+GCF_000195915.1,273075,Thermoplasma acidophilum DSM 1728
+GCF_000012085.2,314724,Borrelia turicatae 91E135
+GCF_000018105.1,329726,Acaryochloris marina MBIC11017
+GCF_002009335.2,897,Desulfococcus multivorans
+GCF_000317675.1,755178,Cyanobacterium aponinum PCC 10605
+GCF_000021325.1,272568,Gluconacetobacter diazotrophicus PA1 5
+GCF_000013025.1,228405,Hyphomonas neptunium ATCC 15444
+GCF_000182745.2,634177,Komagataeibacter medellinensis NBRC 3288
+GCF_000009365.1,393595,Alcanivorax borkumensis SK2
+GCF_000172995.2,469382,Halogeometricum borinquense DSM 11551
+GCF_000022905.1,548476,Corynebacterium aurimucosum ATCC 700975
+GCF_000600005.1,1196094,Snodgrassella alvi wkB2
+GCF_000007225.1,178306,Pyrobaculum aerophilum str. IM2
+GCF_000092785.1,716544,Waddlia chondrophila WSU 86-1044
+GCF_000196855.1,762550,Leuconostoc gasicomitatum LMG 18811
+GCF_001042675.1,864564,Parascardovia denticolens DSM 10105 = JCM 12538
+GCF_000241055.1,1045004,Oenococcus kitaharae DSM 17330
 GCF_947241705.1,226126,Saccharomyces mikatae IFO 1815
+GCF_000024005.1,485918,Chitinophaga pinensis DSM 2588
+GCF_003711105.1,457423,Actinoplanes teichomyceticus ATCC 31121
+GCF_000300005.1,930169,Alloalcanivorax dieselolei B5
+GCF_001887595.1,1440763,Luteibacter rhizovicinus DSM 16549
+GCF_001277235.1,1159554,Cronobacter dublinensis subsp. dublinensis LMG 23823
+GCF_000023865.1,471857,Saccharomonospora viridis DSM 43017
+GCF_000264765.2,667120,Edwardsiella anguillarum ET080813
+GCF_000184685.1,710696,Intrasporangium calvum DSM 43043
+GCF_000355675.1,1298593,Thalassolituus oleivorans MIL-1
+GCF_000190595.1,867900,Cellulophaga lytica DSM 7489
+GCF_000202835.1,926570,Acidiphilium multivorum AIU301
+GCF_025147765.1,411459,Blautia obeum ATCC 29174
+GCF_000017685.1,456481,Leptospira biflexa serovar Patoc strain 'Patoc 1 (Paris)'
+GCF_000012725.1,323098,Nitrobacter winogradskyi Nb-255
+GCF_000024845.1,518766,Rhodothermus marinus DSM 4252
+GCF_900637655.1,28135,Prevotella oris
+GCF_000023965.1,485914,Halomicrobium mukohataei DSM 12286
+GCF_000024285.1,521098,Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446
+GCF_000008465.1,283942,Idiomarina loihiensis L2TR
+GCF_000022205.1,416348,Halorubrum lacusprofundi ATCC 49239
+GCF_000023285.1,521097,Capnocytophaga ochracea DSM 7271
+GCF_000739435.1,743972,Actinobacillus suis ATCC 33415
+GCF_000235405.2,771875,Fervidobacterium pennivorans DSM 9078
+GCF_000016345.1,312153,Polynucleobacter asymbioticus QLW-P1DMWA-1
+GCF_003544835.1,1032239,Aliarcobacter skirrowii CCUG 10374
+GCF_016127275.1,102684,Streptococcus infantarius
+GCF_000024565.1,519441,Streptobacillus moniliformis DSM 12112
+GCF_002139935.1,1031753,Campylobacter lanienae NCTC 13004
+GCF_000284075.1,1105113,Rickettsia rhipicephali str. 3-7-female6-CWPP
+GCF_001027285.1,48,Archangium gephyra
+GCF_015291705.1,858423,Bradyrhizobium arachidis
+GCF_000830005.1,362257,Streptomyces vietnamensis
+GCF_019933235.1,285578,Streptomyces angustmyceticus
+GCF_006716135.1,67282,Streptomyces calvus
+GCF_013389765.1,47853,Micromonospora carbonacea
+GCF_003945385.1,2074,Pseudonocardia autotrophica
+GCF_008932115.1,244734,Bradyrhizobium betae
+GCF_000758725.1,189426,Paenibacillus odorifer
+GCF_003614435.1,1389713,Mycobacterium paragordonae
+GCF_003352185.1,1628086,Pseudomonas kribbensis
+GCF_002355475.1,1149133,Pseudomonas furukawaii
+GCF_002240415.1,172713,Paenibacillus kribbensis
+GCF_001605725.1,83262,Mycobacteroides immunogenum
+GCF_008728195.1,540747,Roseovarius indicus
+GCF_002291445.1,1109412,Brenneria goodwinii
+GCF_006711645.1,1259973,Raoultella electrica
+GCF_001314325.1,33050,Sphingopyxis macrogoltabida
+GCF_003258315.1,1548548,Bradymonas sediminis
+GCF_007995155.1,1742359,Bacillus dafuensis
+GCF_900635955.1,158823,Cedecea lapagei
+GCF_018736065.1,373891,Flammeovirga kamogawensis
+GCF_017352135.1,1138194,Rhizobium lentis
+GCF_028553805.1,405559,Paracoccus saliphilus
+GCF_002770595.1,1265445,Chryseobacterium camelliae
+GCF_002101395.1,1891675,Pantoea alhagi
+GCF_021165935.1,86173,Microbulbifer elongatus
+GCF_000833025.1,480520,Myroides profundi
+GCF_001302565.1,1933880,Glutamicibacter halophytocola
+GCF_003096095.1,139021,Dietzia psychralcaliphila
+GCF_015476235.1,215580,Caldimonas thermodepolymerans
+GCF_019343455.1,2582914,Alcaligenes ammonioxydans
+GCF_028751525.1,1457,Alicyclobacillus cycloheptanicus
+GCF_002844395.1,1677857,Acetivibrio saccincola
+GCF_013283835.1,1904463,Poseidonibacter lekithochrous
+GCF_000355765.4,1288494,Nitrosospira lacus
+GCF_030408755.1,131318,Corynebacterium felinum
+GCF_000599985.1,1196095,Gilliamella apicola
+GCF_003966655.1,1232575,Acidithiobacillus ferridurans
+GCF_003544855.1,505249,Malaciobacter marinus
+GCF_005280275.1,1908198,Salinivibrio kushneri
+GCF_001187595.1,198467,Anoxybacillus gonensis
+GCF_003966915.1,1553431,Mycoavidus cysteinexigens
+GCF_004564075.1,904291,Microbacterium sediminis
+GCF_003795145.1,290335,Tetragenococcus koreensis
+GCF_001685435.2,1230341,Salimicrobium jeotgali
+GCF_000807275.1,1267021,Frischella perrara
+GCF_030408435.1,99807,Corynebacterium auriscanis
+GCF_030408395.1,1190508,Corynebacterium aquatimens
+GCF_000980815.1,161896,Corynebacterium camporealensis
+GCF_900478035.1,1724,Corynebacterium renale
+GCF_002982135.1,114090,Pediococcus inopinatus
+GCF_003609975.1,1917441,Streptococcus ruminantium
+GCF_014397255.1,1162633,Weissella diestrammenae
+GCF_001687475.2,1813019,Campylobacter hepaticus
+GCF_000699505.1,529884,Rhodoluna lacicola
+GCF_001305595.1,528244,Azospirillum thiophilum
+GCF_024498275.1,92758,Mycoplasmoides fastidiosum
+GCF_900660515.1,29553,Mycoplasmopsis bovirhinis
+GCF_014701115.1,47760,Streptomyces aurantiacus
+GCF_002263495.1,1235441,Nocardiopsis gilva YIM 90087
+GCF_001936175.1,418223,Methylobacterium phyllosphaerae
+GCF_018966525.1,1333845,Paenibacillus sophorae
+GCF_009769165.1,56455,Xanthomonas hyacinthi
+GCF_008931805.1,1202962,Moritella marina ATCC 15381
+GCF_000968535.2,1091494,Methylotuvimicrobium alcaliphilum 20Z
+GCF_001562195.1,233316,Alteromonas stellipolaris
+GCF_900475855.1,333962,Providencia heimbachae
+GCF_001955715.1,1484693,Rhodoferax saidenbachensis
+GCF_000968195.1,351671,Xenorhabdus doucetiae
+GCF_004124315.2,2487276,Bacillus cabrialesii
+GCF_002214645.1,164759,Diaphorobacter nitroreducens
+GCF_009646115.1,470933,Pantoea eucalypti
+GCF_000767465.1,1088721,Novosphingobium pentaromativorans US6-1
+GCF_000230715.2,797304,Natronobacterium gregoryi SP2
+GCF_003010915.2,256821,Gulosibacter molinativorax
+GCF_001687585.2,1215089,Planococcus halocryophilus
+GCF_022788655.1,225422,Sulfitobacter indolifex
+GCF_002902965.1,169430,Paraburkholderia hospita
+GCF_007970465.1,863239,Corynebacterium nuruki S6-4
+GCF_019047805.1,134034,Corynebacterium freneyi
+GCF_000196895.1,795797,Halalkalicoccus jeotgali B3
+GCF_003444775.1,317577,Deinococcus ficus
+GCF_008151785.1,89152,Peptacetobacter hiranonis
+GCF_013340845.1,28885,Hydrogenovibrio marinus
+GCF_023520795.1,38284,Corynebacterium accolens
+GCF_000195975.1,84588,Parasynechococcus marenigrum WH 8102
+GCF_900638305.1,36874,Porphyromonas cangingivalis
+GCF_030408415.1,1161099,Corynebacterium appendicis CIP 107643
+GCF_000504105.1,1123384,Pseudothermotoga hypogea DSM 11164 = NBRC 106472
+GCF_900476255.1,393921,Porphyromonas crevioricanis
+GCF_900475915.1,28264,Arcanobacterium haemolyticum
+GCF_016726485.1,54005,Peptoniphilus harei
+GCF_000164905.1,608538,Hydrogenobacter thermophilus TK-6
+GCF_000017945.1,453591,Ignicoccus hospitalis KIN4/I
+GCF_900476125.1,45363,Metamycoplasma alkalescens
+GCF_900660695.1,29561,Mycoplasmopsis meleagridis
+GCF_002305895.1,1189310,Corallococcus macrosporus DSM 14697
+GCF_900637185.1,1824,Nocardia asteroides
+GCF_000756615.1,44251,Paenibacillus durus
+GCF_000018685.1,357809,Lachnoclostridium phytofermentans ISDg
+GCF_025148125.1,1121115,Blautia wexlerae DSM 19850
+GCF_000192865.1,717774,Marinomonas mediterranea MMB-1
+GCF_002043005.1,1122214,Martelella mediterranea DSM 17316
+GCF_000300235.2,1123366,Thalassospira xiamenensis M-5 = DSM 17429
+GCF_001277175.1,1074000,Cronobacter universalis NCTC 9529
+GCF_000340435.2,1202450,Mycobacterium haemophilum DSM 44634
+GCF_001951155.1,1229726,Christiangramia flava JLT2011
+GCF_001444405.1,161398,Pseudoalteromonas phenolica
+GCF_000236665.1,640081,Azospira oryzae PS
+GCF_016026395.1,93378,Edwardsiella hoshinae
+GCF_000218565.1,504832,Afipia carboxidovorans OM5
+GCF_000800395.1,57497,Deinococcus radiopugnans
+GCF_000025485.1,572477,Allochromatium vinosum DSM 180
+GCF_000210915.2,862908,Halobacteriovorax marinus SJ
+GCF_001050115.1,1479,Bacillus smithii
+GCF_000014185.1,266117,Rubrobacter xylanophilus DSM 9941
+GCF_001042635.1,1150461,Bifidobacterium scardovii JCM 12489 = DSM 13734
+GCF_000011305.1,196164,Corynebacterium efficiens YS-314
+GCF_000092205.1,589865,Desulfurivibrio alkaliphilus AHT 2
+GCF_900187295.1,35757,Corynebacterium cystitidis
+GCF_000331995.1,1121335,Thermoclostridium stercorarium subsp. stercorarium DSM 8532
+GCF_011067105.1,1288484,Deinococcus wulumuqiensis R12
+GCF_000344785.1,1121353,Corynebacterium callunae DSM 20147
+GCF_900187045.1,1863,Dermatophilus congolensis
+GCF_000698785.1,926571,Nitrososphaera viennensis EN76
+GCF_006542335.1,661191,Neokomagataea tanensis
+GCF_900187235.1,43771,Corynebacterium urealyticum
+GCF_000019085.1,340099,Thermoanaerobacter pseudethanolicus ATCC 33223
+GCF_007990545.2,157687,Leptotrichia wadei
+GCF_005221285.1,484,Neisseria flavescens
+GCF_001543285.1,1377,Aerococcus viridans
+GCF_016889385.1,735,Haemophilus parahaemolyticus
+GCF_000018945.1,309803,Thermotoga neapolitana DSM 4359
+GCF_000018365.1,523850,Thermococcus onnurineus NA1
+GCF_000011125.1,272557,Aeropyrum pernix K1
+GCF_001543105.1,87541,Aerococcus christensenii
+GCF_001936335.1,1423721,Amylolactobacillus amylophilus DSM 20533 = JCM 1125
+GCF_000331735.1,1278073,Myxococcus stipitatus DSM 14675
+GCF_000255295.1,1144275,Corallococcus coralloides DSM 2259
+GCF_000023125.1,471854,Dyadobacter fermentans DSM 18053
+GCF_000757795.1,693986,Methylobacterium oryzae CBMB20
+GCF_001908725.1,925775,Xanthomonas vesicatoria ATCC 35937
+GCF_029318685.1,588581,Ruminiclostridium papyrosolvens DSM 2782
+GCF_002006355.2,1121310,Clostridium felsineum DSM 794
+GCF_000731315.1,1028800,Neorhizobium galegae bv. orientalis str. HAMBI 540
+GCF_000092225.1,521096,Tsukamurella paurometabola DSM 20162
+GCF_001277195.1,1159613,Cronobacter muytjensii ATCC 51329
+GCF_000025965.1,76114,Aromatoleum aromaticum EbN1
+GCF_000215705.1,365046,Ramlibacter tataouinensis TTB310
+GCF_000022065.1,394503,Ruminiclostridium cellulolyticum H10
+GCF_000214375.1,545694,Treponema primitia ZAS-2
+GCF_000238395.3,1117313,Pseudoalteromonas arctica A 37-1-2
+GCF_000144605.1,633149,Brevundimonas subvibrioides ATCC 15264
+GCF_000568815.1,1150621,Sulfurospirillum multivorans DSM 12446
+GCF_000018885.1,288705,Renibacterium salmoninarum ATCC 33209
+GCF_000093025.1,666681,Methylotenera versatilis 301
+GCF_000016545.1,351627,Caldicellulosiruptor saccharolyticus DSM 8903
+GCF_000024185.1,634498,Methanobrevibacter ruminantium M1
+GCF_000014725.1,335541,Syntrophomonas wolfei subsp. wolfei str. Goettingen G311
+GCF_024181585.1,69713,Treponema socranskii subsp. buccale
+GCF_002951835.1,641147,Simonsiella muelleri ATCC 29453
+GCF_026000775.1,1293586,Vulcanisaeta souniana JCM 11219
+GCF_000023325.1,521045,Kosmotoga olearia TBF 19.5.1
+GCF_000146185.1,515620,[Eubacterium] eligens ATCC 27750
+GCF_000016845.1,444178,Brucella ovis ATCC 25840
+GCF_000143845.1,633147,Olsenella uli DSM 7084
+GCF_000151105.2,391623,Thermococcus barophilus MP
+GCF_000163895.2,546269,Filifactor alocis ATCC 35896
+GCF_000144405.1,553174,Prevotella melaninogenica ATCC 25845
+GCF_000195935.2,272844,Pyrococcus abyssi GE5
+GCF_900660615.1,2116,Malacoplasma iowae
+GCF_000166935.1,272951,Rickettsia sibirica 246
+GCF_000200735.1,941640,Mycoplasma haemofelis str. Langford 1
+GCF_001302585.1,860235,Kibdelosporangium phytohabitans
+GCF_025264705.1,35754,Dactylosporangium aurantiacum
+GCF_001542625.1,68214,Streptomyces griseochromogenes
+GCF_000737325.1,927083,Sandaracinus amylolyticus
+GCF_027626975.1,1920,Streptomyces nigrescens
+GCF_017639205.1,66374,Streptomyces nojiriensis
+GCF_010119975.1,2704465,Rhodocytophaga rosea
+GCF_000732925.1,208439,Amycolatopsis japonica
+GCF_021044685.1,993502,Bradyrhizobium daqingense
+GCF_001013905.1,1437453,Streptomyces leeuwenhoekii
+GCF_002355595.1,477680,Filimonas lacunae
+GCF_002157835.1,482462,Mycobacterium dioxanotrophicus
+GCF_009299385.1,67260,Streptomyces cinereoruber
+GCF_004114975.1,1325090,Bradyrhizobium guangdongense
+GCF_002752675.1,2045208,Massilia violaceinigra
+GCF_024296925.1,2961896,Pseudomonas nunensis
+GCF_003097515.1,2174846,Streptomyces tirandamycinicus
+GCF_026642255.1,1323731,Streptomonospora nanhaiensis
+GCF_003122365.1,1690221,Streptomyces spongiicola
+GCF_013170785.1,1777867,Mesorhizobium jarvisii
+GCF_002240355.1,530584,Prauserella marina
+GCF_001661075.1,1853130,Pseudomonas silesiensis
+GCF_022370755.2,134601,Mycolicibacterium goodii
+GCF_004786035.1,2505979,Pseudomonas viciae
+GCF_002234535.1,1470176,Actinoalloteichus hoggarensis
+GCF_018398935.1,1123043,Telmatocola sphagniphila
+GCF_937425535.1,504468,Rhodovastum atsumiense
+GCF_001594225.2,1785145,Pseudomonas glycinae
+GCF_002162375.1,141451,Oleiphilus messinensis
+GCF_001741865.1,1526658,Bosea vaviloviae
+GCF_002355435.1,1550579,Mucilaginibacter gotjawali
+GCF_001747425.1,340345,Actinoalloteichus hymeniacidonis
+GCF_010726085.1,39691,Mycolicibacterium moriokaense
+GCF_001465545.3,93219,Pandoraea norimbergensis
+GCF_003584645.1,1432792,Methylocaldum marinum
+GCF_008807375.1,2604832,Pseudomonas lalkuanensis
+GCF_014268455.2,2745512,Pseudomonas shahriarae
+GCF_900637195.1,1791,Mycolicibacterium aurum
+GCF_010729105.1,220927,Mycobacterium saskatchewanense
+GCF_002119765.1,1235591,Pseudorhodoplanes sinuspersici
+GCF_010728925.1,1794,Mycolicibacterium gadium
+GCF_003143515.1,945844,Massilia oculi
+GCF_001988955.1,1178516,Spirosoma montaniterrae
+GCF_000968375.1,1548,Clostridium scatologenes
+GCF_010977555.1,2010972,Caulobacter rhizosphaerae
+GCF_026651875.1,392011,Alicyclobacillus fastidiosus
+GCF_003096175.1,332101,Clostridium drakei
+GCF_003722335.1,1679497,Caulobacter flavus
+GCF_008329645.1,1552759,Mycobacterium grossiae
+GCF_000972785.3,573737,Pandoraea oxalativorans
+GCF_002291425.1,929813,Gibbsiella quercinecans
+GCF_019797865.1,1437009,Chenggangzhangella methanolivorans
+GCF_004358345.1,342950,Parashewanella spongiae
+GCF_000973725.1,400092,Pontibacter korlensis
+GCF_003574835.2,483545,Thermobifida halotolerans
+GCF_014218335.1,433286,Anaerocolumna cellulosilytica
+GCF_017894385.1,76116,Aromatoleum petrolei
+GCF_024734075.1,2665643,Gordonia mangrovi
+GCF_001421015.2,1616788,Paenibacillus bovis
+GCF_019645855.1,1780,Mycobacterium malmoense
+GCF_000522985.1,861299,Gemmatirosa kalamazoonensis
+GCF_002263515.1,414996,Actinopolyspora erythraea
+GCF_001029105.3,656179,Pandoraea faecigallinarum
+GCF_018736045.1,367791,Flammeovirga yaeyamensis
+GCF_019645815.1,512402,Mycolicibacter heraklionensis
+GCF_002075795.1,93973,Shewanella japonica
 GCF_001640025.1,796027,Sugiyamaella lignohabitans
+GCF_019047765.1,1563222,Citrobacter pasteurii
+GCF_020181655.1,2878098,Pectobacterium colocasium
+GCF_023208015.1,53522,Thermobifida alba
+GCF_002201795.1,889453,Alkalitalea saponilacus
+GCF_014236795.1,56464,Xanthomonas theicola
+GCF_000695095.2,1379270,Gemmatimonas phototrophica
+GCF_001611675.1,388950,Pontibacter akesuensis
+GCF_016801025.1,1335043,Paradevosia shaoguanensis
+GCF_011068285.1,2698672,Allomuricauda oceani
+GCF_019670005.1,1760988,Methylomagnum ishizawai
+GCF_001273775.1,42253,Nitrospira moscoviensis
+GCF_002080475.1,1497,Clostridium formicaceticum
+GCF_002355335.1,1333996,Variibacter gotjawalensis
+GCF_028532485.1,467976,Iamia majanohamensis
+GCF_900637545.1,73010,Aeromonas encheleia
+GCF_003368325.1,1761016,Paraburkholderia caffeinilytica
+GCF_000819565.1,1208324,Celeribacter indicus
+GCF_017357225.1,1138190,Rhizobium binae
+GCF_002285635.2,558152,Chryseobacterium piperi
+GCF_009176645.1,2478464,Enterobacter oligotrophicus
+GCF_001017775.3,445709,Pandoraea thiooxydans
+GCF_021029445.1,2906062,Pseudomonas wenzhouensis
+GCF_024918935.1,1574269,Polaribacter undariae
+GCF_017894365.1,76115,Aromatoleum bremense
+GCF_003970735.1,1826607,Silicimonas algicola
+GCF_020991125.1,435905,Microbulbifer celer
+GCF_013488225.1,375549,Sinorhizobium mexicanum
+GCF_000730385.1,589873,Alteromonas australica
+GCF_009756665.1,1510150,Permianibacter aggregans
+GCF_003815915.1,254,Chryseobacterium indoltheticum
+GCF_026427595.1,1632866,Alkalimarinus sediminis
+GCF_009931115.1,48074,Microbulbifer hydrolyticus
+GCF_001042715.1,84022,Clostridium aceticum
+GCF_013466785.1,419476,Nocardioides marinisabuli
+GCF_011399095.1,115561,Halomonas hydrothermalis
+GCF_002355375.1,1500254,Aneurinibacillus soli
+GCF_005952805.1,392593,Inhella inkyongensis
+GCF_002096055.1,1619308,Cnuibacter physcomitrellae
+GCF_902502825.2,1335061,Pseudorhizobium flavum
+GCF_011046555.1,797291,Sphingobacterium lactis
+GCF_022647325.1,470932,Pantoea deleyi
+GCF_002847445.1,1077935,Paracoccus zhejiangensis
+GCF_002407065.1,1331682,Brachybacterium ginsengisoli
+GCF_026409565.1,2599305,Sneathiella aquimaris
+GCF_001940525.2,1915078,Thioclava nitratireducens
+GCF_026013645.1,1216297,Virgibacillus natechei
+GCF_001414055.1,69395,Caulobacter henricii
+GCF_019915265.1,2672567,Bacillus aquiflavi
+GCF_014784055.1,1888915,Polaribacter haliotis
+GCF_004135285.1,2509458,Microbacterium protaetiae
+GCF_002224645.1,51515,Dehalobacterium formicoaceticum
+GCF_001922305.1,96773,Thauera chlorobenzoica
+GCF_003590145.2,1537215,Pseudooceanicola algae
+GCF_001402875.1,1079,Blastochloris viridis
+GCF_003355475.1,556288,Brachybacterium saurashtrense
+GCF_008932245.1,1752398,Sinorhizobium alkalisoli
+GCF_004135405.1,2509455,Agromyces protaetiae
+GCF_001187785.1,1579979,Wenzhouxiangella marina
+GCF_002157205.1,157779,Kushneria marisflavi
+GCF_028553785.1,658446,Paracoccus fistulariae
+GCF_017352095.1,370324,Natrinema longum
+GCF_030406665.1,29573,Halomonas halophila
+GCF_008630635.1,1031538,Neptunomonas concharum
+GCF_022869165.1,1129264,Sphaerochaeta associata
+GCF_024300825.1,1046043,Natronomonas gomsonensis
+GCF_001028705.1,1348774,Croceicoccus naphthovorans
+GCF_014681765.1,564137,Roseicitreum antarcticum
+GCF_002906655.1,1534743,Vibrio hyugaensis
+GCF_002221505.1,28109,Pseudoalteromonas nigrifaciens
+GCF_003966975.1,913107,Pelolinea submarina
+GCF_002009235.1,1598147,Planococcus faecalis
+GCF_001465835.2,1374,Planococcus kocurii
+GCF_006337125.1,767452,Serinicoccus chungangensis
+GCF_003856835.1,660522,Haloplanus aerogenes
+GCF_000953655.1,449,Legionella hackeliae
+GCF_028607105.1,2282397,Novosphingobium humi
+GCF_001547935.1,1435069,Vibrio tritonius
+GCF_001974985.1,36805,Microbacterium aurum
+GCF_017161425.1,2029849,Marinicauda algicola
+GCF_001971705.1,588898,Natronorubrum daqingense
+GCF_001008165.2,1267766,Croceibacterium atlanticum
+GCF_018798885.1,2840474,Gemmobacter fulvus
+GCF_011046895.1,451876,Rhizobium rhizoryzae
+GCF_010450875.1,424800,Sphingomonas insulae
+GCF_002804065.1,2055160,Kyrpidia spormannii
+GCF_002788215.1,1073996,Halohasta litchfieldiae
+GCF_002504165.1,1411902,Pacificitalea manganoxidans
+GCF_001455205.1,44577,Nitrosomonas ureae
+GCF_001688845.2,1796646,Muribaculum intestinale
+GCF_004135935.1,569860,Methylovirgula ligni
+GCF_900638245.1,266749,Kaistella jeonii
+GCF_000975265.2,480418,Mycobacterium lepromatosis
+GCF_001507665.1,1768108,Deinococcus actinosclerus
+GCF_024347475.1,212667,Vibrio fortis
+GCF_000024825.1,150340,Vibrio antiquarius
+GCF_025758395.1,344163,Microbacterium terricola
+GCF_001187845.1,1458307,Octadecabacter temperatus
+GCF_001997295.1,1610493,Tessaracoccus flavus
+GCF_009938225.1,265668,Vibrio ponticus
+GCF_010669145.1,2267833,Rhizobium oryzihabitans
+GCF_900637895.1,266748,Kaistella antarctica
+GCF_000260985.4,754476,Methylophaga nitratireducenticrescens
+GCF_900637635.1,456,Legionella jordanis
+GCF_004011095.1,33887,Rathayibacter rathayi
+GCF_001308265.1,1397108,Celeribacter marinus
+GCF_013201725.1,873191,Arcobacter defluvii
+GCF_006459125.1,877500,Halarcobacter anaerophilus
+GCF_002278075.1,2026199,Paraburkholderia aromaticivorans
+GCF_003344925.1,1784713,Flavobacterium arcticum
+GCF_014898175.1,1603886,Bifidobacterium lemurum
+GCF_000242915.1,929558,Sulfurimonas gotlandica GD1
+GCF_011047135.1,1526412,Microbacterium endophyticum
+GCF_021233435.1,223182,Halobacterium noricense
+GCF_001028625.1,543877,Pelagerythrobacter marensis
+GCF_002117085.1,323273,Nonlabens tegetincola
+GCF_001634285.1,294699,Anoxybacillus amylolyticus
+GCF_002356555.2,1052,Halorhodospira halochloris
+GCF_000470655.1,1033806,Halorhabdus tiamatea SARL4B
+GCF_003589745.1,617123,Lachnoanaerobaculum umeaense
+GCF_000755145.1,221027,Treponema putidum
+GCF_028553745.1,184748,Paracoccus seriniphilus
+GCF_001941465.1,28028,Corynebacterium flavescens
+GCF_008838325.1,2601677,Tepidiforma bonchosmolovskayae
+GCF_003606365.2,2304606,Companilactobacillus zhachilii
+GCF_028743495.1,570278,Allobacillus halotolerans
+GCF_003019255.1,29384,Staphylococcus kloosii
+GCF_028609865.1,1414719,Corynebacterium jeddahense
+GCF_000214725.1,868131,Methanobacterium paludis
+GCF_011046975.1,936337,Microbacterium amylolyticum
+GCF_001971585.1,1847728,Companilactobacillus allii
+GCF_902702935.1,2719119,Corynebacterium rouxii
+GCF_001643775.1,79604,Denitrobacterium detoxificans
+GCF_900187165.1,1494,Clostridium cochlearium
+GCF_014058425.1,2714036,Companilactobacillus pabuli
+GCF_000763575.1,2325,Thermoanaerobacter kivui
+GCF_028609845.1,2055947,Corynebacterium heidelbergense
+GCF_013201705.1,1564138,Aliarcobacter faecis
+GCF_016767175.1,1278232,Keratinibaculum paraultunense
+GCF_011207455.1,1936021,Thermosulfuriphilus ammonigenes
+GCF_001636015.1,29433,Moraxella ovis
+GCF_000723465.1,1160721,Ruminococcus bicirculans (ex Wegman et al. 2014)
+GCF_008806995.1,492,Neisseria animalis
+GCF_003574215.1,297,Hydrogenophilus thermoluteolus
+GCF_002211785.1,549298,Francisella halioticida
+GCF_014541205.1,2770636,Mannheimia bovis
+GCF_020889625.1,32062,Deinococcus radiophilus
+GCF_001886955.1,1873524,Halodesulfurarchaeum formicicum
+GCF_003290445.1,2007306,Francisella adeliensis
+GCF_001412615.1,1273541,Pyrodictium delaneyi
+GCF_001889405.1,2177,Methanohalophilus halophilus
+GCF_004299785.2,1935204,Arcobacter porcinus
+GCF_029632765.1,1803177,Arcanobacterium wilhelmae
+GCF_002278035.1,271865,[Ochrobactrum] quorumnocens
+GCF_000743945.1,1072685,Basilea psittacipulmonis DSM 24701
+GCF_000517445.1,582419,Thermococcus paralvinellae
+GCF_013177655.1,449520,Campylobacter canadensis
+GCF_001602095.1,1591088,Helicobacter himalayensis
+GCF_002078355.1,74969,Ferroplasma acidiphilum
+GCF_005083985.2,1424653,Caminibacter pacificus
+GCF_013372205.1,202,Campylobacter mucosalis
+GCF_000737865.1,1687,Bifidobacterium coryneforme
+GCF_012222965.1,1085647,Allofrancisella inopinata
+GCF_001989575.1,1817405,Abyssicoccus albus
+GCF_024397795.1,151781,Lactobacillus intestinalis
+GCF_000736415.1,1244531,Campylobacter iguaniorum
+GCF_013201645.1,1448857,Campylobacter corcagiensis
+GCF_013201605.1,1848766,Campylobacter ornithocola
+GCF_013372105.1,2505970,Campylobacter armoricus
+GCF_002355535.1,708131,Aurantimicrobium minutum
+GCF_004359375.1,1720083,Acetilactobacillus jinshanensis
+GCF_002795265.1,2139,Spiroplasma clarkii
+GCF_019357495.1,489910,Nosocomiicoccus ampullae
+GCF_008245045.1,1031542,Campylobacter volucris
+GCF_023167465.1,680118,Methanothermobacter tenebrarum
+GCF_000402035.1,758793,Caballeronia insecticola
+GCF_001854225.1,535712,Candidatus Rhodoluna planktonica
 GCA_029542845.1,180528,Malassezia nana
+GCF_001262715.1,216946,Spiroplasma turonicum
 GCA_029542905.1,1514897,Malassezia arunalokei
+GCF_000941075.1,86660,Mesomycoplasma dispar
+GCF_900660495.1,29556,Mycoplasmopsis gallinacea
 GCA_029542785.1,223818,Malassezia japonica
+GCF_024918975.1,51364,Mycoplasma cottewii
+GCF_002749675.1,2149,Mesoplasma entomophilum
 GCF_029542925.1,2020962,Malassezia vespertilionis
-GCA_029449355.1,2070801,Emydomyces testavorans
-GCF_027921745.1,2545709,Schizosaccharomyces osmophilus
-GCF_001548555.1,45286,Eremothecium sinecaudum
-GCF_014133895.1,48254,Torulaspora globosa
-GCF_005498985.1,280036,Sporisorium graminicola
-GCA_021950295.1,2834323,Epichloe scottii
-GCF_011074865.1,13502,Brettanomyces nanus
-GCA_026585945.1,2093215,[Candida] vulturna (nom. inval.)
-GCA_020342235.1,2826930,Saccharomycopsis phalluae
-GCA_029542985.1,1821822,Malassezia brasiliensis
-GCA_029542945.1,76774,Malassezia obtusa
-GCA_029542805.1,948313,Malassezia cuniculi
-GCA_029542765.1,1821823,Malassezia psittaci
-GCA_029542965.1,253288,Malassezia yamatoensis
-GCA_029542885.1,1381934,Malassezia caprae
-GCF_000002765.6,36329,Plasmodium falciparum 3D7
-GCF_030704535.1,29760,Vitis vinifera
-GCF_013085055.1,660027,Fusarium oxysporum Fo47
-GCF_022201045.2,2711,Citrus sinensis
-GCF_019923935.1,89462,Bubalus bubalis
-GCF_000143535.2,332648,Botrytis cinerea B05.10
-GCF_016906535.1,456999,Rhizoctonia solani
-GCF_001417885.1,1003335,Kluyveromyces marxianus DMKU3-1042
-GCA_019925255.1,151069,Litchi chinensis
-GCF_000002725.2,347515,Leishmania major strain Friedlin
-GCF_002022765.2,6565,Crassostrea virginica
-GCF_900002385.2,5861,Plasmodium yoelii
-GCA_025917655.1,3076,Chlorella sorokiniana
-GCF_000002515.2,28985,Kluyveromyces lactis
-GCF_009556855.1,37727,Talaromyces marneffei
-GCF_023724105.1,101364,Carassius gibelio
-GCF_000091205.1,280699,Cyanidioschyzon merolae strain 10D
-GCA_947243795.1,230603,Saccharomyces uvarum
-GCF_000687475.1,1159556,Ustilaginoidea virens
-GCA_030272155.1,3088,Tetradesmus obliquus
-GCF_026914185.1,208348,Puccinia triticina
-GCA_018223645.1,660624,Jasminum sambac
-GCA_001571465.2,128442,Talaromyces pinophilus
-GCA_026958235.1,29856,Clonostachys rosea
-GCF_016861625.1,1069201,Aspergillus luchuensis
-GCF_000226095.1,573729,Thermothelomyces thermophilus ATCC 42464
-GCF_011074885.1,5007,Brettanomyces bruxellensis
-GCA_028456135.1,106567,Malus sieversii
-GCA_019431265.1,4931,Saccharomyces bayanus
-GCA_005317125.1,5659,Leishmania amazonensis
-GCA_001010845.1,49012,Sporisorium scitamineum
-GCF_024364675.1,116153,Aethina tumida
-GCA_001936155.1,4944,Saccharomycopsis fibuligera
-GCF_003290485.1,76775,Malassezia restricta
-GCA_014334815.1,97480,Pyrenophora teres f. maculata
-GCA_025948275.1,40199,Fusarium avenaceum
-GCA_003999685.1,2696576,Taiwanofungus camphoratus
-GCA_022641835.1,36022,Cyberlindnera fabianii
-GCA_004299825.1,438356,Cercospora sojina
-GCA_008728235.1,688394,Lichtheimia ramosa
-GCA_003814445.1,877507,Epichloe festucae Fl1
-GCF_022458985.1,48193,Mugil cephalus
-GCA_022457165.1,91218,Juglans mandshurica
-GCA_025258505.1,282267,Fusarium asiaticum
-GCA_028476895.1,93132,Tetranychus truncatus
-GCA_025854295.1,64660,Lyophyllum decastes
-GCF_016861735.1,182096,Aspergillus chevalieri
-GCA_002952155.1,48100,Alternaria solani
-GCA_020912385.1,310453,Neofusicoccum parvum
-GCF_004011695.2,5454,Ascochyta rabiei
-GCA_025617385.1,159030,Murraya koenigii
-GCA_903995115.1,59799,Angomonas deanei
-GCA_008274985.1,41058,Aspergillus sojae
-GCF_000091025.4,284811,Eremothecium gossypii ATCC 10895
-GCF_000740895.1,869250,Theileria orientalis strain Shintoku
-GCA_029959215.1,51221,Tricholoma bakamatsutake
-GCA_020809705.1,182845,Calonectria ilicicola
-GCA_026184415.1,47278,Trichothecium roseum
-GCA_003401635.1,27327,Metschnikowia reukaufii
-GCA_032464415.1,64657,Tremella fuciformis
-GCA_002287475.2,2282107,Pyrrhoderma noxium
-GCA_024970365.1,5670,Leishmania guyanensis
-GCA_023205875.1,1764295,Chloropicon primus
-GCA_019677325.2,5321,Pleurotus cornucopiae
-GCF_020509005.1,5499,Fulvia fulva
-GCA_024072835.1,42805,Epichloe amarillans
-GCF_000092065.1,436017,Ostreococcus lucimarinus CCE9901
-GCF_023278565.1,145971,Colletotrichum lupini
-GCA_013177335.1,252803,Apiotrichum mycotoxinovorans
-GCA_023658445.1,79588,Epichloe bromicola
-GCA_023101225.1,2747967,Fusarium solani-melongenae
-GCF_016861865.1,1220207,Aspergillus puulaauensis
-GCF_026873545.1,195108,Fusarium falciforme
-GCA_030168465.1,54551,Pichia terricola
-GCA_004014935.1,44092,Saccharomycopsis malanga
-GCF_022605165.1,2060973,Purpureocillium takamizusanense
-GCA_004217705.1,2163413,Metschnikowia aff. pulcherrima
-GCA_007735645.1,50376,Venturia effusa
-GCA_009938135.1,55194,Malassezia furfur
-GCA_001984395.2,1365886,Zygosaccharomyces parabailii
-GCA_900080155.1,307758,Ustilago bromivora
-GCA_016952355.1,5516,Fusarium culmorum
-GCF_000226115.1,578455,Thermothielavioides terrestris NRRL 8126
-GCA_023658475.1,55200,Epichloe elymi
-GCA_029678045.1,1095183,Magnusiomyces capitatus
-GCA_030389615.1,1181997,Epichloe typhina subsp. poae
-GCA_023701655.1,2918886,Ovis ammon polii x Ovis aries
-GCA_032355295.1,282269,Fusarium meridionale
-GCA_019565615.1,1491479,Trichoderma simmonsii
-GCF_013368755.1,121627,Talaromyces rugulosus
-GCA_025177825.1,326768,Aechmea fasciata
-GCA_023920165.1,95742,Curvularia clavata
-GCA_001592805.2,286661,Peltaster fructicola
-GCA_015708445.2,648681,Clitopilus hobsonii
-GCA_004299765.1,28572,Talaromyces funiculosus
-GCF_900681995.1,54757,Plasmodium vinckei vinckei
-GCA_019453435.1,1263952,Rhinogobius similis
-GCF_013402915.1,42260,Zygotorulaspora mrakii
-GCA_017301755.1,38082,Pneumocystis wakefieldiae
-GCA_023650705.1,79589,Epichloe brachyelytri
-GCA_023658535.1,79591,Epichloe glyceriae
-GCA_023658505.1,447254,Epichloe gansuensis
-GCA_031232105.1,462292,Capsicum rhomboideum
-GCA_024584535.1,1543685,Colletotrichum gigasporum
-GCA_029489945.1,2022760,Nigrospora osmanthi
-GCA_020045945.2,1491008,Trichoderma semiorbis
-GCA_029635245.1,1254446,Nannizziopsis arthrosporioides
-GCA_023650635.1,47801,Epichloe baconii
-GCA_023273805.1,271129,Exobasidium cylindrosporum
-GCA_026210745.1,63378,Exobasidium rhododendri
-GCA_015678955.1,2029752,Chrysoporthe puriensis
-GCA_917563905.1,78403,Neonectria neomacrospora
-GCA_017354895.1,48703,Podospora comata
-GCA_016413765.1,1287682,Aspergillus felis
-GCA_020906515.1,143232,Vanrija pseudolonga
-GCA_022965775.1,2929575,Cercospora sp. J1 LZ-2022
-GCA_021117315.1,1276217,Immersiporthe knoxdaviesiana
-GCA_946409495.1,44072,Blastobotrys aristatus
-GCA_016906575.1,170446,Ceratobasidium sp. AG-Ba
-GCA_030864445.1,279322,Cutaneotrichosporon cavernicola
-GCA_030864385.1,3040995,Cutaneotrichosporon sp. HIS471
-GCA_003955835.1,91925,Exophiala lecanii-corni
-GCA_024114885.1,215465,Septoria linicola
-GCA_917563935.1,5697,Trypanosoma evansi
-GCA_003856775.1,717741,Hyphopichia pseudoburtonii
-GCA_024752435.1,1484957,Allantophomopsis cytisporea
-GCA_024752465.1,334518,Allantophomopsis lycopodina
-GCA_016767195.1,2802321,Stagonosporopsis rhizophila
-GCA_000412225.2,566037,[Ashbya] aceris (nom. inval.)
-GCA_030370665.1,211097,Hanseniaspora meyeri
-GCA_031851675.1,5493,[Candida] zeylanoides
-GCA_029542865.1,1381935,Malassezia equina
-GCA_030078075.1,3034688,Crithidia sp. LVH-60A
-GCA_026636295.1,2885156,Trebouxiophyceae sp. M-hakoo 311
-GCA_946403475.1,1143185,Torulaspora quercuum
-GCA_029542825.1,3031751,Malassezia sp. CBS 17886
-GCA_013694445.1,2792677,Torulaspora sp. CBS 2947
-GCA_031892065.1,2138604,Cryptosporidium sp. 43IA8
-GCA_014826065.1,249478,Anthracocystis panici-leucophaei
-GCA_029952725.1,392538,Salmacisia buchloeana
-GCA_900290405.1,1987369,Saccharomyces jurei
-GCF_000002545.3,5478,Nakaseomyces glabratus
-GCF_000006445.2,284592,Debaryomyces hansenii CBS767
-GCF_002079055.1,27291,Saccharomyces paradoxus
-GCF_000237345.1,1064592,Naumovozyma castellii CBS 4309
-GCF_000026365.1,4956,Zygosaccharomyces rouxii
-GCF_000243375.1,4950,Torulaspora delbrueckii
-GCA_025722995.1,1642459,Phytophthora agathidicida
-GCF_000142805.1,559295,Lachancea thermotolerans CBS 6340
-GCF_000304475.1,1071382,Kazachstania africana CBS 2517
-GCF_000315915.1,1071380,Tetrapisispora blattae CBS 6284
-GCF_000348985.1,1071383,Kazachstania naganishii CBS 8797
-GCF_000227115.2,1071378,Naumovozyma dairenensis CBS 421
-GCA_900535975.1,312227,[Candida] hispaniensis
-GCA_031590215.1,112263,Kazachstania bulderi
-GCF_000002945.1,4896,Schizosaccharomyces pombe
-GCF_000182965.3,237561,Candida albicans SC5314
-GCF_000091045.1,214684,Cryptococcus neoformans var. neoformans JEC21
-GCF_002234675.1,8090,Oryzias latipes
-GCF_000011425.1,227321,Aspergillus nidulans FGSC A4
-GCF_014117465.1,332952,Aspergillus flavus NRRL3357
-GCF_000002525.2,284591,Yarrowia lipolytica CLIB122
-GCF_021134715.1,6669,Daphnia pulex
-GCA_900231445.1,4567,Triticum turgidum subsp. durum
-GCF_000227135.1,5661,Leishmania donovani
-GCA_916181665.1,4498,Avena sativa
-GCF_000027005.1,644223,Komagataella phaffii GS115
-GCA_015110555.1,159736,Macrobrachium nipponense
-GCA_011022315.1,27292,Saccharomyces pastorianus
-GCA_004519485.1,145522,Nannochloropsis oceanica
-GCA_947561735.1,4543,Cenchrus americanus
-GCF_900079805.1,1279085,Fusarium fujikuroi IMI 58289
-GCA_902687465.1,4550,Secale cereale
-GCA_028142955.1,50426,Pinctada fucata
-GCA_029632965.1,4922,Komagataella pastoris
-GCF_917563875.1,50390,Diabrotica virgifera virgifera
-GCA_030408175.1,3899,Trifolium repens
-GCA_000469685.2,6289,Haemonchus contortus
-GCA_905216605.1,38785,Arabidopsis arenosa
-GCA_025502765.1,34274,Gossypium herbaceum
-GCA_900128785.1,50452,Arabis alpina
-GCA_004148225.2,51029,Heterodera glycines
-GCF_000185945.1,367775,Cryptococcus gattii WM276
-GCA_902850265.1,7109,Spodoptera littoralis
-GCA_022644695.1,154765,Cenchrus purpureus
-GCF_000208865.1,572307,Neospora caninum Liverpool
-GCA_014607495.2,252295,Carposina sasakii
-GCA_030553155.1,27835,Nippostrongylus brasiliensis
-GCA_022674325.1,192188,Grapholita molesta
-GCF_901000735.1,13451,Corylus avellana
-GCF_000214015.3,70448,Ostreococcus tauri
-GCF_000315875.1,1136231,Candida orthopsilosis Co 90-125
-GCA_021613535.1,104782,Adineta vaga
-GCA_020844145.1,52283,Sarcoptes scabiei
-GCA_003576665.1,35884,Ipomoea trifida
-GCF_001406875.1,28526,Solanum pennellii
-GCA_026075535.2,40145,Tricholoma matsutake
-GCA_002954075.1,294750,Cryptococcus gattii VGII R265
-GCA_032464435.1,4491,Aegilops umbellulata
-GCA_029677425.1,161112,Wolffia australiana
-GCA_028411795.1,38846,Euphorbia peplus
-GCF_905220565.1,113334,Melitaea cinxia
-GCA_938743325.2,41880,Pycnococcus provasolii
-GCA_902506015.1,47428,Armillaria ostoyae
-GCF_000691945.2,1133968,Babesia microti strain RI
-GCF_000091225.2,284813,Encephalitozoon cuniculi GB-M1
-GCA_030445155.1,103481,Quercus variabilis
-GCA_025503065.1,47622,Gossypium bickii
-GCF_900007375.1,56646,Fusarium venenatum
-GCF_026914265.1,6604,Mya arenaria
-GCF_024334085.1,7200,Lutzomyia longipalpis
-GCA_003052745.1,1978547,Caenorhabditis inopinata
-GCA_963070105.1,42156,Litomosoides sigmodontis
-GCA_027920645.1,1611254,Caenorhabditis nigoni
-GCA_021491655.1,542832,Peronospora effusa
-GCA_001302255.2,5327,Trametes hirsuta
-GCA_030062745.1,41070,Capitulum mitella
-GCF_031168955.1,80720,Gadus macrocephalus
-GCA_013387185.1,217165,Caligus rogercresseyi
-GCA_032248835.1,61273,Ophiostoma piceae
-GCF_000755165.1,5679,Leishmania panamensis
-GCA_910594885.2,189979,Bibio marci
-GCA_029203775.1,1569773,Neoneuromus ignobilis
-GCA_916049575.1,76990,Ancistrocerus nigricornis
-GCA_030063025.1,4500,Avena longiglumis
-GCA_905163465.1,938226,Craniophora ligustri
-GCA_027186245.1,79760,Coriaria nepalensis
-GCF_905220415.1,72248,Colias croceus
-GCA_013425905.1,141969,Oscheius tipulae
-GCA_905146935.1,219539,Scaeva pyrastri
-GCA_032118995.1,7602,Asterias amurensis
-GCA_030273425.1,1427173,Microplitis manilae
-GCA_029906385.1,121618,Neofusicoccum laricinum
-GCA_939531405.1,27328,Metschnikowia zobellii
-GCA_952773005.1,249532,Icerya purchasi
-GCA_030062975.1,36015,Pichia kluyveri
-GCA_014466975.1,44271,Leishmania chagasi
-GCA_030710605.1,51811,Cordylochernes scorpioides
-GCF_000146465.1,876142,Encephalitozoon intestinalis ATCC 50506
-GCA_900162835.1,72559,Sporisorium reilianum f. sp. reilianum
-GCA_032405125.1,34865,Capricornis sumatraensis
-GCA_030664755.1,197124,Microcos paniculata
-GCF_030253575.1,182163,Rhododendron vialii
-GCA_914767945.1,987419,Eilema depressum
-GCA_945859715.1,689061,Apamea sordens
-GCA_948330725.1,29803,Sherardia arvensis
-GCA_905333005.2,282391,Lycaena phlaeas
-GCA_905332985.1,522848,Mimas tiliae
-GCA_932526535.1,987895,Caradrina clavipalpis
-GCA_932294325.1,988056,Allophyes oxyacanthae
-GCA_910591435.1,987859,Acronicta aceris
-GCA_914767815.1,116130,Eupsilia transversa
-GCA_907269075.1,104447,Idaea aversata
-GCA_907165245.1,721137,Habrosyne pyritoides
-GCA_905231865.2,191398,Boloria selene
-GCA_947044815.1,1666458,Apomyelois bistriatella
-GCA_914767915.1,104476,Agriopis aurantiaria
-GCA_914767695.1,987449,Ptilodon capucinus
-GCA_944452935.1,1385029,Rhogogaster chlorosoma
-GCA_947049315.1,414814,Epistrophella euchroma
-GCA_910589645.1,1101063,Tinea semifulvella
-GCA_961405105.1,934816,Perizoma affinitatum
-GCA_912999815.1,934813,Campaea margaritaria
-GCA_951509405.1,1717430,Machimus rusticus
-GCA_946896805.1,53169,Scutellaria galericulata
-GCA_945859725.1,104428,Drepana falcataria
-GCA_945859745.1,301036,Synanthedon formicaeformis
-GCA_030345155.1,884147,Vitis x doaniana
-GCA_932521025.1,1559960,Oscheius onirici
-GCA_918317495.1,1660703,Synanthedon vespiformis
-GCA_912999735.1,129397,Aporia crataegi
-GCA_949319445.1,987427,Mythimna lalbum
-GCA_949699065.1,1101017,Metalampra italica
-GCA_958496145.1,542982,Heliothis peltigera
-GCA_918843925.1,934839,Eulithis prunata
-GCA_939628115.1,7072,Tribolium freemani
-GCA_947859365.1,1857967,Archips crataeganus
-GCA_008044935.1,34284,Gossypium turneri
-GCA_951230905.1,273447,Cheilosia variabilis
-GCA_905475355.2,987902,Clostera curtula
-GCA_959613365.1,249498,Balanococcus diminutus
-GCA_947563765.1,2566270,Anarsia innoxiella
-GCA_000469805.3,85433,Hymenolepis microstoma
-GCA_947389935.1,1586972,Agrilus cyanescens
-GCA_023547065.1,320322,Musa troglodytarum
-GCA_943193705.1,317029,Trichoderma pseudokoningii
-GCA_028216015.1,103484,Quercus dentata
-GCA_947172415.1,68574,Chondrosia reniformis
-GCA_958496275.1,1080930,Zele albiditarsus
-GCA_949710015.1,452744,Crataerina pallida
-GCF_001680005.1,208452,Plasmodium coatneyi
-GCA_900106115.1,45354,[Candida] intermedia
-GCA_030027945.1,639000,Phytophthora plurivora
-GCA_907164805.1,2065413,Brachyptera putata
-GCF_000235365.1,931890,Eremothecium cymbalariae DBVPG#7215
-GCA_963422465.1,157483,Lichina pygmaea
-GCA_963425845.1,92480,Sphenostylis stenocarpa
-GCF_002220235.1,41875,Bathycoccus prasinos
-GCA_963210315.1,630703,Rhynchopus euleeides
-GCF_003576645.1,35885,Ipomoea triloba
-GCA_001403695.1,5681,Leishmania peruviana
-GCA_030440675.1,187939,Furcifer pardalis
-GCA_921294245.1,1431903,Brassicogethes aeneus
-GCA_030269945.2,941097,Trilocha varians
-GCA_005610355.1,47615,Gossypioides kirkii
-GCA_932521405.1,2879419,Oscheius sp. JU1382
-GCA_917563865.1,224133,Phyllotreta cruciferae
-GCA_932521415.1,2879420,Oscheius sp. DF5120
-GCA_025506655.1,47633,Gossypium rotundifolium
-GCA_013348765.1,176864,Carpinus viminea
-GCA_017357885.1,61207,Monilinia vaccinii-corymbosi
-GCA_001936135.1,1725355,Saccharomycopsis fibuligera x Saccharomycopsis cf. fibuligera
-GCA_029959195.1,1464785,Dictyophora rubrovolvata
-GCA_020995425.1,907339,Cyberlindnera sargentensis
-GCA_023657505.1,883000,Camelina hispida
-GCA_947846245.1,55710,Cerastoderma edule
-GCA_902810595.1,861768,Coregonus sp. 'balchen'
-GCA_900257145.2,720590,Plasmodium sp. DRC-Itaito
-GCA_032401905.1,43891,Swietenia macrophylla
-GCA_910596185.1,1478180,Chrysanthemum makinoi
-GCA_949927565.1,75948,Lactuca saligna
-GCA_032402905.1,587579,Khaya senegalensis
-GCA_907164505.1,83762,Acomys kempi
-GCF_000219625.1,336722,Zymoseptoria tritici IPO323
-GCA_000149225.2,226302,Lachancea kluyveri NRRL Y-12651
-GCF_000187245.1,871575,Ogataea parapolymorpha DL-1
-GCA_006352305.1,2591691,Cryptococcus floricola
-GCA_022605425.2,1176355,Hamiltosporidium tvaerminnensis
-GCA_030295235.1,1519565,Fistulifera solaris
-GCA_900074725.1,1072105,Lachancea dasiensis
-GCF_000236905.1,1071381,Tetrapisispora phaffii CBS 4417
-GCA_900074755.1,1266666,Lachancea nothofagi CBS 11611
-GCA_900074715.1,1266667,Lachancea meyersii CBS 8951
-GCA_029876055.1,1157608,Madurella fahalii
-GCF_015227675.2,10116,Rattus norvegicus
-GCF_001433935.1,39947,Oryza sativa Japonica Group
-GCF_000003025.6,9823,Sus scrofa
-GCF_002263795.3,9913,Bos taurus
-GCF_016699485.2,9031,Gallus gallus
-GCF_902167145.1,4577,Zea mays
-GCF_000188115.5,4081,Solanum lycopersicum
-GCF_011100685.1,9615,Canis lupus familiaris
-GCF_003254725.2,286419,Canis lupus dingo
-GCF_018294505.1,4565,Triticum aestivum
-GCF_003339765.1,9544,Macaca mulatta
-GCF_000004515.6,3847,Glycine max
-GCF_016772045.1,9940,Ovis aries
-GCF_007990345.1,3635,Gossypium hirsutum
-GCF_904849725.1,112509,Hordeum vulgare subsp. vulgare
-GCF_020379485.1,3708,Brassica napus
-GCF_017654675.1,8355,Xenopus laevis
-GCF_001704415.2,9925,Capra hircus
-GCF_003254395.2,7460,Apis mellifera
-GCF_002863925.1,9796,Equus caballus
-GCF_009806435.1,9986,Oryctolagus cuniculus
-GCF_012559485.2,9541,Macaca fascicularis
-GCF_013265735.2,8022,Oncorhynchus mykiss
-GCF_000309985.2,3711,Brassica rapa
-GCF_014905235.1,7091,Bombyx mori
-GCF_002114115.1,3750,Malus domestica
-GCF_000003195.3,4558,Sorghum bicolor
-GCF_003473485.1,3880,Medicago truncatula
-GCF_002204515.2,7159,Aedes aegypti
-GCF_000002595.2,3055,Chlamydomonas reinhardtii
-GCF_000004075.3,3659,Cucumis sativus
-GCF_000002655.1,330879,Aspergillus fumigatus Af293
-GCF_905237065.1,8030,Salmo salar
-GCF_003086295.2,3818,Arachis hypogaea
-GCF_000006565.2,508771,Toxoplasma gondii ME49
-GCF_002878395.1,4072,Capsicum annuum
-GCF_000346465.2,3760,Prunus persica
-GCF_000182925.2,367110,Neurospora crassa OR74A
-GCF_000499845.1,3885,Phaseolus vulgaris
-GCF_015476345.1,8839,Anas platyrhynchos
-GCF_001858045.2,8128,Oreochromis niloticus
-GCF_000002495.2,242507,Pyricularia oryzae 70-15
-GCF_000004195.4,8364,Xenopus tropicalis
-GCF_000002445.2,185431,Trypanosoma brucei brucei TREU927
-GCA_022537955.1,79327,Schmidtea mediterranea
-GCF_000240135.3,229533,Fusarium graminearum PH-1
-GCF_902806645.1,29159,Crassostrea gigas
-GCF_000695525.1,109376,Brassica oleracea var. oleracea
-GCF_025177605.1,3656,Cucumis melo
-GCF_000005575.2,180454,Anopheles gambiae str. PEST
-GCF_018350175.1,9685,Felis catus
-GCF_023101765.2,7108,Spodoptera frugiperda
-GCF_001659605.2,3983,Manihot esculenta
-GCF_000002425.4,3218,Physcomitrium patens
-GCF_000331145.1,3827,Cicer arietinum
-GCF_000247795.1,9915,Bos indicus
-GCF_011100555.1,9483,Callithrix jacchus
-GCA_002525835.2,4120,Ipomoea batatas
-GCF_016920845.1,481459,Gasterosteus aculeatus aculeatus
-GCF_000005505.3,15368,Brachypodium distachyon
-GCF_020631705.1,35525,Daphnia magna
-GCF_002870075.4,4236,Lactuca sativa
-GCF_000150955.2,556484,Phaeodactylum tricornutum CCAP 1055/1
-GCF_000002775.5,3694,Populus trichocarpa
-GCF_000237925.1,6183,Schistosoma mansoni
-GCF_900626175.2,3483,Cannabis sativa
-GCF_030052815.1,3981,Hevea brasiliensis
-GCF_002127325.2,4232,Helianthus annuus
-GCA_002915635.3,8296,Ambystoma mexicanum
-GCF_000002335.3,7070,Tribolium castaneum
-GCF_018340385.1,7962,Cyprinus carpio
-GCF_019924925.1,7959,Ctenopharyngodon idella
-GCA_019022445.1,3747,Fragaria x ananassa
-GCF_024323335.1,3888,Pisum sativum
-GCF_000313855.2,214687,Musa acuminata subsp. malaccensis
-GCA_005887515.3,30521,Bos grunniens
-GCF_000224145.3,7719,Ciona intestinalis
-GCF_000184455.2,510516,Aspergillus oryzae RIB40
-GCF_002742605.1,158386,Olea europaea var. sylvestris
-GCF_000263155.2,4555,Setaria italica
-GCF_003368295.1,7957,Carassius auratus
-GCF_000004695.1,352472,Dictyostelium discoideum AX4
-GCA_029034555.1,3654,Citrullus lanatus
-GCF_011075055.1,29780,Mangifera indica
-GCF_005508785.2,7029,Acyrthosiphon pisum
-GCA_018703725.1,3707,Brassica juncea
-GCF_932526225.1,45351,Nematostella vectensis
-GCF_000442705.1,51953,Elaeis guineensis
-GCF_000328475.2,237631,Ustilago maydis 521
-GCF_003957565.2,59729,Taeniopygia guttata
-GCF_000801105.2,3726,Raphanus sativus
-GCA_009663005.1,3625,Actinidia chinensis
-GCA_020205605.1,4054,Panax ginseng
-GCF_023701775.1,29058,Helicoverpa armigera
-GCA_025215515.1,6182,Schistosoma japonicum
-GCF_024679095.1,95602,Eriocheir sinensis
-GCA_020631735.1,4547,Saccharum officinarum
-GCF_026745355.1,3555,Beta vulgaris subsp. vulgaris
-GCF_016746395.2,7240,Drosophila simulans
-GCF_932276165.1,51655,Plutella xylostella
-GCF_000002415.2,5855,Plasmodium vivax
-GCF_020796205.1,714518,Ziziphus jujuba var. spinosa
-GCF_023373825.1,27457,Bactrocera dorsalis
-GCA_019514585.1,142615,Dendrobium officinale
-GCF_012489685.1,34305,Lotus japonicus
-GCF_014356525.2,108931,Nilaparvata lugens
-GCF_001577835.2,93934,Coturnix japonica
-GCA_018997955.1,3634,Gossypium barbadense
-GCF_000512975.1,4182,Sesamum indicum
-GCF_028858775.1,9598,Pan troglodytes
-GCF_900002375.2,5823,Plasmodium berghei ANKA
-GCF_900880675.1,8175,Sparus aurata
-GCF_022113875.1,6087,Hydra vulgaris
-GCF_000972845.2,215358,Larimichthys crocea
-GCF_022379125.1,52904,Scophthalmus maximus
-GCF_025698485.1,29729,Gossypium arboreum
-GCF_016808335.1,38727,Panicum virgatum
-GCF_011064425.1,10117,Rattus rattus
-GCF_902167405.1,8049,Gadus morhua
-GCF_011125445.2,8078,Fundulus heteroclitus
-GCA_025277285.1,29158,Mytilus galloprovincialis
-GCA_026315105.1,7004,Locusta migratoria
-GCA_030765085.1,4679,Allium cepa
-GCF_003713225.1,13443,Coffea arabica
-GCF_028751815.1,226208,Salvia miltiorrhiza
-GCF_015228065.2,6687,Penaeus monodon
-GCF_000184155.1,101020,Fragaria vesca subsp. vesca
-GCA_023541355.1,4529,Oryza rufipogon
-GCF_013347855.1,7936,Anguilla anguilla
-GCA_016801055.1,44586,Panax notoginseng
-GCF_027887165.1,13616,Monodelphis domestica
-GCF_020424385.1,6728,Procambarus clarkii
-GCF_008728515.1,9555,Papio anubis
-GCF_004118075.2,3917,Vigna unguiculata
-GCF_000002435.2,5741,Giardia intestinalis
-GCF_001660625.3,7998,Ictalurus punctatus
-GCF_009193385.2,7425,Nasonia vitripennis
-GCF_007655135.1,22663,Punica granatum
-GCF_022655615.1,1234273,Tachysurus fulvidraco
-GCF_000208745.1,3641,Theobroma cacao
-GCF_001723175.1,69781,Penicillium oxalicum
-GCF_000741045.1,3916,Vigna radiata var. radiata
-GCF_000149555.1,334819,Fusarium verticillioides 7600
-GCF_019359855.1,4522,Lolium perenne
-GCA_025169545.1,7937,Anguilla japonica
-GCF_017591435.1,210409,Portunus trituberculatus
-GCF_013339725.1,6941,Rhipicephalus microplus
-GCA_015852605.2,3696,Populus deltoides
-GCF_000340665.2,3821,Cajanus cajan
-GCA_012066045.3,3498,Morus alba
-GCF_001540865.1,4615,Ananas comosus
-GCA_029852735.1,3435,Persea americana
-GCF_013141755.1,30069,Anopheles stephensi
-GCA_948472305.1,3906,Vicia faba
-GCF_013753865.1,45264,Acropora millepora
-GCF_016545825.1,71139,Eucalyptus grandis
-GCF_000146605.3,9103,Meleagris gallopavo
-GCF_000523025.1,244447,Cynoglossus semilaevis
-GCA_014964335.1,4084,Solanum pimpinellifolium
-GCF_019578655.1,3988,Ricinus communis
-GCF_910591885.1,30195,Bombus terrestris
-GCA_028777405.1,35925,Diospyros kaki
-GCA_029641205.1,37334,Citrus maxima
-GCF_001411555.2,51240,Juglans regia
-GCA_022316695.1,385388,Camellia oleifera
-GCF_009389715.1,42345,Phoenix dactylifera
-GCA_018804465.1,118781,Populus tomentosa
-GCA_002319775.1,62330,Fagopyrum tataricum
-GCF_002575655.2,200361,Aegilops tauschii subsp. strangulata
-GCF_023375975.1,7994,Astyanax mexicanus
-GCA_027475355.1,365059,Coilia nasus
-GCF_914767665.1,115357,Harmonia axyridis
-GCF_002994745.2,74649,Rosa chinensis
-GCF_005286985.1,4556,Setaria viridis
-GCF_030272615.1,3369,Cryptomeria japonica
-GCA_024713555.1,29656,Spirodela polyrhiza
-GCF_020184175.1,80765,Aphis gossypii
-GCF_016881025.1,43179,Ictidomys tridecemlineatus
-GCF_016077325.2,9793,Equus asinus
-GCF_020520425.1,3562,Spinacia oleracea
-GCF_009870125.1,7237,Drosophila pseudoobscura
-GCF_901001165.1,8032,Salmo trutta
-GCF_000149405.2,296543,Thalassiosira pseudonana CCMP1335
-GCF_016802725.1,13686,Solenopsis invicta
-GCF_015732765.1,7176,Culex quinquefasciatus
-GCA_017141395.1,195883,Laodelphax striatellus
-GCF_001640805.2,8187,Lates calcarifer
-GCF_000633955.1,90675,Camelina sativa
-GCF_002922805.2,30732,Oryzias melastigma
-GCF_002806865.2,3664,Cucurbita pepo subsp. pepo
-GCF_000002875.2,435258,Leishmania infantum JPCM5
-GCA_030763345.1,271217,Mythimna separata
-GCF_932294415.1,38942,Quercus robur
-GCA_018997905.1,215402,Channa argus
-GCF_947242115.1,6526,Biomphalaria glabrata
-GCA_024454175.1,3627,Actinidia deliciosa
-GCF_018446385.1,94328,Zingiber officinale
-GCF_018296145.1,74940,Oncorhynchus tshawytscha
-GCF_001625215.1,79200,Daucus carota subsp. sativus
-GCF_016801865.2,42434,Culex pipiens pallens
-GCF_011762595.1,9739,Tursiops truncatus
-GCF_901000725.2,31033,Takifugu rubripes
-GCF_902201215.1,3755,Prunus dulcis
-GCF_000004555.2,6238,Caenorhabditis briggsae
-GCA_030324255.1,4784,Phytophthora capsici
-GCA_026413185.1,3893,Pueraria montana var. lobata
-GCF_003704035.1,230844,Peromyscus maniculatus bairdii
-GCF_000165345.1,353152,Cryptosporidium parvum Iowa II
-GCF_017639315.1,7217,Drosophila ananassae
-GCA_002895445.3,4540,Panicum miliaceum
-GCF_028641065.1,7782,Leucoraja erinacea
-GCF_002021735.2,8019,Oncorhynchus kisutch
-GCF_002706865.2,69820,Spodoptera litura
-GCF_000633615.1,8081,Poecilia reticulata
-GCF_000346735.1,102107,Prunus mume
-GCA_022817975.1,13095,Hypophthalmichthys molitrix
-GCF_021901695.1,168172,Puccinia striiformis f. sp. tritici
-GCF_004115265.2,59479,Rhinolophus ferrumequinum
-GCA_902850365.2,168631,Chilo suppressalis
-GCA_902829305.4,7107,Spodoptera exigua
-GCA_023029165.1,143606,Gobiocypris rarus
-GCA_016647705.1,4392,Eucommia ulmoides
-GCF_022985175.1,84645,Labeo rohita
-GCA_029721355.1,220873,Tegillarca granosa
-GCA_009829735.1,2788,Neopyropia yezoensis
-GCF_002007445.2,9646,Ailuropoda melanoleuca
-GCF_000090745.2,28377,Anolis carolinensis
-GCA_030737875.1,4682,Allium sativum
-GCF_028554725.1,28588,Zeugodacus cucurbitae
-GCF_018687715.1,32201,Carya illinoinensis
-GCA_019925145.1,7965,Hypophthalmichthys nobilis
-GCF_016746365.2,7245,Drosophila yakuba
-GCF_018812025.1,75352,Megalobrama amblycephala
-GCF_010993605.1,7757,Petromyzon marinus
-GCF_003573695.1,3469,Papaver somniferum
-GCA_020226455.1,88123,Prunus salicina
-GCA_021464415.1,105884,Lonicera japonica
-GCA_018350135.1,37690,Citrus trifoliata
-GCF_003073045.1,400727,Pomacea canaliculata
-GCA_003430845.1,99658,Xanthoceras sorbifolium
-GCA_009761775.1,3494,Ficus carica
-GCF_014839805.1,7130,Manduca sexta
-GCF_001876935.1,4686,Asparagus officinalis
-GCA_009805545.1,4528,Oryza longistaminata
-GCF_016808095.1,3914,Vigna angularis
-GCF_018350195.1,9694,Panthera tigris
-GCA_018132145.1,396368,Boehmeria nivea var. tenacissima
-GCA_031216445.1,315492,Lateolabrax maculatus
-GCF_000147395.1,4538,Oryza glaberrima
-GCA_023091065.1,3570,Dianthus caryophyllus
-GCF_027358585.1,310915,Pangasianodon hypophthalmus
-GCF_963082965.1,217509,Carassius carassius
-GCA_951802175.1,3691,Populus nigra
-GCF_004193775.1,3848,Glycine soja
-GCA_025999795.1,5098,Monascus purpureus
-GCF_013340165.1,28584,Drosophila suzukii
-GCA_019175385.1,112863,Lycium barbarum
-GCA_004210375.1,6853,Tachypleus tridentatus
-GCA_016771965.1,52824,Brassica carinata
-GCA_007844125.1,98310,Sinonovacula constricta
-GCA_020205615.1,44588,Panax quinquefolius
-GCA_013339765.2,44386,Haemaphysalis longicornis
-GCF_000803125.2,9838,Camelus dromedarius
-GCA_024364805.1,6613,Euprymna scolopes
-GCA_032191425.1,13123,Lymantria dispar
-GCF_009731565.1,278856,Danaus plexippus plexippus
-GCF_026262505.1,412133,Trichomonas vaginalis G3
-GCF_020171115.1,452646,Neogale vison
-GCF_028408465.1,28586,Anastrepha ludens
-GCF_902635505.1,9305,Sarcophilus harrisii
-GCF_003369695.1,30522,Bos indicus x Bos taurus
-GCF_943734745.1,43151,Anopheles darlingi
-GCF_905115235.1,343691,Hermetia illucens
-GCA_028372415.1,9315,Notamacropus eugenii
-GCF_020283565.1,57577,Trifolium pratense
-GCF_900634795.4,158456,Betta splendens
-GCA_020310875.1,49495,Ceratopteris richardii
-GCA_019395295.1,93977,Osmanthus fragrans
-GCF_019176455.1,28829,Solea senegalensis
-GCF_947172395.1,110368,Bicyclus anynana
-GCA_023846275.1,51239,Vanilla planifolia
-GCF_003590095.1,7111,Trichoplusia ni
-GCA_014218235.1,4460,Colocasia esculenta
-GCA_016071775.1,103351,Vitis amurensis
-GCF_026875155.1,27406,Cherax quadricarinatus
-GCF_000317375.1,79684,Microtus ochrogaster
-GCA_020233015.1,6763,Callinectes sapidus
-GCF_004355905.1,148305,Pyricularia grisea
-GCF_013100865.1,31138,Trachemys scripta elegans
-GCF_029281585.1,9595,Gorilla gorilla gorilla
-GCA_019009955.1,329032,Riptortus pedestris
-GCA_026652325.1,8319,Pleurodeles waltl
-GCF_015237465.2,8469,Chelonia mydas
-GCF_020085105.1,119488,Siniperca chuatsi
-GCA_917627325.4,315576,Chironomus riparius
-GCF_025698545.1,29730,Gossypium raimondii
-GCA_016432845.1,120290,Psidium guajava
-GCF_030445035.1,9361,Dasypus novemcinctus
-GCF_905147795.1,64459,Pieris rapae
-GCA_022984855.1,128017,Dimocarpus longan
-GCF_009819705.1,8267,Hippoglossus hippoglossus
-GCF_018143015.1,7654,Lytechinus variegatus
-GCF_004664715.2,10041,Peromyscus leucopus
-GCA_030145905.1,266767,Populus davidiana
-GCA_015776775.1,298176,Crassostrea hongkongensis
-GCA_017141385.1,113103,Sogatella furcifera
-GCF_020615455.1,59861,Coregonus clupeaformis
-GCA_007844245.1,436086,Pyrus betulifolia
-GCF_013339695.2,34632,Rhipicephalus sanguineus
-GCA_019925275.1,6550,Mytilus edulis
-GCF_006149115.2,8023,Oncorhynchus nerka
-GCA_003952965.2,262757,Morella rubra
-GCF_001865875.1,3871,Lupinus angustifolius
-GCA_018104995.1,8855,Cairina moschata
-GCF_900496995.4,223781,Aquila chrysaetos chrysaetos
-GCF_000165395.2,484906,Babesia bovis T2Bo
-GCA_030737815.1,35875,Allium fistulosum
-GCF_030867095.1,8496,Alligator mississippiensis
-GCF_943734845.2,62324,Anopheles funestus
-GCA_000576495.2,40148,Oryza glumipatula
-GCF_023375685.1,66913,Ictalurus furcatus
-GCF_004115215.2,9258,Ornithorhynchus anatinus
-GCF_011397635.1,293821,Epinephelus fuscoguttatus
-GCA_030014155.1,175792,Tachysurus vachellii
-GCF_022539315.1,9135,Serinus canaria
-GCA_030254885.1,103349,Vitis rotundifolia
-GCA_002890555.2,3668,Lagenaria siceraria
-GCA_030142095.1,32247,Rubus idaeus
-GCA_013433145.1,6253,Ascaris suum
-GCA_014673565.1,214486,Sebastes schlegelii
-GCA_907165135.1,34765,Oikopleura dioica
-GCA_020875875.1,55571,Dioscorea alata
-GCF_010015445.1,8168,Perca fluviatilis
-GCF_027580225.1,75329,Misgurnus anguillicaudatus
-GCA_023078555.1,3117,Ulva prolifera
-GCA_024047395.1,48490,Fusarium circinatum
-GCA_022539455.1,94219,Dendrobium nobile
-GCA_016624345.1,94286,Platycodon grandiflorus
-GCA_028984105.1,39329,Lavandula angustifolia
-GCF_902652985.1,6579,Pecten maximus
-GCF_029448725.1,8038,Salvelinus fontinalis
-GCA_927797965.1,7740,Branchiostoma lanceolatum
-GCA_010577795.1,161756,Isatis tinctoria
-GCA_032207245.1,330961,Pardosa pseudoannulata
-GCA_005771605.1,65409,Scutellaria baicalensis
-GCA_009905375.1,4045,Apium graveolens
-GCA_019097785.1,38873,Fraxinus excelsior
-GCA_022457205.1,62335,Saccharum spontaneum
-GCF_003073215.2,4572,Triticum urartu
-GCA_014183145.1,76340,Sciaenops ocellatus
-GCF_009727055.1,102211,Benincasa hispida
-GCF_001649575.2,37003,Kryptolebias marmoratus
-GCF_002162155.2,85692,Triticum dicoccoides
-GCF_007210705.1,6832,Tigriopus californicus
-GCF_023065955.2,9644,Ursus arctos
-GCA_019155195.1,82927,Avicennia marina
-GCA_016760335.1,91201,Gastrodia elata
-GCA_011800155.1,38945,Flammulina velutipes
-GCF_024166365.1,99487,Elephas maximus indicus
-GCF_000165365.1,333668,Theileria parva strain Muguga
-GCA_949782905.1,228257,Rangifer tarandus platyrhyncus
-GCA_029890205.1,10068,Acomys cahirinus
-GCA_958298935.1,29695,Phragmites australis
-GCA_026874595.1,6446,Sipunculus nudus
-GCA_023653625.1,139772,Triadica sebifera
-GCA_000576065.2,4536,Oryza nivara
-GCA_032199755.1,4212,Ambrosia artemisiifolia
-GCF_003369915.1,7229,Drosophila miranda
-GCF_022581195.2,7113,Helicoverpa zea
-GCA_023525715.1,13427,Cichorium intybus
-GCA_009771035.1,3870,Lupinus albus
-GCA_023678885.1,28511,Pogostemon cablin
-GCA_022749755.1,124943,Azadirachta indica
-GCF_007565055.1,61622,Rhinopithecus roxellana
-GCA_030545235.1,4233,Helianthus tuberosus
-GCA_028015215.1,182084,Gynostemma pentaphyllum
-GCA_000180635.4,54126,Pristionchus pacificus
-GCF_004354835.1,8167,Perca flavescens
-GCA_000757645.3,34508,Steinernema carpocapsae
-GCA_013433165.1,39966,Hypsizygus marmoreus
-GCA_023375725.1,94400,Nephotettix cincticeps
-GCA_019776745.2,29808,Taxus chinensis
-GCA_020536085.1,55974,Acropora hyacinthus
-GCF_902713615.1,7830,Scyliorhinus canicula
-GCF_019279795.1,7888,Protopterus annectens
-GCA_009363875.1,192012,Mikania micrantha
-GCA_013103745.1,114476,Gardenia jasminoides
-GCA_029964075.1,7594,Patiria pectinifera
-GCF_004353265.1,96939,Vitis riparia
-GCA_028554795.1,165450,Sinohyriopsis cumingii
-GCA_024516035.1,290155,Bactericera cockerelli
-GCA_028274465.1,185002,Plantago ovata
-GCF_005281545.1,310571,Epinephelus lanceolatus
-GCF_001522545.3,9157,Parus major
-GCA_907173295.1,28930,Fagus sylvatica
-GCF_001879085.1,49451,Nicotiana attenuata
-GCF_000003815.2,7739,Branchiostoma floridae
-GCF_001194135.2,37653,Octopus bimaculoides
-GCF_910594005.1,9860,Cervus elaphus
-GCF_023897955.1,7010,Schistocerca gregaria
-GCF_000241765.5,8478,Chrysemys picta bellii
-GCF_000209165.1,322104,Scheffersomyces stipitis CBS 6054
-GCF_001531365.2,59895,Cynara cardunculus var. scolymus
-GCF_000006355.2,5851,Plasmodium knowlesi strain H
-GCF_000002845.2,420245,Leishmania braziliensis MHOM/BR/75/M2904
-GCF_021130785.1,197043,Homalodisca vitripennis
-GCF_028885625.1,9600,Pongo pygmaeus
-GCF_028885655.1,9601,Pongo abelii
-GCA_030378355.1,29674,Eleusine indica
-GCF_016161935.1,260615,Mauremys reevesii
-GCA_030770085.1,77588,Oryza coarctata
-GCF_004382145.1,7226,Drosophila mauritiana
-GCF_004382195.2,7238,Drosophila sechellia
-GCF_015852505.1,9261,Tachyglossus aculeatus
-GCF_943734685.1,1518534,Anopheles coluzzii
-GCF_921293095.1,197161,Ischnura elegans
-GCA_023509865.1,273928,Trypoxylus dichotomus
-GCA_030347555.1,35936,Lablab purpureus
-GCF_900964775.1,113540,Scleropages formosus
-GCA_017139565.1,3670,Luffa aegyptiaca
-GCF_027563975.1,58824,Plodia interpunctella
-GCF_905220365.1,171605,Vanessa cardui
-GCA_028554685.1,56364,Agrotis ipsilon
-GCA_030686995.1,259893,Artemisia argyi
-GCA_030272315.1,158149,Paspalum vaginatum
-GCF_010183535.1,31234,Caenorhabditis remanei
-GCA_004837865.1,52838,Musa balbisiana
-GCA_007827005.2,295327,Populus simonii
-GCF_013373865.1,307658,Monomorium pharaonis
-GCA_017311375.1,42192,Mytilus coruscus
-GCA_022559845.1,78372,Amorphophallus konjac
-GCA_030979885.1,4521,Lolium multiflorum
-GCF_008729295.1,160734,Plectropomus leopardus
-GCA_003604175.2,79923,Clonorchis sinensis
-GCA_009739505.2,248454,Apolygus lucorum
-GCA_014182545.1,34317,Eucalyptus globulus
-GCA_016618105.1,154293,Dendrobium huoshanense
-GCA_014851415.1,437488,Cnaphalocrocis medinalis
-GCA_009761765.1,483260,Phenacoccus solenopsis
-GCF_001298625.1,1080349,Saccharomyces eubayanus
-GCF_000817695.3,130453,Arachis duranensis
-GCA_002216045.1,66713,Pinctada imbricata
-GCA_028551475.1,3523,Casuarina equisetifolia
-GCF_001672515.1,759273,Colletotrichum higginsianum IMI 349063
-GCF_000303195.2,1028729,Fusarium pseudograminearum CS3096
-GCA_009763385.1,1156411,Coix lacryma-jobi var. lacryma-jobi
-GCF_027475565.1,32536,Acinonyx jubatus
-GCA_023525745.1,4217,Arctium lappa
-GCA_028021215.1,9764,Eschrichtius robustus
-GCA_030867185.1,13708,Tagetes erecta
-GCF_018345385.1,494514,Vulpes lagopus
-GCF_914725855.1,8236,Thunnus albacares
-GCF_030020395.1,143292,Manis pentadactyla
-GCF_016920715.1,7173,Anopheles arabiensis
-GCA_950023065.1,170843,Planococcus citri
-GCF_011004845.1,8010,Esox lucius
-GCA_911865555.2,13288,Thlaspi arvense
-GCA_029582165.1,46147,Portulaca oleracea
-GCF_018139145.2,33616,Gymnogyps californianus
-GCA_000338895.3,40149,Oryza meridionalis
-GCA_000182155.4,65489,Oryza barthii
-GCA_029582065.1,6248,Strongyloides stercoralis
-GCF_000231095.2,4533,Oryza brachyantha
-GCF_024362695.1,13191,Pectinophora gossypiella
-GCF_022682495.1,9430,Desmodus rotundus
-GCF_905171775.1,8407,Rana temporaria
-GCF_945859705.1,286459,Episyrphus balteatus
-GCF_021347895.1,80966,Acanthochromis polyacanthus
-GCA_013389735.1,3884,Phaseolus lunatus
-GCF_016086655.3,72036,Lepeophtheirus salmonis
-GCF_021234035.1,35523,Daphnia pulicaria
-GCA_021292165.1,52224,Shinisaurus crocodilurus
-GCF_947568905.1,37623,Ostrea edulis
-GCA_017311315.1,257763,Dendrocalamus latiflorus
-GCF_023373465.1,8018,Oncorhynchus keta
-GCA_948470475.1,46745,Galaxea fascicularis
-GCF_010389155.1,72917,Erigeron canadensis
-GCA_017979445.1,155132,Akebia trifoliata
-GCA_018466975.1,1202976,Sparassis latifolia
-GCA_021234005.1,151071,Nephelium lappaceum
-GCA_031163375.1,1133088,Conogethes punctiferalis
-GCA_019321725.1,586722,Paulownia fortunei
-GCF_022539595.1,80972,Amphiprion ocellaris
-GCA_021764765.1,3908,Vicia sativa
-GCA_018208015.1,70973,Medicago ruthenica
-GCA_030340685.1,240822,Protosalanx chinensis
-GCA_949361645.1,6055,Spongilla lacustris
-GCA_018290095.1,319348,Polypedilum vanderplanki
-GCF_023119035.1,49212,Salvia hispanica
-GCF_021288785.2,9716,Mirounga angustirostris
-GCA_003829775.2,40217,Junco hyemalis
-GCA_900059795.1,49390,Coffea canephora
-GCA_016801935.1,195632,Platichthys stellatus
-GCA_912172775.2,56036,Fraxinus pennsylvanica
-GCF_023634155.1,8954,Falco peregrinus
-GCF_015227805.2,43150,Hirundo rustica
-GCF_016509475.1,37029,Prionailurus bengalensis
-GCA_030684275.1,40147,Acipenser oxyrinchus oxyrinchus
-GCA_905067625.1,1689686,Blumeria graminis f. sp. triticale
-GCF_029289425.1,9597,Pan paniscus
-GCF_021730395.1,6596,Mercenaria mercenaria
-GCA_029531755.1,206669,Holothuria leucospilota
-GCA_025413875.1,49168,Rhododendron molle
-GCF_947179165.1,45834,Solanum dulcamara
-GCF_943734665.1,42839,Anopheles aquasalis
-GCA_958450345.1,7373,Calliphora vicina
-GCA_018361395.1,72658,Boechera stricta
-GCF_029227915.1,13093,Hydractinia symbiolongicarpus
-GCF_902362185.1,29144,Chanos chanos
-GCF_023634085.1,345164,Falco cherrug
-GCA_026413675.1,492479,Populus pruinosa
-GCF_023653815.1,8467,Caretta caretta
-GCF_020382885.2,75038,Scatophagus argus
-GCF_027477595.1,30427,Haemorhous mexicanus
-GCF_012275295.1,13146,Melopsittacus undulatus
-GCA_028015205.1,2547956,Mytilisepta virgata
-GCA_030549335.1,44947,Pontederia crassipes
-GCA_020882235.1,13262,Schizaphis graminum
-GCF_003957555.1,9244,Calypte anna
-GCA_027405865.1,77065,Salix purpurea
-GCF_006542625.1,61853,Nomascus leucogenys
-GCF_030435755.1,9978,Ochotona princeps
-GCF_019457755.1,32260,Venturia canescens
-GCA_012070555.1,6280,Brugia pahangi
-GCA_030549775.1,189791,Tamarix chinensis
-GCF_018902025.1,7260,Drosophila willistoni
-GCF_902713425.1,7906,Acipenser ruthenus
-GCA_023638005.1,126418,Forsythia suspensa
-GCF_013358815.1,8005,Electrophorus electricus
-GCF_900324465.2,64144,Anabas testudineus
-GCA_928085145.1,85310,Nezara viridula
-GCA_028751855.1,4214,Ambrosia trifida
-GCA_018555375.2,7938,Anguilla rostrata
-GCA_019202805.1,45249,Arabidopsis suecica
-GCF_009769545.1,8103,Cyclopterus lumpus
-GCF_016835505.1,55291,Polypterus senegalus
-GCA_014281875.1,240163,Nibea albiflora
-GCF_013401445.1,458696,Tripterygium wilfordii
-GCF_003672135.1,2015173,Ooceraea biroi
-GCA_003047355.2,161767,Amphiprion percula
-GCA_017562165.1,1530245,Ectropis grisescens
-GCF_958295425.1,90069,Solea solea
-GCF_014633365.1,55363,Diospyros lotus
-GCA_006506795.2,91752,Hericium erinaceus
-GCF_016432855.1,8040,Salvelinus namaycush
-GCF_014858855.1,30331,Bufo gargarizans
-GCF_001040885.1,34506,Strongyloides ratti
-GCF_018492685.1,34773,Alosa sapidissima
-GCA_019925795.1,161865,Dendrobium chrysotoxum
-GCF_000238955.4,106582,Maylandia zebra
-GCF_020536995.1,45954,Dreissena polymorpha
-GCF_002211085.1,206008,Panicum hallii
-GCF_900700415.2,7950,Clupea harengus
-GCF_024763615.1,29031,Phlebotomus papatasi
-GCF_019202785.1,139456,Penaeus chinensis
-GCA_028751875.1,55521,Rapana venosa
-GCF_021917145.1,137520,Hypomesus transpacificus
-GCF_016617805.1,59916,Bactrocera tryoni
-GCA_002900995.3,34458,Ganoderma boninense
-GCA_023376005.1,1051067,Doryteuthis pealeii
-GCF_002742065.1,122368,Cercospora beticola
-GCA_018136815.1,37099,Isochrysis galbana
-GCA_000753965.2,28502,Amaranthus hypochondriacus
-GCA_010645155.1,158387,Tigriopus japonicus
-GCA_001700915.1,48849,Passer domesticus
-GCF_002837175.3,9755,Physeter catodon
-GCF_004010195.1,36176,Chiloscyllium plagiosum
-GCA_000310025.1,2880,Ectocarpus siliculosus
-GCA_000978405.1,9923,Capra aegagrus
-GCA_012654025.1,38123,Pachypsylla venusta
-GCA_002993905.1,183675,Miscanthus sacchariflorus
-GCA_020976825.1,9872,Odocoileus hemionus
-GCA_014139745.1,5666,Leishmania tropica
-GCF_001653235.2,1380566,Pochonia chlamydosporia 170
-GCF_023159225.1,214514,Perognathus longimembris pacificus
-GCA_028583565.1,230172,Ovis ammon polii
-GCF_000234665.1,929439,Leishmania mexicana MHOM/GT/2001/U1103
-GCA_016271365.2,7892,Neoceratodus forsteri
-GCF_027943255.1,95512,Anastrepha obliqua
-GCF_028583425.1,481883,Eublepharis macularius
-GCF_018350215.1,9689,Panthera leo
-GCF_905475395.1,189513,Chrysoperla carnea
-GCA_022530915.1,147272,Paspalum notatum
-GCF_937001465.1,9733,Orcinus orca
-GCF_019703515.2,70543,Myxocyprinus asiaticus
-GCF_024256425.1,13013,Clarias gariepinus
-GCF_009762305.2,9704,Zalophus californianus
-GCA_943736015.1,80833,Tridacna crocea
-GCA_014839755.1,73324,Sylvia borin
-GCF_902655055.1,9657,Lutra lutra
-GCA_028830015.1,192399,Eucalyptus grandis x Eucalyptus urophylla
-GCA_905187475.1,34682,Syritta pipiens
-GCF_910596095.1,8240,Thunnus maccoyii
-GCA_030435695.1,1115630,Brachymystax lenok tsinlingensis
-GCF_013758885.1,7167,Anopheles albimanus
-GCA_030345395.1,1501231,Prunus mongolica
-GCF_905147105.1,7116,Pieris brassicae
-GCA_021397845.1,184783,Areca catechu
-GCF_017976375.1,55661,Cuculus canorus
-GCF_000699445.3,6185,Schistosoma haematobium
-GCA_031885435.1,161624,Passerculus sandwichensis
-GCF_905163445.1,116150,Pararge aegeria
-GCA_028389875.1,8795,Rhea pennata
-GCF_014839835.1,118200,Dryobates pubescens
-GCF_933775445.1,57926,Potentilla anserina
-GCA_000573905.2,4537,Oryza punctata
-GCA_013133815.1,304459,Cromileptes altivelis
-GCF_929443795.1,8957,Accipiter gentilis
-GCF_015220075.1,120794,Falco rusticolus
-GCA_022606695.1,13750,Vaccinium macrocarpon
-GCF_904848185.1,8177,Acanthopagrus latus
-GCA_020882245.1,40932,Rhopalosiphum padi
-GCA_022496805.1,140635,Pohlia nutans
-GCF_008121235.1,7241,Drosophila subobscura
-GCF_011762505.1,61156,Arvicanthis niloticus
-GCA_027726005.1,13579,Juncus effusus
-GCF_025612915.1,558553,Crassostrea angulata
-GCA_024586325.1,142738,Stellera chamaejasme
-GCA_921997135.2,10096,Mus spretus
-GCA_010134655.1,64941,Fragaria nilgerrensis
-GCF_002775205.1,8083,Xiphophorus maculatus
-GCA_018466805.1,109274,Hippocampus abdominalis
-GCA_021464625.1,322563,Proterorhinus semilunaris
-GCA_028654395.1,396367,Scutellaria barbata
-GCF_917208135.1,37344,Athalia rosae
-GCF_008315115.2,283035,Sander lucioperca
-GCA_024703715.1,52586,Erysiphe necator
-GCF_017639515.1,13397,Carcharodon carcharias
-GCA_918026875.4,40085,Diatraea saccharalis
-GCF_026212275.2,69319,Microplitis demolitor
-GCF_029873635.1,397392,Malania oleifera
-GCF_009819885.2,91951,Catharus ustulatus
-GCF_003711565.1,433684,Takifugu flavidus
+GCF_002804205.1,74700,Entomoplasma freundtii
+GCF_006228185.1,353852,Mycoplasma nasistruthionis
+GCF_008704715.1,1969,Streptomyces chartreusis
+GCF_000242455.2,886293,Singulisphaera acidiphila DSM 18658
+GCF_019397265.1,1122611,Nonomuraea coxensis DSM 45129
+GCF_000172155.1,240016,Verrucomicrobium spinosum DSM 4136 = JCM 18804
+GCF_000058485.1,326424,Frankia alni ACN14a
+GCF_000758705.1,189425,Paenibacillus graminis
+GCF_000237305.1,1003195,Streptantibioticus cattleyicolor NRRL 8057 = DSM 46488
+GCF_000512205.2,1123269,Sphingomonas sanxanigenens DSM 19645 = NX02
+GCF_019456675.1,370524,Mycolicibacterium pallens
+GCF_901482695.1,259,Sphingobacterium thalpophilum
+GCF_000723165.1,1349767,Janthinobacterium agaricidamnosum NBRC 102515 = DSM 9628
+GCF_022374875.2,318424,Mycolicibacterium rufum
+GCF_000145275.1,573061,Clostridium cellulovorans 743B
+GCF_000018865.1,324602,Chloroflexus aurantiacus J-10-fl
+GCF_900187015.1,61651,Serratia ficaria
+GCF_000016425.1,369723,Salinispora tropica CNB-440
+GCF_000023825.1,485917,Pedobacter heparinus DSM 2366
+GCF_000281175.1,926550,Caldilinea aerophila DSM 14535 = NBRC 104270
+GCF_016725645.1,258,Sphingobacterium spiritivorum
+GCF_000016745.1,351605,Geotalea uraniireducens Rf4
+GCF_000023465.1,655815,Zunongwangia profunda SM-A87
+GCF_000970285.1,1434110,Methanosarcina horonobensis HB-1 = JCM 15518
+GCF_001886815.1,880073,Caldithrix abyssi DSM 13497
+GCF_000582515.1,367190,Yersinia similis
+GCF_002250055.1,33932,Sutcliffiella cohnii
+GCF_000237085.1,720554,Acetivibrio clariflavus DSM 19732
+GCF_000013645.1,266265,Paraburkholderia xenovorans LB400
+GCF_003585765.1,323450,Pontibacter actiniarum
+GCF_900478115.1,38310,Rhodococcus coprophilus
+GCF_025148285.1,478749,Marvinbryantia formatexigens DSM 14469
+GCF_000015505.1,365044,Polaromonas naphthalenivorans CJ2
+GCF_000015245.1,326297,Shewanella amazonensis SB2B
+GCF_019285775.1,39122,Skermania piniformis
+GCF_003967075.1,135719,Sphingobium amiense
+GCF_000953135.1,1212491,Legionella fallonii LLAP-10
+GCF_000226975.2,358396,Halobiforma lacisalsi AJ5
+GCF_000262305.1,630626,Shimwellia blattae DSM 4481 = NBRC 105725
+GCF_025151995.1,438033,Ruminococcus gauvreauii
+GCF_000816845.1,1041138,Rhizobium gallicum bv. gallicum R602sp
+GCF_000959365.1,441162,Burkholderia oklahomensis C6786
+GCF_000022565.1,240015,Acidobacterium capsulatum ATCC 51196
+GCF_000015725.1,420662,Methylibium petroleiphilum PM1
+GCF_025215495.1,85968,Mycolicibacterium brumae
+GCF_000023225.1,525897,Desulfomicrobium baculatum DSM 4028
+GCF_000230735.2,797303,Natrinema pellirubrum DSM 15624
+GCF_002355855.1,120107,Sphingobium cloacae
+GCF_001687565.2,1185653,Planococcus antarcticus DSM 14505
+GCF_000227685.2,713585,Thioalkalivibrio paradoxus ARh 1
+GCF_000025625.1,547559,Natrialba magadii ATCC 43099
+GCF_000444995.1,1367847,Paracoccus aminophilus JCM 7686
+GCF_000016165.1,349161,Desulforamulus reducens MI-1
+GCF_000218545.1,593907,Cellulomonas gilvus ATCC 13127
+GCF_002005465.1,320497,Neoasaia chiangmaiensis
+GCF_001687665.2,414778,Planococcus donghaensis
+GCF_000223215.1,1045858,Brachyspira intermedia PWS/A
+GCF_000941055.1,1454006,Siansivirga zeaxanthinifaciens CC-SAMT-1
+GCF_002028405.1,926,Thiomonas intermedia
+GCF_001653755.1,1300343,Dokdonia donghaensis DSW-1
+GCF_025152575.1,214851,Subdoligranulum variabile
+GCF_000341345.1,1121362,Corynebacterium halotolerans YIM 70093 = DSM 44683
+GCF_001561955.1,991789,Anaerotignum propionicum DSM 1682
+GCF_028743515.2,1165090,Imtechella halotolerans
+GCF_018200015.1,662476,Haloarcula sinaiiensis ATCC 33800
+GCF_004799645.1,61858,Natronorubrum bangense
+GCF_003610015.1,33074,Zymobacter palmae
+GCF_000178115.2,663278,Ethanoligenens harbinense YUAN-3
+GCF_009664085.1,316276,Thermochromatium tepidum ATCC 43061
+GCF_000305935.1,1089553,Thermacetogenium phaeum DSM 12270
+GCF_022749495.1,997348,Neisseria macacae ATCC 33926
+GCF_003544935.1,870501,Malaciobacter molluscorum LMG 25693
+GCF_000213235.1,1209989,Tepidanaerobacter acetatoxydans Re1
+GCF_000020045.1,391038,Paraburkholderia phymatum STM815
+GCF_000767055.1,558173,Corynebacterium doosanense CAU 212 = DSM 45436
+GCF_000012305.1,259536,Psychrobacter arcticus 273-4
+GCF_019669965.1,118126,Methanoculleus chikugoensis
+GCF_000013725.1,259564,Methanococcoides burtonii DSM 6242
+GCF_004803795.1,203,Campylobacter rectus
+GCF_016725245.1,71237,Mammaliicoccus vitulinus
+GCF_000145215.1,608506,Caldicellulosiruptor obsidiansis OB47
+GCF_000237205.1,331113,Simkania negevensis Z
+GCF_000196275.1,319795,Deinococcus geothermalis DSM 11300
+GCF_000011565.2,264201,Candidatus Protochlamydia amoebophila UWE25
+GCF_020162295.1,1120981,Alysiella filiformis DSM 16848
+GCF_013372265.1,255507,Aliarcobacter cibarius
+GCF_001190745.1,824,Campylobacter gracilis
+GCF_000255135.1,443254,Marinitoga piezophila KA3
+GCF_000012965.1,326298,Sulfurimonas denitrificans DSM 1251
+GCF_000025505.1,589924,Ferroglobus placidus DSM 10642
+GCF_000504085.1,1123383,Pseudothermotoga elfii DSM 9442 = NBRC 107921
+GCF_000017865.1,416591,Pseudothermotoga lettingae TMO
+GCF_013267415.1,46125,Abiotrophia defectiva
+GCF_001543175.1,1376,Aerococcus urinae
+GCF_002104335.1,1121267,Campylobacter cuniculorum DSM 23162 = LMG 24588
+GCF_000242335.1,908937,Prevotella dentalis DSM 3688
+GCF_000223395.1,694429,Pyrolobus fumarii 1A
+GCF_900475315.1,483,Neisseria cinerea
+GCF_001263395.1,1437605,Bifidobacterium actinocoloniiforme DSM 22766
+GCF_000734015.1,289377,Thermodesulfobacterium commune DSM 2178
+GCF_000011105.1,70601,Pyrococcus horikoshii OT3
+GCF_000007185.1,190192,Methanopyrus kandleri AV19
+GCF_005843985.1,391592,Caminibacter mediatlanticus TB-2
+GCF_000185805.1,648996,Thermovibrio ammonificans HB-1
+GCF_013388295.1,52764,Bartonella alsatica
+GCF_000591035.1,1198449,Aeropyrum camini SY1 = JCM 12091
+GCF_900476215.1,217,Helicobacter mustelae
+GCF_000008265.1,1122961,Picrophilus oshimae DSM 9789
+GCF_001275365.1,1086726,Francisella persica ATCC VR-331
+GCF_001029265.1,315358,Spiroplasma eriocheiris
+GCF_000517365.1,838561,Spiroplasma mirum ATCC 29335
+GCF_002803985.1,214888,Williamsoniiplasma luminosum
+GCF_003285065.1,171279,Mycoplasmopsis anatis
+GCF_900660575.1,2107,Mycoplasmopsis pulmonis
+GCF_002843565.1,225999,Mesoplasma syrphidae
+GCF_000196215.1,290434,Borreliella bavariensis PBi
+GCF_002804005.1,215578,Williamsoniiplasma somnilux
+GCF_002290085.1,216427,Mesoplasma chauliocola
+GCF_002804105.1,81459,Mesoplasma melaleucae
+GCF_900660525.1,2112,Mycoplasmopsis bovigenitalium
+GCF_002441935.1,81460,Mesoplasma lactucae ATCC 49193
+GCF_021496725.1,1276218,Spiroplasma platyhelix PALS-1
+GCF_900660435.1,2121,Metamycoplasma orale
+GCF_900660445.2,2124,Metamycoplasma salivarium
+GCF_003269445.1,92401,Metamycoplasma cloacale
+GCF_000246855.1,700598,Niastella koreensis GR20-10
+GCF_000022085.1,460265,Methylobacterium nodulans ORS 2060
+GCF_000015305.1,350058,Mycolicibacterium vanbaalenii PYR-1
+GCF_000025265.1,469383,Conexibacter woesei DSM 14684
+GCF_000178955.2,682795,Granulicella mallensis MP5ACTX8
+GCF_010731575.1,85693,Mycolicibacterium monacense
+GCF_000165715.2,756272,Rubinisphaera brasiliensis DSM 5305
+GCF_022557255.1,129140,Pseudomonas syringae pv. tagetis
+GCF_000270245.1,1032480,Microlunatus phosphovorus NM-1
+GCF_000015565.1,391735,Verminephrobacter eiseniae EF01-2
+GCF_013177315.1,2737172,Thermoleptolyngbya sichuanensis A183
+GCF_000092105.1,521674,Planctopirus limnophila DSM 3776
+GCF_000265425.1,926566,Terriglobus roseus DSM 18391
+GCF_000019185.1,458817,Shewanella halifaxensis HAW-EB4
+GCF_000024785.1,526226,Gordonia bronchialis DSM 43247
+GCF_000013665.1,203122,Saccharophagus degradans 2-40
+GCF_000022145.1,455488,Anaeromyxobacter dehalogenans 2CP-1
+GCF_001267925.1,1262470,Herbaspirillum hiltneri N3
+GCF_000021945.1,326427,Chloroflexus aggregans DSM 9485
+GCF_006740045.1,1219032,Comamonas terrigena NBRC 13299
+GCF_000144625.1,610130,[Clostridium] saccharolyticum WM1
+GCF_000154785.2,391595,Roseobacter litoralis Och 149
+GCF_000014145.1,269798,Cytophaga hutchinsonii ATCC 33406
+GCF_000219915.2,1036672,Advenella kashmirensis WT001
+GCF_001277255.1,1073999,Cronobacter condimenti 1330
+GCF_000021745.1,395965,Methylocella silvestris BL2
+GCF_015097275.1,2751153,Coprobacter secundus subsp. similis
+GCF_000284515.1,866895,Halobacillus halophilus DSM 2266
+GCF_000247605.1,931626,Acetobacterium woodii DSM 1030
+GCF_019669985.1,1295382,Methylogaea oryzae
+GCF_000166055.1,648757,Rhodomicrobium vannielii ATCC 17100
+GCF_000341395.1,1167006,Desulfocapsa sulfexigens DSM 10523
+GCF_003568825.1,314281,Pseudoalteromonas tunicata
+GCF_000025325.1,543526,Haloterrigena turkmenica DSM 5511
+GCF_000224085.1,886377,Allomuricauda ruestringensis DSM 13258
+GCF_000306675.2,1192864,Leptospira mayottensis 200901116
+GCF_000284115.1,1142394,Phycisphaera mikurensis NBRC 102666
+GCF_000022305.1,535289,[Acidovorax] ebreus TPSY
+GCF_024347275.1,452627,Amphritea japonica
+GCF_000024965.1,446471,Xylanimonas cellulosilytica DSM 15894
+GCF_002221525.1,1314869,Pseudoalteromonas espejiana DSM 9414
+GCF_000012885.1,338963,Syntrophotalea carbinolica DSM 2380
+GCF_003030465.1,44139,Thauera aromatica K172
+GCF_000143145.1,582899,Hyphomicrobium denitrificans ATCC 51888
+GCF_000011245.1,221109,Oceanobacillus iheyensis HTE831
+GCF_000009905.1,292459,Symbiobacterium thermophilum IAM 14863
+GCF_000145035.1,515622,Butyrivibrio proteoclasticus B316
+GCF_000013445.1,323259,Methanospirillum hungatei JF-1
+GCF_006542645.1,2585117,Alistipes onderdonkii subsp. vulgaris
+GCF_000021985.1,396588,Thioalkalivibrio sulfidiphilus HL-EbGr7
+GCF_900637725.1,1750,Arachnia propionica
+GCF_018324105.1,202951,Acinetobacter bouvetii
+GCF_000013985.1,317655,Sphingopyxis alaskensis RB2256
+GCF_000014785.1,187272,Alkalilimnicola ehrlichii MLHE-1
+GCF_000092425.1,649638,Truepera radiovictrix DSM 17093
+GCF_000092845.1,526224,Brachyspira murdochii DSM 12563
+GCF_000013405.1,56780,Syntrophus aciditrophicus SB
+GCF_000252445.1,745776,Deinococcus gobiensis I-0
+GCF_000969885.1,523844,Methanosarcina thermophila TM-1
+GCF_000550785.1,1285583,Corynebacterium casei LMG S-19264
+GCF_000025705.1,580332,Sideroxydans lithotrophicus ES-1
+GCF_000013705.1,265072,Methylobacillus flagellatus KT
+GCF_030408815.1,556548,Corynebacterium freiburgense
+GCF_000550805.1,1224164,Corynebacterium vitaeruminis DSM 20294
+GCF_000177635.2,653733,Desulfurispirillum indicum S5
+GCF_019175345.1,523848,Saccharolobus shibatae B12
+GCF_000020685.1,546414,Deinococcus deserti VCD115
+GCF_000166695.1,632335,Caldicellulosiruptor acetigenus I77R1B
+GCF_000020465.1,290315,Chlorobium limicola DSM 245
+GCF_025152405.1,471875,[Ruminococcus] lactaris ATCC 29176
+GCF_000226295.1,981222,Chloracidobacterium thermophilum B
+GCF_000015585.1,349124,Halorhodospira halophila SL1
+GCF_000177535.2,662755,Corynebacterium resistens DSM 45100
+GCF_000175215.2,573065,Asticcacaulis excentricus CB 48
+GCF_000024765.1,555778,Halothiobacillus neapolitanus c2
+GCF_000184345.1,869211,Spirochaeta thermophila DSM 6578
+GCF_007990525.1,157688,Leptotrichia hofstadii
+GCF_000023705.1,583345,Methylotenera mobilis JLW8
+GCF_000189775.2,858215,Thermoanaerobacterium xylanolyticum LX-11
+GCF_016728665.1,43769,Corynebacterium propinquum
+GCF_000012865.1,246194,Carboxydothermus hydrogenoformans Z-2901
+GCF_000148385.1,572478,Vulcanisaeta distributa DSM 14429
+GCF_000012485.1,319225,Pelodictyon luteolum DSM 273
+GCF_000493735.1,1266845,Carnobacterium inhibens subsp. gilichinskyi
+GCF_002849895.1,1423720,Companilactobacillus alimentarius DSM 20249
+GCF_000025305.1,591001,Acidaminococcus fermentans DSM 20731
+GCF_000092965.1,583358,Thermoanaerobacter mathranii subsp. mathranii str. A3
+GCF_007990505.1,157692,Pseudoleptotrichia goodfellowii
+GCF_000829395.1,1291742,Paucilactobacillus hokkaidonensis JCM 18461
+GCF_900187035.1,158847,Megamonas hypermegale
+GCF_000212375.1,879243,Porphyromonas asaccharolytica DSM 20707
+GCF_000196535.1,548479,Mobiluncus curtisii ATCC 43063
+GCF_900636885.1,149016,Streptococcus urinalis
+GCF_000016385.1,340102,Pyrobaculum arsenaticum DSM 13514
+GCF_000022745.1,568815,Brucella microti CCM 4915
+GCF_014054725.1,153493,Conchiformibius steedae
+GCF_000022365.1,593117,Thermococcus gammatolerans EJ3
+GCF_030316605.1,1276219,Spiroplasma ixodetis Y32
+GCF_000590555.1,1348662,Corynebacterium argentoratense DSM 44202
+GCF_900476035.1,888057,Aggregatibacter segnis ATCC 33393
+GCF_000092505.1,762051,Leuconostoc kimchii IMSNU 11154
+GCF_000020965.1,309799,Dictyoglomus thermophilum H-6-12
+GCF_000253055.1,768679,Thermoproteus tenax Kra 1
+GCF_000259275.1,1163745,Helicobacter cetorum MIT 99-5656
+GCF_000016785.1,390874,Thermotoga petrophila RKU-1
+GCF_001042695.1,1150468,Scardovia inopinata JCM 12537
+GCF_003339775.1,1276259,Spiroplasma phoeniceum P40
+GCF_000319575.2,1260251,Spiribacter salinus M19-40
+GCF_000020145.1,445932,Elusimicrobium minutum Pei191
+GCF_000024225.1,521095,Lancefieldella parvula DSM 20469
