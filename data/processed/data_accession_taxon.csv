@@ -1,1001 +1,2859 @@
-accession,tax_id,organism_name
-GCF_000002985.6,6239,Caenorhabditis elegans
-GCF_000001405.40,9606,Homo sapiens
-GCF_000001635.27,10090,Mus musculus
-GCF_000001215.4,7227,Drosophila melanogaster
-GCF_000002035.6,7955,Danio rerio
-GCF_019923935.1,89462,Bubalus bubalis
-GCF_002022765.2,6565,Crassostrea virginica
-GCF_023724105.1,101364,Carassius gibelio
-GCF_024364675.1,116153,Aethina tumida
-GCF_022458985.1,48193,Mugil cephalus
-GCA_028476895.1,93132,Tetranychus truncatus
-GCA_023701655.1,2918886,Ovis ammon polii x Ovis aries
-GCA_019453435.1,1263952,Rhinogobius similis
-GCF_002234675.1,8090,Oryzias latipes
-GCF_021134715.1,6669,Daphnia pulex
-GCA_015110555.1,159736,Macrobrachium nipponense
-GCA_028142955.1,50426,Pinctada fucata
-GCF_917563875.1,50390,Diabrotica virgifera virgifera
-GCA_000469685.2,6289,Haemonchus contortus
-GCA_004148225.2,51029,Heterodera glycines
-GCA_902850265.1,7109,Spodoptera littoralis
-GCA_014607495.2,252295,Carposina sasakii
-GCA_030553155.1,27835,Nippostrongylus brasiliensis
-GCA_022674325.1,192188,Grapholita molesta
-GCA_021613535.1,104782,Adineta vaga
-GCA_020844145.1,52283,Sarcoptes scabiei
-GCF_905220565.1,113334,Melitaea cinxia
-GCF_026914265.1,6604,Mya arenaria
-GCF_024334085.1,7200,Lutzomyia longipalpis
-GCA_003052745.1,1978547,Caenorhabditis inopinata
-GCA_963070105.1,42156,Litomosoides sigmodontis
-GCA_027920645.1,1611254,Caenorhabditis nigoni
-GCA_030062745.1,41070,Capitulum mitella
-GCF_031168955.1,80720,Gadus macrocephalus
-GCA_013387185.1,217165,Caligus rogercresseyi
-GCA_910594885.2,189979,Bibio marci
-GCA_029203775.1,1569773,Neoneuromus ignobilis
-GCA_916049575.1,76990,Ancistrocerus nigricornis
-GCA_905163465.1,938226,Craniophora ligustri
-GCF_905220415.1,72248,Colias croceus
-GCA_013425905.1,141969,Oscheius tipulae
-GCA_905146935.1,219539,Scaeva pyrastri
-GCA_032118995.1,7602,Asterias amurensis
-GCA_030273425.1,1427173,Microplitis manilae
-GCA_952773005.1,249532,Icerya purchasi
-GCA_030710605.1,51811,Cordylochernes scorpioides
-GCA_032405125.1,34865,Capricornis sumatraensis
-GCA_914767945.1,987419,Eilema depressum
-GCA_945859715.1,689061,Apamea sordens
-GCA_905333005.2,282391,Lycaena phlaeas
-GCA_905332985.1,522848,Mimas tiliae
-GCA_932526535.1,987895,Caradrina clavipalpis
-GCA_932294325.1,988056,Allophyes oxyacanthae
-GCA_910591435.1,987859,Acronicta aceris
-GCA_914767815.1,116130,Eupsilia transversa
-GCA_907269075.1,104447,Idaea aversata
-GCA_907165245.1,721137,Habrosyne pyritoides
-GCA_905231865.2,191398,Boloria selene
-GCA_947044815.1,1666458,Apomyelois bistriatella
-GCA_914767915.1,104476,Agriopis aurantiaria
-GCA_914767695.1,987449,Ptilodon capucinus
-GCA_944452935.1,1385029,Rhogogaster chlorosoma
-GCA_947049315.1,414814,Epistrophella euchroma
-GCA_910589645.1,1101063,Tinea semifulvella
-GCA_961405105.1,934816,Perizoma affinitatum
-GCA_912999815.1,934813,Campaea margaritaria
-GCA_951509405.1,1717430,Machimus rusticus
-GCA_945859725.1,104428,Drepana falcataria
-GCA_945859745.1,301036,Synanthedon formicaeformis
-GCA_932521025.1,1559960,Oscheius onirici
-GCA_918317495.1,1660703,Synanthedon vespiformis
-GCA_912999735.1,129397,Aporia crataegi
-GCA_949319445.1,987427,Mythimna lalbum
-GCA_949699065.1,1101017,Metalampra italica
-GCA_958496145.1,542982,Heliothis peltigera
-GCA_918843925.1,934839,Eulithis prunata
-GCA_939628115.1,7072,Tribolium freemani
-GCA_947859365.1,1857967,Archips crataeganus
-GCA_951230905.1,273447,Cheilosia variabilis
-GCA_905475355.2,987902,Clostera curtula
-GCA_959613365.1,249498,Balanococcus diminutus
-GCA_947563765.1,2566270,Anarsia innoxiella
-GCA_000469805.3,85433,Hymenolepis microstoma
-GCA_947389935.1,1586972,Agrilus cyanescens
-GCA_947172415.1,68574,Chondrosia reniformis
-GCA_958496275.1,1080930,Zele albiditarsus
-GCA_949710015.1,452744,Crataerina pallida
-GCA_907164805.1,2065413,Brachyptera putata
-GCA_030440675.1,187939,Furcifer pardalis
-GCA_921294245.1,1431903,Brassicogethes aeneus
-GCA_030269945.2,941097,Trilocha varians
-GCA_932521405.1,2879419,Oscheius sp. JU1382
-GCA_917563865.1,224133,Phyllotreta cruciferae
-GCA_932521415.1,2879420,Oscheius sp. DF5120
-GCA_947846245.1,55710,Cerastoderma edule
-GCA_902810595.1,861768,Coregonus sp. 'balchen'
-GCA_907164505.1,83762,Acomys kempi
-GCF_015227675.2,10116,Rattus norvegicus
-GCF_000003025.6,9823,Sus scrofa
-GCF_002263795.3,9913,Bos taurus
-GCF_016699485.2,9031,Gallus gallus
-GCF_011100685.1,9615,Canis lupus familiaris
-GCF_003254725.2,286419,Canis lupus dingo
-GCF_003339765.1,9544,Macaca mulatta
-GCF_016772045.1,9940,Ovis aries
-GCF_001704415.2,9925,Capra hircus
-GCF_017654675.1,8355,Xenopus laevis
-GCF_003254395.2,7460,Apis mellifera
-GCF_002863925.1,9796,Equus caballus
-GCF_013265735.2,8022,Oncorhynchus mykiss
-GCF_009806435.1,9986,Oryctolagus cuniculus
-GCF_012559485.2,9541,Macaca fascicularis
-GCF_014905235.1,7091,Bombyx mori
-GCF_002204515.2,7159,Aedes aegypti
-GCF_905237065.1,8030,Salmo salar
-GCF_015476345.1,8839,Anas platyrhynchos
-GCF_001858045.2,8128,Oreochromis niloticus
-GCF_000004195.4,8364,Xenopus tropicalis
-GCA_022537955.1,79327,Schmidtea mediterranea
-GCF_902806645.1,29159,Crassostrea gigas
-GCF_000005575.2,180454,Anopheles gambiae str. PEST
-GCF_018350175.1,9685,Felis catus
-GCF_023101765.2,7108,Spodoptera frugiperda
-GCF_000247795.1,9915,Bos indicus
-GCF_016920845.1,481459,Gasterosteus aculeatus aculeatus
-GCF_011100555.1,9483,Callithrix jacchus
-GCF_020631705.1,35525,Daphnia magna
-GCF_000237925.1,6183,Schistosoma mansoni
-GCA_002915635.3,8296,Ambystoma mexicanum
-GCF_000002335.3,7070,Tribolium castaneum
-GCF_018340385.1,7962,Cyprinus carpio
-GCF_019924925.1,7959,Ctenopharyngodon idella
-GCA_005887515.3,30521,Bos grunniens
-GCF_000224145.3,7719,Ciona intestinalis
-GCF_003368295.1,7957,Carassius auratus
-GCF_005508785.2,7029,Acyrthosiphon pisum
-GCF_932526225.1,45351,Nematostella vectensis
-GCF_003957565.2,59729,Taeniopygia guttata
-GCF_023701775.1,29058,Helicoverpa armigera
-GCA_025215515.1,6182,Schistosoma japonicum
-GCF_024679095.1,95602,Eriocheir sinensis
-GCF_016746395.2,7240,Drosophila simulans
-GCF_932276165.1,51655,Plutella xylostella
-GCF_023373825.1,27457,Bactrocera dorsalis
-GCF_014356525.2,108931,Nilaparvata lugens
-GCF_001577835.2,93934,Coturnix japonica
-GCF_028858775.1,9598,Pan troglodytes
-GCF_900880675.1,8175,Sparus aurata
-GCF_022113875.1,6087,Hydra vulgaris
-GCF_000972845.2,215358,Larimichthys crocea
-GCF_022379125.1,52904,Scophthalmus maximus
-GCF_011064425.1,10117,Rattus rattus
-GCF_902167405.1,8049,Gadus morhua
-GCF_011125445.2,8078,Fundulus heteroclitus
-GCA_025277285.1,29158,Mytilus galloprovincialis
-GCA_026315105.1,7004,Locusta migratoria
-GCF_015228065.2,6687,Penaeus monodon
-GCF_013347855.1,7936,Anguilla anguilla
-GCF_027887165.1,13616,Monodelphis domestica
-GCF_020424385.1,6728,Procambarus clarkii
-GCF_008728515.1,9555,Papio anubis
-GCF_001660625.3,7998,Ictalurus punctatus
-GCF_009193385.2,7425,Nasonia vitripennis
-GCF_022655615.1,1234273,Tachysurus fulvidraco
-GCA_025169545.1,7937,Anguilla japonica
-GCF_017591435.1,210409,Portunus trituberculatus
-GCF_013339725.1,6941,Rhipicephalus microplus
-GCF_013141755.1,30069,Anopheles stephensi
-GCF_910591885.1,30195,Bombus terrestris
-GCF_013753865.1,45264,Acropora millepora
-GCF_000146605.3,9103,Meleagris gallopavo
-GCF_000523025.1,244447,Cynoglossus semilaevis
-GCF_023375975.1,7994,Astyanax mexicanus
-GCA_027475355.1,365059,Coilia nasus
-GCF_914767665.1,115357,Harmonia axyridis
-GCF_020184175.1,80765,Aphis gossypii
-GCF_016881025.1,43179,Ictidomys tridecemlineatus
-GCF_016077325.2,9793,Equus asinus
-GCF_009870125.1,7237,Drosophila pseudoobscura
-GCF_901001165.1,8032,Salmo trutta
-GCF_016802725.1,13686,Solenopsis invicta
-GCF_015732765.1,7176,Culex quinquefasciatus
-GCA_017141395.1,195883,Laodelphax striatellus
-GCF_001640805.2,8187,Lates calcarifer
-GCF_002922805.2,30732,Oryzias melastigma
-GCF_016801865.2,42434,Culex pipiens pallens
-GCA_030763345.1,271217,Mythimna separata
-GCA_018997905.1,215402,Channa argus
-GCF_947242115.1,6526,Biomphalaria glabrata
-GCF_018296145.1,74940,Oncorhynchus tshawytscha
-GCF_011762595.1,9739,Tursiops truncatus
-GCF_901000725.2,31033,Takifugu rubripes
-GCF_000004555.2,6238,Caenorhabditis briggsae
-GCF_003704035.1,230844,Peromyscus maniculatus bairdii
-GCF_017639315.1,7217,Drosophila ananassae
-GCF_028641065.1,7782,Leucoraja erinacea
-GCF_002021735.2,8019,Oncorhynchus kisutch
-GCF_002706865.2,69820,Spodoptera litura
-GCF_000633615.1,8081,Poecilia reticulata
-GCA_022817975.1,13095,Hypophthalmichthys molitrix
-GCF_004115265.2,59479,Rhinolophus ferrumequinum
-GCA_019925145.1,7965,Hypophthalmichthys nobilis
-GCA_902850365.2,168631,Chilo suppressalis
-GCA_902829305.4,7107,Spodoptera exigua
-GCA_023029165.1,143606,Gobiocypris rarus
-GCF_022985175.1,84645,Labeo rohita
-GCA_029721355.1,220873,Tegillarca granosa
-GCF_002007445.2,9646,Ailuropoda melanoleuca
-GCF_000090745.2,28377,Anolis carolinensis
-GCF_028554725.1,28588,Zeugodacus cucurbitae
-GCF_016746365.2,7245,Drosophila yakuba
-GCF_018812025.1,75352,Megalobrama amblycephala
-GCF_010993605.1,7757,Petromyzon marinus
-GCF_003073045.1,400727,Pomacea canaliculata
-GCF_014839805.1,7130,Manduca sexta
-GCF_018350195.1,9694,Panthera tigris
-GCA_031216445.1,315492,Lateolabrax maculatus
-GCF_027358585.1,310915,Pangasianodon hypophthalmus
-GCF_963082965.1,217509,Carassius carassius
-GCF_013340165.1,28584,Drosophila suzukii
-GCA_004210375.1,6853,Tachypleus tridentatus
-GCA_007844125.1,98310,Sinonovacula constricta
-GCA_013339765.2,44386,Haemaphysalis longicornis
-GCF_000803125.2,9838,Camelus dromedarius
-GCA_024364805.1,6613,Euprymna scolopes
-GCA_032191425.1,13123,Lymantria dispar
-GCF_009731565.1,278856,Danaus plexippus plexippus
-GCF_020171115.1,452646,Neogale vison
-GCF_028408465.1,28586,Anastrepha ludens
-GCF_902635505.1,9305,Sarcophilus harrisii
-GCF_003369695.1,30522,Bos indicus x Bos taurus
-GCF_943734745.1,43151,Anopheles darlingi
-GCF_905115235.1,343691,Hermetia illucens
-GCA_028372415.1,9315,Notamacropus eugenii
-GCF_900634795.4,158456,Betta splendens
-GCF_019176455.1,28829,Solea senegalensis
-GCF_947172395.1,110368,Bicyclus anynana
-GCF_003590095.1,7111,Trichoplusia ni
-GCF_026875155.1,27406,Cherax quadricarinatus
-GCF_000317375.1,79684,Microtus ochrogaster
-GCA_020233015.1,6763,Callinectes sapidus
-GCF_013100865.1,31138,Trachemys scripta elegans
-GCF_029281585.1,9595,Gorilla gorilla gorilla
-GCA_019009955.1,329032,Riptortus pedestris
-GCA_026652325.1,8319,Pleurodeles waltl
-GCF_015237465.2,8469,Chelonia mydas
-GCF_020085105.1,119488,Siniperca chuatsi
-GCA_917627325.4,315576,Chironomus riparius
-GCF_030445035.1,9361,Dasypus novemcinctus
-GCF_905147795.1,64459,Pieris rapae
-GCF_009819705.1,8267,Hippoglossus hippoglossus
-GCF_018143015.1,7654,Lytechinus variegatus
-GCF_004664715.2,10041,Peromyscus leucopus
-GCA_015776775.1,298176,Crassostrea hongkongensis
-GCA_017141385.1,113103,Sogatella furcifera
-GCF_020615455.1,59861,Coregonus clupeaformis
-GCF_013339695.2,34632,Rhipicephalus sanguineus
-GCA_019925275.1,6550,Mytilus edulis
-GCF_006149115.2,8023,Oncorhynchus nerka
-GCA_018104995.1,8855,Cairina moschata
-GCF_900496995.4,223781,Aquila chrysaetos chrysaetos
-GCF_030867095.1,8496,Alligator mississippiensis
-GCF_943734845.2,62324,Anopheles funestus
-GCF_023375685.1,66913,Ictalurus furcatus
-GCF_004115215.2,9258,Ornithorhynchus anatinus
-GCF_011397635.1,293821,Epinephelus fuscoguttatus
-GCA_030014155.1,175792,Tachysurus vachellii
-GCF_022539315.1,9135,Serinus canaria
-GCA_013433145.1,6253,Ascaris suum
-GCA_014673565.1,214486,Sebastes schlegelii
-GCA_907165135.1,34765,Oikopleura dioica
-GCF_010015445.1,8168,Perca fluviatilis
-GCF_027580225.1,75329,Misgurnus anguillicaudatus
-GCF_902652985.1,6579,Pecten maximus
-GCF_029448725.1,8038,Salvelinus fontinalis
-GCA_927797965.1,7740,Branchiostoma lanceolatum
-GCA_032207245.1,330961,Pardosa pseudoannulata
-GCA_014183145.1,76340,Sciaenops ocellatus
-GCF_001649575.2,37003,Kryptolebias marmoratus
-GCF_007210705.1,6832,Tigriopus californicus
-GCF_023065955.2,9644,Ursus arctos
-GCF_024166365.1,99487,Elephas maximus indicus
-GCA_949782905.1,228257,Rangifer tarandus platyrhyncus
-GCA_029890205.1,10068,Acomys cahirinus
-GCA_026874595.1,6446,Sipunculus nudus
-GCF_003369915.1,7229,Drosophila miranda
-GCF_022581195.2,7113,Helicoverpa zea
-GCF_007565055.1,61622,Rhinopithecus roxellana
-GCA_000180635.4,54126,Pristionchus pacificus
-GCF_004354835.1,8167,Perca flavescens
-GCA_000757645.3,34508,Steinernema carpocapsae
-GCA_023375725.1,94400,Nephotettix cincticeps
-GCA_020536085.1,55974,Acropora hyacinthus
-GCF_902713615.1,7830,Scyliorhinus canicula
-GCF_019279795.1,7888,Protopterus annectens
-GCA_029964075.1,7594,Patiria pectinifera
-GCA_028554795.1,165450,Sinohyriopsis cumingii
-GCA_024516035.1,290155,Bactericera cockerelli
-GCF_005281545.1,310571,Epinephelus lanceolatus
-GCF_001522545.3,9157,Parus major
-GCF_000003815.2,7739,Branchiostoma floridae
-GCF_001194135.2,37653,Octopus bimaculoides
-GCF_910594005.1,9860,Cervus elaphus
-GCF_023897955.1,7010,Schistocerca gregaria
-GCF_000241765.5,8478,Chrysemys picta bellii
-GCF_021130785.1,197043,Homalodisca vitripennis
-GCF_028885625.1,9600,Pongo pygmaeus
-GCF_028885655.1,9601,Pongo abelii
-GCF_016161935.1,260615,Mauremys reevesii
-GCF_004382145.1,7226,Drosophila mauritiana
-GCF_004382195.2,7238,Drosophila sechellia
-GCF_015852505.1,9261,Tachyglossus aculeatus
-GCF_943734685.1,1518534,Anopheles coluzzii
-GCF_921293095.1,197161,Ischnura elegans
-GCA_023509865.1,273928,Trypoxylus dichotomus
-GCF_900964775.1,113540,Scleropages formosus
-GCF_027563975.1,58824,Plodia interpunctella
-GCF_905220365.1,171605,Vanessa cardui
-GCA_028554685.1,56364,Agrotis ipsilon
-GCF_010183535.1,31234,Caenorhabditis remanei
-GCF_013373865.1,307658,Monomorium pharaonis
-GCA_017311375.1,42192,Mytilus coruscus
-GCF_008729295.1,160734,Plectropomus leopardus
-GCA_003604175.2,79923,Clonorchis sinensis
-GCA_009739505.2,248454,Apolygus lucorum
-GCA_014851415.1,437488,Cnaphalocrocis medinalis
-GCA_009761765.1,483260,Phenacoccus solenopsis
-GCA_002216045.1,66713,Pinctada imbricata
-GCF_027475565.1,32536,Acinonyx jubatus
-GCA_028021215.1,9764,Eschrichtius robustus
-GCF_018345385.1,494514,Vulpes lagopus
-GCF_914725855.1,8236,Thunnus albacares
-GCF_030020395.1,143292,Manis pentadactyla
-GCF_016920715.1,7173,Anopheles arabiensis
-GCA_950023065.1,170843,Planococcus citri
-GCF_011004845.1,8010,Esox lucius
-GCF_018139145.2,33616,Gymnogyps californianus
-GCA_029582065.1,6248,Strongyloides stercoralis
-GCF_024362695.1,13191,Pectinophora gossypiella
-GCF_022682495.1,9430,Desmodus rotundus
-GCF_905171775.1,8407,Rana temporaria
-GCF_945859705.1,286459,Episyrphus balteatus
-GCF_021347895.1,80966,Acanthochromis polyacanthus
-GCF_016086655.3,72036,Lepeophtheirus salmonis
-GCF_021234035.1,35523,Daphnia pulicaria
-GCA_021292165.1,52224,Shinisaurus crocodilurus
-GCF_947568905.1,37623,Ostrea edulis
-GCF_023373465.1,8018,Oncorhynchus keta
-GCA_948470475.1,46745,Galaxea fascicularis
-GCA_031163375.1,1133088,Conogethes punctiferalis
-GCF_022539595.1,80972,Amphiprion ocellaris
-GCA_030340685.1,240822,Protosalanx chinensis
-GCA_949361645.1,6055,Spongilla lacustris
-GCA_018290095.1,319348,Polypedilum vanderplanki
-GCF_021288785.2,9716,Mirounga angustirostris
-GCA_003829775.2,40217,Junco hyemalis
-GCA_016801935.1,195632,Platichthys stellatus
-GCF_023634155.1,8954,Falco peregrinus
-GCF_015227805.2,43150,Hirundo rustica
-GCF_016509475.1,37029,Prionailurus bengalensis
-GCA_030684275.1,40147,Acipenser oxyrinchus oxyrinchus
-GCF_029289425.1,9597,Pan paniscus
-GCF_021730395.1,6596,Mercenaria mercenaria
-GCA_029531755.1,206669,Holothuria leucospilota
-GCF_943734665.1,42839,Anopheles aquasalis
-GCA_958450345.1,7373,Calliphora vicina
-GCF_029227915.1,13093,Hydractinia symbiolongicarpus
-GCF_902362185.1,29144,Chanos chanos
-GCF_023634085.1,345164,Falco cherrug
-GCF_023653815.1,8467,Caretta caretta
-GCF_020382885.2,75038,Scatophagus argus
-GCF_027477595.1,30427,Haemorhous mexicanus
-GCF_012275295.1,13146,Melopsittacus undulatus
-GCA_028015205.1,2547956,Mytilisepta virgata
-GCA_020882235.1,13262,Schizaphis graminum
-GCF_003957555.1,9244,Calypte anna
-GCF_006542625.1,61853,Nomascus leucogenys
-GCF_030435755.1,9978,Ochotona princeps
-GCF_019457755.1,32260,Venturia canescens
-GCA_012070555.1,6280,Brugia pahangi
-GCF_018902025.1,7260,Drosophila willistoni
-GCF_902713425.1,7906,Acipenser ruthenus
-GCF_013358815.1,8005,Electrophorus electricus
-GCF_900324465.2,64144,Anabas testudineus
-GCA_928085145.1,85310,Nezara viridula
-GCA_018555375.2,7938,Anguilla rostrata
-GCF_009769545.1,8103,Cyclopterus lumpus
-GCF_016835505.1,55291,Polypterus senegalus
-GCA_014281875.1,240163,Nibea albiflora
-GCF_003672135.1,2015173,Ooceraea biroi
-GCA_003047355.2,161767,Amphiprion percula
-GCA_017562165.1,1530245,Ectropis grisescens
-GCF_958295425.1,90069,Solea solea
-GCF_016432855.1,8040,Salvelinus namaycush
-GCF_014858855.1,30331,Bufo gargarizans
-GCF_001040885.1,34506,Strongyloides ratti
-GCF_018492685.1,34773,Alosa sapidissima
-GCF_000238955.4,106582,Maylandia zebra
-GCF_020536995.1,45954,Dreissena polymorpha
-GCF_900700415.2,7950,Clupea harengus
-GCF_024763615.1,29031,Phlebotomus papatasi
-GCF_019202785.1,139456,Penaeus chinensis
-GCA_028751875.1,55521,Rapana venosa
-GCF_021917145.1,137520,Hypomesus transpacificus
-GCF_016617805.1,59916,Bactrocera tryoni
-GCA_023376005.1,1051067,Doryteuthis pealeii
-GCA_010645155.1,158387,Tigriopus japonicus
-GCA_001700915.1,48849,Passer domesticus
-GCF_002837175.3,9755,Physeter catodon
-GCF_004010195.1,36176,Chiloscyllium plagiosum
-GCA_000978405.1,9923,Capra aegagrus
-GCA_012654025.1,38123,Pachypsylla venusta
-GCA_020976825.1,9872,Odocoileus hemionus
-GCF_023159225.1,214514,Perognathus longimembris pacificus
-GCA_028583565.1,230172,Ovis ammon polii
-GCA_016271365.2,7892,Neoceratodus forsteri
-GCF_027943255.1,95512,Anastrepha obliqua
-GCF_028583425.1,481883,Eublepharis macularius
-GCF_018350215.1,9689,Panthera leo
-GCF_905475395.1,189513,Chrysoperla carnea
-GCF_937001465.1,9733,Orcinus orca
-GCF_019703515.2,70543,Myxocyprinus asiaticus
-GCF_024256425.1,13013,Clarias gariepinus
-GCF_009762305.2,9704,Zalophus californianus
-GCA_943736015.1,80833,Tridacna crocea
-GCA_014839755.1,73324,Sylvia borin
-GCF_902655055.1,9657,Lutra lutra
-GCA_905187475.1,34682,Syritta pipiens
-GCF_910596095.1,8240,Thunnus maccoyii
-GCA_030435695.1,1115630,Brachymystax lenok tsinlingensis
-GCF_013758885.1,7167,Anopheles albimanus
-GCF_905147105.1,7116,Pieris brassicae
-GCF_017976375.1,55661,Cuculus canorus
-GCF_000699445.3,6185,Schistosoma haematobium
-GCA_031885435.1,161624,Passerculus sandwichensis
-GCF_905163445.1,116150,Pararge aegeria
-GCA_028389875.1,8795,Rhea pennata
-GCF_014839835.1,118200,Dryobates pubescens
-GCA_013133815.1,304459,Cromileptes altivelis
-GCF_929443795.1,8957,Accipiter gentilis
-GCF_015220075.1,120794,Falco rusticolus
-GCF_904848185.1,8177,Acanthopagrus latus
-GCA_020882245.1,40932,Rhopalosiphum padi
-GCF_008121235.1,7241,Drosophila subobscura
-GCF_011762505.1,61156,Arvicanthis niloticus
-GCF_025612915.1,558553,Crassostrea angulata
-GCA_921997135.2,10096,Mus spretus
-GCF_002775205.1,8083,Xiphophorus maculatus
-GCA_018466805.1,109274,Hippocampus abdominalis
-GCA_021464625.1,322563,Proterorhinus semilunaris
-GCF_917208135.1,37344,Athalia rosae
-GCF_008315115.2,283035,Sander lucioperca
-GCF_017639515.1,13397,Carcharodon carcharias
-GCA_918026875.4,40085,Diatraea saccharalis
-GCF_026212275.2,69319,Microplitis demolitor
-GCF_009819885.2,91951,Catharus ustulatus
-GCF_003711565.1,433684,Takifugu flavidus
-GCA_031772095.1,137263,Zeugodacus tau
-GCF_013358895.1,47969,Oreochromis aureus
-GCF_029852145.1,375433,Microplitis mediator
-GCF_027595985.1,42254,Sorex araneus
-GCF_029784165.1,174621,Wyeomyia smithii
-GCA_949357685.1,27704,Gobio gobio
-GCF_027596085.1,229290,Anoplopoma fimbria
-GCA_023634145.1,36185,Thymallus thymallus
-GCA_949316205.1,8260,Platichthys flesus
-GCA_949126865.1,46704,Montipora capitata
-GCA_029618815.1,52344,Helicoverpa assulta
-GCF_963082655.1,35570,Stomoxys calcitrans
-GCA_023974075.1,36190,Chaenocephalus aceratus
-GCA_944474755.1,356393,Limnoperna fortunei
-GCF_021184085.1,8017,Oncorhynchus gorbuscha
-GCA_020423425.1,417485,Chrysopa pallens
-GCA_941860345.1,689277,Chrysodeixis includens
-GCA_001923025.3,94034,Taenia multiceps
-GCA_945859605.1,35632,Lumbricus rubellus
-GCF_002078875.1,8996,Numida meleagris
-GCF_022045245.1,7375,Lucilia cuprina
-GCF_002237135.1,139649,Teleopsis dalmanni
-GCA_019095985.1,95538,Streblospio benedicti
-GCF_021869965.1,259920,Rhincodon typus
-GCA_024363595.1,8354,Xenopus borealis
-GCF_023343835.1,64668,Lagopus muta
-GCF_030028045.1,575201,Hippopotamus amphibius kiboko
-GCA_009819775.1,9218,Phoenicopterus ruber ruber
-GCF_022605725.1,2921223,Anthonomus grandis grandis
-GCA_003400415.2,8742,Crotalus viridis viridis
-GCF_021613505.1,89248,Equus quagga
-GCA_003704135.2,369710,Peromyscus polionotus subgriseus
-GCF_029407905.1,346063,Bubalus carabanensis
-GCA_030848825.1,9438,Tadarida brasiliensis
-GCF_922984935.1,9662,Meles meles
-GCA_009493645.1,331036,Bos grunniens x Bos taurus
-GCA_030762935.1,267205,Hymenopus coronatus
-GCF_027574615.1,29078,Eptesicus fuscus
-GCF_026419965.1,27615,Kogia breviceps
-GCA_014523465.1,469796,Ovis orientalis
-GCA_027563665.1,9440,Antrozous pallidus
-GCF_027406575.1,9470,Nycticebus coucang
-GCF_019393635.1,33562,Dromiciops gliroides
-GCF_943737925.1,185578,Anopheles nili
-GCF_020740605.2,9447,Lemur catta
-GCA_029042245.1,189534,Aythya marila
-GCF_028858705.1,9117,Grus americana
-GCF_025231255.1,125945,Drosophila biarmipes
-GCF_009650485.2,7291,Drosophila albomicans
-GCF_023638135.1,345155,Falco biarmicus
-GCA_932527175.1,104452,Operophtera brumata
-GCF_932274485.2,6465,Patella vulgata
-GCF_020740725.1,134902,Corvus hawaiiensis
-GCF_020745825.1,39638,Agelaius phoeniceus
-GCA_026259375.1,82366,Verasper variegatus
-GCF_943734655.1,53552,Sabethes cyaneus
-GCF_020740685.1,51337,Jaculus jaculus
-GCF_019097595.1,337641,Hemibagrus wyckioides
-GCA_905163435.1,55057,Mamestra brassicae
-GCF_017976325.1,109905,Chelmon rostratus
-GCF_026419915.1,202280,Harpia harpyja
-GCF_907165205.1,41139,Coccinella septempunctata
-GCA_030704555.1,33434,Heliconius charithonia
-GCF_026979565.1,81927,Vidua chalybeata
-GCF_020497125.1,74926,Mauremys mutica
-GCA_942486065.2,27454,Calliphora vomitoria
-GCA_905404145.2,82595,Biston betularia
-GCF_902686445.1,30640,Sciurus carolinensis
-GCA_027474245.1,9240,Spheniscus humboldti
-GCF_030936135.1,37040,Gavia stellata
-GCA_014182915.2,9904,Bos gaurus
-GCF_012460135.2,84834,Molothrus ater
-GCA_905147175.2,111881,Nymphalis urticae
-GCF_019740435.1,33528,Gambusia affinis
-GCF_015220715.1,42514,Pygocentrus nattereri
-GCA_030068075.1,9675,Paguma larvata
-GCA_963151315.1,929971,Nymphalis c-album
-GCF_009650955.1,1196302,Corvus moneduloides
-GCA_905146925.1,254363,Autographa gamma
-GCA_944470425.2,6184,Schistosoma bovis
-GCF_016746245.2,129105,Drosophila santomea
-GCA_949628265.1,197152,Cloeon dipterum
-GCF_030273125.1,184440,Centropristis striata
-GCA_951416345.1,76058,Somateria mollissima
-GCA_020745735.1,170820,Hemiscyllium ocellatum
-GCA_020796225.1,1028688,Arion vulgaris
-GCA_029298725.1,1553328,Gnatocerus cornutus
-GCF_030490865.1,48891,Poecile atricapillus
-GCA_030347435.1,33541,Clarias fuscus
-GCF_900324485.2,205130,Mastacembelus armatus
-GCA_011833715.1,6848,Carcinoscorpius rotundicauda
-GCA_025267735.1,120570,Mactra quadrangularis
-GCA_905147785.1,721163,Thyatira batis
-GCA_023052935.1,437484,Piezodorus guildinii
-GCA_027559615.1,279927,Acridotheres tristis
-GCF_009764565.3,27794,Dermochelys coriacea
-GCF_004126475.2,89673,Phyllostomus discolor
-GCA_022388445.1,7074,Zophobas atratus
-GCA_008360975.2,1497555,Lichenostomus cassidix
-GCF_009873245.2,9771,Balaenoptera musculus
-GCA_031162955.1,283036,Sander vitreus
-GCA_021554675.1,69811,Leuciscus idus
-GCA_020458035.1,94323,Crassostrea ariakensis
-GCA_963264785.1,232653,Psittacula echo
-GCA_025583725.1,8846,Anser indicus
-GCA_028583605.1,1169899,Dastarcus helophoroides
-GCA_903797595.2,37610,Erithacus rubecula
-GCA_963082525.1,187126,Nesoenas mayeri
-GCA_025584915.1,236074,Monochamus saltuarius
-GCA_024679245.1,51549,Pseudorasbora parva
-GCF_009769535.1,35005,Thamnophis elegans
-GCA_021234535.1,240144,Stichopus chloronotus
-GCA_903992545.1,59474,Pipistrellus pipistrellus
-GCF_900246225.1,8154,Astatotilapia calliptera
-GCF_011100635.1,9337,Trichosurus vulpecula
-GCA_031216635.1,100907,Dissostichus eleginoides
-GCF_905171765.1,8384,Bufo bufo
-GCF_014905175.1,684658,Aphidius gifuensis
-GCA_014635995.1,7386,Sarcophaga peregrina
-GCA_013435755.1,61819,Amphilophus citrinellus
-GCF_949987515.1,9728,Delphinus delphis
-GCA_958299795.1,51062,Porites lutea
-GCA_019022885.1,38111,Schlechtendalia chinensis
-GCF_949987535.1,9767,Balaenoptera acutorostrata
-GCF_017562075.2,30066,Anopheles merus
-GCA_928718305.1,219812,Tetramorium bicarinatum
-GCA_963383655.1,220392,Bathymodiolus septemdierum
-GCF_009829125.3,409849,Periophthalmus magnuspinnatus
-GCF_945859685.1,290404,Eupeodes corollae
-GCA_018831715.1,2912585,Matsumurasca onukii
-GCA_030762985.1,323751,Adelphocoris suturalis
-GCA_030390025.1,7797,Squalus acanthias
-GCA_008086715.1,44668,Sitobion miscanthi
-GCA_025436335.1,6325,Bursaphelenchus mucronatus
-GCA_949752735.1,6398,Lumbricus terrestris
-GCA_029582155.1,1049056,Panopea generosa
-GCF_912470025.1,202808,Vespa velutina
-GCA_015708825.1,7753,Lethenteron reissneri
-GCF_902459465.1,7604,Asterias rubens
-GCA_012273795.1,238572,Dendrolimus punctatus
-GCA_963422355.1,121492,Corticium candelabrum
-GCA_030463065.1,95972,Aphidoletes aphidimyza
-GCF_017589495.1,278164,Alosa alosa
-GCA_014170255.2,67534,Drosophila triauraria
-GCA_004119915.2,240159,Collichthys lucidus
-GCA_018994145.1,428466,Leptobrachium ailaonicum
-GCA_019447015.1,247094,Hymenochirus boettgeri
-GCF_000247815.1,59894,Ficedula albicollis
-GCA_949841015.1,289389,Aplysina aerophoba
-GCA_027475135.1,47773,Bactrocera correcta
-GCF_015342785.2,7653,Lytechinus pictus
-GCF_000165445.2,30608,Microcebus murinus
-GCA_019603395.1,1032904,Cyrtorhinus lividipennis
-GCF_006386435.1,300413,Epinephelus moara
-GCF_000242695.1,7918,Lepisosteus oculatus
-GCF_021292245.1,147949,Micropterus dolomieu
-GCA_004786255.1,30357,Pyxicephalus adspersus
-GCA_017591415.1,7924,Amia calva
-GCA_009760805.1,62621,Lepus timidus
-GCA_030068395.1,55534,Apalone spinifera
-GCA_000772465.1,43780,Nasalis larvatus
-GCA_010994315.2,7612,Pisaster ochraceus
-GCF_024542745.1,257877,Macaca thibetana thibetana
-GCA_030788265.1,40366,Drosophila americana
-GCA_015220805.1,488313,Pogoniulus pusillus
-GCA_963513975.1,37598,Fringilla coelebs
-GCF_005870125.1,299123,Lonchura striata domestica
-GCF_020826845.1,77932,Diceros bicornis minor
-GCA_028769735.1,44393,Zonotrichia leucophrys
-GCF_000738735.6,932674,Corvus cornix cornix
-GCF_015832195.1,1094192,Motacilla alba alba
-GCA_030407085.1,1507179,Trichopria drosophilae
-GCF_028878055.1,9590,Symphalangus syndactylus
-GCA_028017835.1,82168,Emys orbicularis
-GCA_030015415.1,9400,Cynopterus sphinx
-GCA_030012505.1,27787,Eretmochelys imbricata
-GCA_028571685.1,77598,Heterohyrax brucei
-GCF_022837055.1,61388,Prionailurus viverrinus
-GCA_029410595.1,74864,Martes flavigula
-GCF_023091745.1,37181,Budorcas taxicolor
-GCF_027172205.1,65483,Podarcis raffonei
-GCA_032313775.1,55040,Urocyon cinereoargenteus
-GCA_030035585.1,29137,Dugong dugon
-GCF_028018385.1,61452,Neofelis nebulosa
-GCF_021461395.2,7009,Schistocerca americana
-GCA_026413225.1,73107,Otis tarda
-GCA_028858755.1,9226,Ara ararauna
-GCA_028564815.1,27606,Eubalaena glacialis
-GCA_020745775.1,1118847,Theristicus caerulescens
-GCA_905163515.2,78897,Lymantria monacha
-GCF_943734725.1,1521116,Anopheles marshallii
-GCA_907165065.1,111811,Caprimulgus europaeus
-GCA_026413565.1,1177618,Aythya baeri
-GCF_013377495.2,8868,Cygnus atratus
-GCA_020698575.1,86224,Bostrychus sinensis
-GCF_943734705.1,139045,Anopheles coustani
-GCF_943734765.1,345580,Anopheles ziemanni
-GCF_020740795.1,8895,Apus apus
-GCA_916618015.1,987431,Xestia c-nigrum
-GCA_029229535.1,1163344,Diorhabda carinata
-GCA_030686955.1,714203,Odontamblyopus rebecca
-GCA_905147345.3,987985,Mythimna impura
-GCF_028640845.1,499056,Ahaetulla prasina
-GCA_017639555.1,52777,Ciconia maguari
-GCF_026250575.1,1163345,Diorhabda carinulata
-GCA_030625065.1,40179,Alectoris magna
-GCA_013407035.1,30423,Coloeus monedula
-GCA_013368605.1,48427,Nyctibius grandis
-GCA_936440315.1,40830,Barbus barbus
-GCF_943734695.1,1496333,Anopheles maculipalpis
-GCA_009819605.1,108405,Sterna hirundo
-GCA_905147225.2,987935,Euproctis similis
-GCA_958496175.1,1560625,Sisyra terminalis
-GCF_027358695.1,233779,Spea bombifrons
-GCA_905340355.1,41101,Rhagonycha fulva
-GCF_015220235.1,27675,Choloepus didactylus
-GCA_020745705.1,243314,Hemiprocne comata
-GCF_008692025.1,42100,Phocoena sinus
-GCA_028451465.1,34844,Erethizon dorsatum
-GCA_030770545.1,158451,Macropodus opercularis
-GCA_030068015.2,2004850,Neoceratitis asiatica
-GCA_917563855.2,1218281,Limnephilus lunatus
-GCF_030265055.1,161450,Doryrhamphus excisus
-GCA_905147285.1,753189,Hypena proboscidalis
-GCA_932526495.1,240869,Bombylius major
-GCA_020226045.1,9886,Muntiacus reevesi
-GCF_009829145.1,296741,Chiroxiphia lanceolata
-GCA_032173965.1,50250,Sitta carolinensis
-GCA_030820635.1,1192867,Chroicocephalus ridibundus
-GCA_910592335.1,7084,Adalia bipunctata
-GCA_008658365.1,28689,Alca torda
-GCA_933228895.1,126231,Platycnemis pennipes
-GCA_028022735.1,33610,Gypaetus barbatus
-GCF_021018895.1,2871759,Seriola aureovittata
-GCF_009819795.1,219594,Aythya fuligula
-GCF_905147365.1,91739,Aricia agestis
-GCA_947568825.1,987436,Sphinx pinastri
-GCA_014839685.1,195821,Anableps anableps
-GCA_905147745.2,875884,Phlogophora meticulosa
-GCA_029448645.1,1862692,Andrena camellia
-GCA_032191515.1,33595,Phaenicophaeus curvirostris
-GCF_009764475.1,685728,Pristis pectinata
-GCA_024500275.1,693459,Phycodurus eques
-GCA_030157265.1,466960,Latheticus oryzae
-GCF_018320785.1,241271,Cheilinus undulatus
-GCA_018691245.2,432259,Ips nitidus
-GCA_902686455.2,55149,Sciurus vulgaris
-GCA_905187585.1,988025,Cyaniris semiargus
-GCA_020746105.1,297711,Trogon surrucura
-GCA_020796165.1,185825,Pantala flavescens
-GCF_901933205.1,87175,Camarhynchus parvulus
-GCF_028500815.1,75485,Rissa tridactyla
-GCA_910589475.2,301037,Bembecia ichneumoniformis
-GCF_001444195.1,32473,Xiphophorus couchianus
-GCA_017639485.1,670352,Pluvialis apricaria
-GCA_022829025.1,8284,Squalius cephalus
-GCA_027579695.1,443677,Neoarius graeffei
-GCA_937612035.1,91738,Aricia artaxerxes
-GCA_945859595.2,481575,Megachile willughbiella
-GCA_922984085.1,1219204,Sicus ferrugineus
-GCA_932526445.1,214311,Phragmatobia fuliginosa
-GCA_963082815.1,346801,Melanotus villosus
-GCA_905147355.2,1100916,Apotomis turbidana
-GCA_029853015.1,450224,Chelidonichthys spinosus
-GCF_017639655.2,148594,Falco naumanni
-GCA_020800305.1,439704,Porphyrio hochstetteri
-GCF_905333055.1,191418,Maniola jurtina
-GCF_014805685.1,175797,Silurus meridionalis
-GCA_029891345.1,614101,Dryococelus australis
-GCF_905147045.1,171585,Nymphalis io
-GCA_019802545.1,161469,Phyllopteryx taeniolatus
-GCA_944319695.1,330862,Tiphia femorata
-GCA_907165275.2,287375,Zygaena filipendulae
-GCA_935421135.1,192920,Bugulina stolonifera
-GCF_026230105.1,1163346,Diorhabda sublineata
-GCF_900963305.1,173247,Echeneis naucrates
-GCA_031753505.1,187417,Anomalospiza imberbis
-GCA_905147015.1,938238,Laspeyria flexula
-GCA_030765045.1,406589,Tenodera sinensis
-GCF_905147765.1,42275,Vanessa atalanta
-GCA_009769605.1,153643,Bucorvus abyssinicus
-GCF_027579445.1,2857394,Ammospiza nelsoni
-GCA_023079485.1,190676,Archilochus colubris
-GCA_905147385.1,270466,Limenitis camilla
-GCA_026230145.1,217247,Diorhabda elongata
-GCF_901709675.1,161584,Syngnathus acus
-GCA_029490765.1,8227,Euthynnus affinis
-GCA_028020825.1,8905,Podargus strigoides
-GCA_905147135.1,2561016,Blastobasis lacticolella
-GCF_014743375.2,1486046,Drosophila subpulchrella
-GCA_949628215.1,126867,Phalacrocorax aristotelis
-GCA_905147375.1,722673,Hylaea fasciaria
-GCA_023631565.1,57865,Gymnocephalus cernua
-GCF_012432095.1,369639,Onychostoma macrolepis
-GCA_023566465.1,100952,Cottus gobio
-GCA_027574665.1,54386,Rhynochetos jubatus
-GCF_028018845.1,44398,Melospiza georgiana
-GCA_934046635.1,1419289,Buathra laborator
-GCA_905147325.1,753204,Notodonta dromedarius
-GCA_916618145.1,467774,Emmelina monodactyla
-GCA_031468815.1,37578,Morus bassanus
-GCA_022829085.1,38527,Abramis brama
-GCA_961205875.1,1230162,Sialis fuliginosa
-GCA_949752805.1,283834,Deilephila elpenor
-GCA_910592395.2,88925,Lineus longissimus
-GCA_023851605.1,48850,Tamandua tetradactyla
-GCA_027942865.1,219752,Odontesthes bonariensis
-GCA_019472885.1,355685,Hydrophis curtus
-GCA_921293315.2,143722,Nemurella pictetii
-GCF_004027225.2,2489341,Strigops habroptila
-GCA_025594165.1,64680,Tamias sibiricus
-GCF_015846415.1,1582913,Triplophysa dalaica
-GCA_905147715.2,988049,Xestia xanthographa
-GCA_032357785.1,156567,Periparus ater
-GCF_003676215.2,43146,Rhopalosiphum maidis
-GCF_027791375.1,1002788,Indicator indicator
-GCF_912999745.1,76193,Papilio machaon
-GCA_030035685.1,1983395,Mobula birostris
-GCA_905147815.2,753216,Phalera bucephala
-GCF_905475465.1,78633,Pieris napi
-GCF_009769625.2,8869,Cygnus olor
-GCF_027887145.1,2857398,Ammospiza caudacuta
-GCA_963082785.1,878362,Philonthus spinipes
-GCA_936435175.1,1271742,Glyphotaelius pellucidus
-GCA_030522415.1,103215,Channallabes apus
-GCA_905147235.1,520884,Erynnis tages
-GCA_021018805.1,208062,Prinia subflava
-GCF_021464435.1,1086592,Cataglyphis hispanica
-GCA_020745685.1,34787,Tautogolabrus adspersus
-GCF_029582105.1,2939378,Oenanthe melanoleuca
-GCA_932294295.1,880429,Alitta virens
-GCA_947359425.1,296003,Lagria hirta
-GCA_905187575.2,203782,Celastrina argiolus
-GCA_905163495.3,116126,Cosmia trapezina
-GCA_905404115.1,988018,Pheosia gnoma
-GCF_024509145.1,187451,Vidua macroura
-GCA_009819655.1,48155,Sylvia atricapilla
-GCA_026956025.1,78449,Macaca cyclopis
-GCF_003331165.1,8084,Xiphophorus hellerii
-GCA_951804975.1,478167,Anthophora plumipes
-GCA_914767715.1,95170,Membranipora membranacea
-GCF_025201925.1,286002,Gopherus flavomarginatus
-GCA_949752895.1,151304,Dendrolimus pini
-GCA_029849275.1,534389,Papilio elwesi
-GCA_949319165.1,279420,Sialis lutaria
-GCA_905163555.1,1594315,Notocelia uddmanniana
-GCA_951394005.1,34676,Protophormia terraenovae
-GCA_905340365.1,30212,Vespula germanica
-GCA_905171665.2,36212,Trachurus trachurus
-GCA_027627225.1,152013,Congeria kusceri
-GCA_905404175.1,227532,Anthocharis cardamines
-GCA_018397935.1,903466,Propsilocerus akamusi
-GCA_030463535.1,930266,Salminus brasiliensis
-GCA_009859135.1,208979,Formica selysi
-GCA_028641665.1,2739011,Chelonus formosanus
-GCA_946965025.1,226147,Blera fallax
-GCA_031893025.1,238119,Leptodactylus fuscus
-GCA_958301585.1,511117,Merodon equestris
-GCA_956483605.1,96551,Tuberolachnus salignus
-GCA_937595015.1,265386,Polyommatus icarus
-GCA_031841125.1,2838189,Acanthococcus lagerstroemiae
-GCA_023653725.1,8616,Bungarus multicinctus
-GCF_009834535.1,419612,Camelus ferus
-GCF_016859285.1,8245,Xiphias gladius
-GCA_016735795.1,1561998,Caenorhabditis tropicalis
-GCA_027917425.1,8429,Gastrophryne carolinensis
-GCF_027409825.1,13676,Scomber japonicus
-GCA_963210335.1,148596,Falco punctatus
-GCF_943734755.1,186751,Anopheles moucheti
-GCA_914767635.1,653684,Melanostoma mellinum
-GCA_024416835.2,284583,Perccottus glenii
-GCF_947179515.1,10129,Apodemus sylvaticus
-GCA_905163415.1,753202,Noctua fimbriata
-GCA_951213105.1,336583,Amaurobius ferox
-GCA_029378335.1,1917227,Agrilus mali
-GCA_023238725.1,214431,Scortum barcoo
-GCF_023856365.1,42636,Brienomyrus brachyistius
-GCF_023078275.1,1035111,Leguminivora glycinivorella
-GCA_947044365.1,68564,Petrosia ficiformis
-GCA_944472135.2,157069,Trichobilharzia regenti
-GCA_901699155.2,177155,Streptopelia turtur
-GCF_009762535.1,1203425,Notolabrus celidotus
-GCA_003999625.1,123683,Oryzias javanicus
-GCA_907269125.1,1572519,Eristalis pertinax
-GCF_017654505.1,7913,Polyodon spathula
-GCA_951217065.1,226178,Baccha elongata
-GCA_930367205.1,483950,Acanthosoma haemorrhoidale
-GCA_009764595.1,135433,Geothlypis trichas
-GCA_013167095.2,1820382,Daphnia sinensis
-GCA_958496155.1,279440,Sisyra nigra
-GCA_026151205.1,2820187,Bolinopsis microptera
-GCF_963259705.1,98922,Myotis daubentonii
-GCA_960531455.1,503482,Urophora cardui
-GCF_025200985.1,103775,Drosophila gunungcola
-GCA_905163395.2,1101095,Endotricha flammealis
-GCA_927399465.1,596942,Sarcophaga caerulescens
-GCF_910589235.1,7445,Vespa crabro
-GCA_008369825.1,1572043,Triplophysa tibetana
-GCA_020091685.1,211835,Lutjanus erythropterus
-GCA_963457665.1,61751,Thysanoteuthis rhombus
-GCA_023078785.2,283855,Hyles euphorbiae
-GCA_918026865.1,444603,Phyllotreta striolata
-GCA_963383645.1,39082,Muscardinus avellanarius
-GCA_032158295.1,7614,Pycnopodia helianthoides
-GCA_963082975.1,146840,Labia minor
-GCA_949752695.1,92598,Melanostoma scalare
-GCF_014529535.1,38358,Bradysia coprophila
-GCF_903995425.1,38674,Onychomys torridus
-GCA_026979955.1,439358,Megalurothrips usitatus
-GCF_902806685.1,2795564,Maniola hyperantus
-GCA_018749465.1,291819,Paracanthobrama guichenoti
-GCA_951394365.1,100830,Tetrao urogallus
-GCA_012295275.1,216257,Chrysomallon squamiferum
-GCA_949775045.1,6116,Metridium senile
-GCA_949358305.1,1255758,Strigamia acuminata
-GCA_030770115.1,27404,Daphnia galeata
-GCA_023512825.1,209989,Liposcelis brunnea
-GCA_963455335.1,29065,Martes martes
-GCF_018831695.1,1606681,Puntigrus tetrazona
-GCA_030765055.1,7507,Mantis religiosa
-GCA_023969325.1,104658,Oryzias curvinotus
-GCA_029692045.1,82655,Conger conger
-GCA_963513935.1,295201,Aphrophora alni
-GCA_947650265.1,171736,Symphodus melops
-GCA_020466095.1,1046848,Chlorops oryzae
-GCA_027123335.1,80970,Amphiprion clarkii
-GCA_959613375.1,494771,Heteropelma amictum
-GCA_947179485.1,39272,Allacma fusca
-GCA_023658055.1,240832,Thaleichthys pacificus
-GCF_029633865.1,2546036,Lampris incognitus
-GCF_019320065.1,1574408,Cervus canadensis
-GCA_015227895.2,51355,Colaptes auratus
-GCA_004115045.3,187695,Sinella curviseta
-GCA_013421045.1,158624,Propylea japonica
-GCA_944472155.2,157070,Trichobilharzia szidati
-GCF_004329235.1,64176,Podarcis muralis
-GCA_013339685.2,266040,Hyalomma asiaticum
-GCA_014132575.2,1778380,Gasterosteus nipponicus
-GCA_947507565.1,121494,Oscarella lobularis
-GCF_026930045.1,327109,Uloborus diversus
-GCA_963281255.1,398365,Aphrocallistes beatrix
-GCA_030545055.2,102981,Neoaliturus tenellus
-GCA_023690525.1,644536,Holotrichia oblita
-GCF_026213295.1,1042646,Gadus chalcogrammus
-GCF_013339745.2,543639,Dermacentor silvarum
-GCA_017309665.1,169498,Coelopa frigida
-GCF_003255815.1,9565,Theropithecus gelada
-GCA_019512145.1,76066,Engystomops pustulosus
-GCA_009733165.1,35670,Naja naja
-GCA_947359475.1,375939,Heligmosomoides bakeri
-GCA_020002185.1,2080241,Paraescarpia echinospica
-GCF_011800845.1,8524,Zootoca vivipara
-GCA_944470395.2,1163369,Schistosoma turkestanicum
-GCA_013282895.1,133082,Eriosoma lanigerum
-GCA_015883425.2,245042,Lamprotornis superbus
-GCF_022355385.1,77151,Mustela nigripes
-GCA_018697195.1,186443,Certhia americana
-GCA_944474145.2,57078,Dicrocoelium dendriticum
-GCA_012977825.3,32389,Pteromalus puparum
-GCA_016801065.1,190870,Sceloporus tristichus
-GCA_014843695.1,2291877,Archivesica marissinica
-GCF_006229205.1,37032,Suricata suricatta
-GCA_028646425.1,83653,Grampus griseus
-GCA_028533385.1,9690,Panthera onca
-GCA_021229015.1,165599,Solen grandis
-GCA_028645565.1,100937,Papio papio
-GCA_028646535.1,9654,Procyon lotor
-GCA_017639355.1,12930,Amazona aestiva
-GCA_013398505.2,468512,Rhegmatorhina hoffmannsi
-GCF_014905685.2,451745,Nematolebias whitei
-GCA_014621495.2,245074,Entosphenus tridentatus
-GCA_002278615.1,235516,Pogonus chalceus
-GCF_027887155.1,2991368,Malaclemys terrapin pileata
-GCF_907164935.1,1437191,Osmia bicornis bicornis
-GCA_030533455.1,69241,Cyprinodon nevadensis mionectes
-GCA_019049465.1,2752932,Dryas iulia moderata
-GCA_027564155.1,334712,Gymnocypris eckloni scoliostomus
-GCA_947396885.1,243955,Heligmosomoides polygyrus polygyrus
-GCA_001746935.2,1037456,Setophaga coronata coronata
-GCF_027244095.1,884348,Hemicordylus capensis
-GCA_030412105.1,118683,Cyclura pinguis
-GCF_018350155.1,46844,Leopardus geoffroyi
-GCA_031835075.1,9490,Saguinus oedipus
-GCA_019924945.1,61376,Felis chaus
-GCF_030435805.1,9666,Mustela lutreola
-GCA_027409185.1,110931,Cynocephalus volans
-GCA_951804945.1,1330250,Podarcis cretensis
-GCA_030867105.1,283338,Liasis olivaceus
-GCA_947359355.1,210248,Acrocera orbiculus
-GCA_024291935.2,86973,Okapia johnstoni
-GCA_026122505.1,167804,Aldabrachelys gigantea
-GCA_949987585.1,246814,Pipistrellus pygmaeus
-GCA_024500485.1,561074,Vulpes ferrilata
-GCF_016432865.1,38775,Antechinus flavipes
-GCF_025265405.1,48708,Mesoplodon densirostris
-GCA_916610125.1,273409,Cheilosia vulpina
-GCA_024294585.1,246179,Vipera latastei
-GCA_930367235.1,1206372,Sarcophaga rosellei
-GCA_030765065.1,627735,Deroplatys truncata
-GCA_030463245.1,9629,Vulpes corsac
-GCA_943737955.1,2829445,Myopa tessellatipennis
-GCA_028829895.1,1134467,Sinotaia purificata
-GCA_024760905.1,243562,Plotosus lineatus
-GCF_028023285.1,2746895,Balaenoptera ricei
-GCF_009829155.1,36723,Mustela erminea
-GCA_954870665.1,511597,Stratiomys singularior
-GCA_936439885.1,613196,Nowickia ferox
-GCA_949820135.1,9988,Sylvilagus floridanus
-GCA_917880715.2,2663927,Criorhina berberina
-GCA_914767995.1,1918310,Thecocarcelia acutangulata
-GCA_916999025.1,335469,Orgyia antiqua
-GCA_916048285.2,2795671,Bellardia pandia
-GCA_019425775.1,904230,Rafetus swinhoei
-GCF_950005125.1,269649,Chionomys nivalis
-GCA_936431705.1,273407,Cheilosia pagana
-GCA_907269105.1,226151,Volucella inanis
-GCA_929108735.1,1411666,Andrena dorsata
-GCA_949987645.1,141258,Tachina grossa
-GCA_932526585.2,346820,Philonthus cognatus
-GCA_905220385.1,374264,Xylota sylvarum
-GCA_907269065.1,934829,Crocallis elinguaria
-GCA_948477245.1,997290,Thumatha senex
-GCA_910589285.2,997540,Mythimna ferrago
-GCF_029931775.1,460621,Euleptes europaea
-GCF_013368585.1,118141,Megalops cyprinoides
-GCA_930367265.1,423510,Catocala fraxini
-GCA_937001555.2,1101110,Hypsopygia costalis
-GCA_905333075.3,988071,Atethmia centrago
-GCA_910592155.1,1870435,Ypsolopha scabrella
-GCF_027744805.1,161453,Dunckerocampus dactyliophorus
-GCA_951802165.1,115343,Adalia decempunctata
-GCF_027744825.2,270530,Synchiropus splendidus
-GCA_911387765.1,218760,Pyrgus malvae
-GCA_933228815.1,2794001,Machimus atricapillus
-GCA_905404275.2,1869985,Hedya salicella
-GCA_923062675.1,1594453,Marasmarcha lunaedactyla
-GCA_951640165.1,2758353,Pseudoips prasinana
-GCA_911728495.1,987943,Furcula furcula
-GCA_927399485.1,1371681,Calamotropha paludella
-GCA_929112965.1,987983,Mythimna albipuncta
-GCA_905220435.1,689058,Amphipyra tragopoginis
-GCA_907165235.1,1101072,Zeuzera pyrina
-GCA_024489055.1,933992,Chanodichthys erythropterus
+accession,tax_id,organism_name,common_name
+GCF_000001405.40,9606,Homo sapiens,human
+GCF_000001635.27,10090,Mus musculus,house mouse
+GCF_019923935.1,89462,Bubalus bubalis,water buffalo
+GCA_023701655.1,2918886,Ovis ammon polii x Ovis aries,
+GCA_032405125.1,34865,Capricornis sumatraensis,Sumatran serow
+GCA_907164505.1,83762,Acomys kempi,Kemp's spiny mouse
+GCF_015227675.2,10116,Rattus norvegicus,Norway rat
+GCF_000003025.6,9823,Sus scrofa,pig
+GCF_002263795.3,9913,Bos taurus,cattle
+GCF_011100685.1,9615,Canis lupus familiaris,dog
+GCF_003254725.2,286419,Canis lupus dingo,dingo
+GCF_003339765.1,9544,Macaca mulatta,Rhesus monkey
+GCF_016772045.1,9940,Ovis aries,sheep
+GCF_001704415.2,9925,Capra hircus,goat
+GCF_012559485.2,9541,Macaca fascicularis,crab-eating macaque
+GCF_009806435.1,9986,Oryctolagus cuniculus,rabbit
+GCF_002863925.1,9796,Equus caballus,horse
+GCF_018350175.1,9685,Felis catus,domestic cat
+GCF_011100555.1,9483,Callithrix jacchus,white-tufted-ear marmoset
+GCF_000247795.1,9915,Bos indicus,zebu cattle
+GCA_005887515.3,30521,Bos grunniens,domestic yak
+GCF_028858775.1,9598,Pan troglodytes,chimpanzee
+GCF_011064425.1,10117,Rattus rattus,black rat
+GCF_027887165.1,13616,Monodelphis domestica,gray short-tailed opossum
+GCF_008728515.1,9555,Papio anubis,olive baboon
+GCF_016881025.1,43179,Ictidomys tridecemlineatus,thirteen-lined ground squirrel
+GCF_016077325.2,9793,Equus asinus,ass
+GCF_011762595.1,9739,Tursiops truncatus,common bottlenose dolphin
+GCF_003704035.1,230844,Peromyscus maniculatus bairdii,prairie deer mouse
+GCF_004115265.2,59479,Rhinolophus ferrumequinum,greater horseshoe bat
+GCF_002007445.2,9646,Ailuropoda melanoleuca,giant panda
+GCF_018350195.1,9694,Panthera tigris,tiger
+GCF_000803125.2,9838,Camelus dromedarius,Arabian camel
+GCF_020171115.1,452646,Neogale vison,American mink
+GCF_902635505.1,9305,Sarcophilus harrisii,Tasmanian devil
+GCA_028372415.1,9315,Notamacropus eugenii,tammar wallaby
+GCF_000317375.1,79684,Microtus ochrogaster,prairie vole
+GCF_029281585.1,9595,Gorilla gorilla gorilla,western lowland gorilla
+GCF_030445035.1,9361,Dasypus novemcinctus,nine-banded armadillo
+GCF_004664715.2,10041,Peromyscus leucopus,white-footed mouse
+GCF_003369695.1,30522,Bos indicus x Bos taurus,hybrid cattle
+GCF_004115215.2,9258,Ornithorhynchus anatinus,platypus
+GCF_023065955.2,9644,Ursus arctos,brown bear
+GCF_024166365.1,99487,Elephas maximus indicus,
+GCA_949782905.1,228257,Rangifer tarandus platyrhyncus,
+GCA_029890205.1,10068,Acomys cahirinus,Egyptian spiny mouse
+GCF_007565055.1,61622,Rhinopithecus roxellana,golden snub-nosed monkey
+GCF_910594005.1,9860,Cervus elaphus,red deer
+GCF_028885625.1,9600,Pongo pygmaeus,Bornean orangutan
+GCF_028885655.1,9601,Pongo abelii,Sumatran orangutan
+GCF_015852505.1,9261,Tachyglossus aculeatus,Australian echidna
+GCF_027475565.1,32536,Acinonyx jubatus,cheetah
+GCA_028021215.1,9764,Eschrichtius robustus,grey whale
+GCF_018345385.1,494514,Vulpes lagopus,Arctic fox
+GCF_030020395.1,143292,Manis pentadactyla,Chinese pangolin
+GCF_022682495.1,9430,Desmodus rotundus,common vampire bat
+GCF_021288785.2,9716,Mirounga angustirostris,Northern elephant seal
+GCF_016509475.1,37029,Prionailurus bengalensis,leopard cat
+GCF_029289425.1,9597,Pan paniscus,pygmy chimpanzee
+GCF_006542625.1,61853,Nomascus leucogenys,northern white-cheeked gibbon
+GCF_030435755.1,9978,Ochotona princeps,American pika
+GCF_002837175.3,9755,Physeter catodon,sperm whale
+GCA_000978405.1,9923,Capra aegagrus,wild goat
+GCA_020976825.1,9872,Odocoileus hemionus,mule deer
+GCF_023159225.1,214514,Perognathus longimembris pacificus,Pacific pocket mouse
+GCA_028583565.1,230172,Ovis ammon polii,
+GCF_018350215.1,9689,Panthera leo,lion
+GCF_937001465.1,9733,Orcinus orca,killer whale
+GCF_009762305.2,9704,Zalophus californianus,California sea lion
+GCF_902655055.1,9657,Lutra lutra,Eurasian river otter
+GCF_011762505.1,61156,Arvicanthis niloticus,Nile rat
+GCA_921997135.2,10096,Mus spretus,western wild mouse
+GCF_027595985.1,42254,Sorex araneus,European shrew
+GCF_030028045.1,575201,Hippopotamus amphibius kiboko,
+GCF_021613505.1,89248,Equus quagga,plains zebra
+GCA_003704135.2,369710,Peromyscus polionotus subgriseus,
+GCF_029407905.1,346063,Bubalus carabanensis,carabao
+GCA_030848825.1,9438,Tadarida brasiliensis,Brazilian free-tailed bat
+GCF_922984935.1,9662,Meles meles,Eurasian badger
+GCA_009493645.1,331036,Bos grunniens x Bos taurus,dzo
+GCA_031878705.1,9802,Tapirus indicus,Asiatic tapir
+GCF_027574615.1,29078,Eptesicus fuscus,big brown bat
+GCF_026419965.1,27615,Kogia breviceps,pygmy sperm whale
+GCA_014523465.1,469796,Ovis orientalis,Asiatic mouflon
+GCA_027563665.1,9440,Antrozous pallidus,pallid bat
+GCF_027406575.1,9470,Nycticebus coucang,slow loris
+GCF_019393635.1,33562,Dromiciops gliroides,monito del monte
+GCF_020740605.2,9447,Lemur catta,Ring-tailed lemur
+GCF_020740685.1,51337,Jaculus jaculus,lesser Egyptian jerboa
+GCF_902686445.1,30640,Sciurus carolinensis,gray squirrel
+GCA_014182915.2,9904,Bos gaurus,gaur
+GCA_030068075.1,9675,Paguma larvata,masked palm civet
+GCF_004126475.2,89673,Phyllostomus discolor,pale spear-nosed bat
+GCF_009873245.2,9771,Balaenoptera musculus,Blue whale
+GCA_903992545.1,59474,Pipistrellus pipistrellus,common pipistrelle
+GCF_011100635.1,9337,Trichosurus vulpecula,common brushtail
+GCF_949987515.1,9728,Delphinus delphis,saddleback dolphin
+GCF_949987535.1,9767,Balaenoptera acutorostrata,minke whale
+GCF_950295315.1,9365,Erinaceus europaeus,western European hedgehog
+GCF_000165445.2,30608,Microcebus murinus,gray mouse lemur
+GCA_009760805.1,62621,Lepus timidus,Mountain hare
+GCA_000772465.1,43780,Nasalis larvatus,proboscis monkey
+GCF_024542745.1,257877,Macaca thibetana thibetana,
+GCF_020826845.1,77932,Diceros bicornis minor,
+GCF_028878055.1,9590,Symphalangus syndactylus,siamang
+GCA_030015415.1,9400,Cynopterus sphinx,Indian short-nosed fruit bat
+GCA_028571685.1,77598,Heterohyrax brucei,yellow-spotted hyrax
+GCF_022837055.1,61388,Prionailurus viverrinus,fishing cat
+GCA_029410595.1,74864,Martes flavigula,yellow-throated marten
+GCF_023091745.1,37181,Budorcas taxicolor,takin
+GCA_032313775.1,55040,Urocyon cinereoargenteus,gray fox
+GCA_030035585.1,29137,Dugong dugon,dugong
+GCF_028018385.1,61452,Neofelis nebulosa,Clouded leopard
+GCA_028564815.1,27606,Eubalaena glacialis,North Atlantic right whale
+GCA_031876335.1,175524,Hipposideros larvatus,
+GCF_015220235.1,27675,Choloepus didactylus,southern two-toed sloth
+GCF_008692025.1,42100,Phocoena sinus,vaquita
+GCA_028451465.1,34844,Erethizon dorsatum,North American porcupine
+GCA_020226045.1,9886,Muntiacus reevesi,Reeves' muntjac
+GCA_902686455.2,55149,Sciurus vulgaris,Eurasian red squirrel
+GCA_023851605.1,48850,Tamandua tetradactyla,southern tamandua
+GCA_025594165.1,64680,Tamias sibiricus,Siberian chipmunk
+GCA_026956025.1,78449,Macaca cyclopis,Taiwan macaque
+GCF_009834535.1,419612,Camelus ferus,Wild Bactrian camel
+GCF_947179515.1,10129,Apodemus sylvaticus,European woodmouse
+GCF_963259705.1,98922,Myotis daubentonii,Daubenton's bat
+GCA_963383645.1,39082,Muscardinus avellanarius,hazel dormouse
+GCF_903995425.1,38674,Onychomys torridus,southern grasshopper mouse
+GCA_963455335.1,29065,Martes martes,European pine marten
+GCF_019320065.1,1574408,Cervus canadensis,elk
+GCF_003255815.1,9565,Theropithecus gelada,gelada
+GCF_022355385.1,77151,Mustela nigripes,black-footed ferret
+GCF_006229205.1,37032,Suricata suricatta,meerkat
+GCA_028646425.1,83653,Grampus griseus,Risso's dolphin
+GCA_028533385.1,9690,Panthera onca,jaguar
+GCA_028645565.1,100937,Papio papio,Guinea baboon
+GCA_028646535.1,9654,Procyon lotor,raccoon
+GCF_018350155.1,46844,Leopardus geoffroyi,Geoffroy's cat
+GCA_031835075.1,9490,Saguinus oedipus,cotton-top tamarin
+GCA_019924945.1,61376,Felis chaus,jungle cat
+GCF_030435805.1,9666,Mustela lutreola,European mink
+GCA_027409185.1,110931,Cynocephalus volans,Philippine flying lemur
+GCA_024291935.2,86973,Okapia johnstoni,okapi
+GCA_949987585.1,246814,Pipistrellus pygmaeus,soprano pipistrelle
+GCA_024500485.1,561074,Vulpes ferrilata,Tibetan sand fox
+GCF_016432865.1,38775,Antechinus flavipes,yellow-footed antechinus
+GCF_025265405.1,48708,Mesoplodon densirostris,Blainville's beaked whale
+GCA_030463245.1,9629,Vulpes corsac,Corsac fox
+GCF_028023285.1,2746895,Balaenoptera ricei,Rice's whale
+GCF_009829155.1,36723,Mustela erminea,ermine
+GCA_949820135.1,9988,Sylvilagus floridanus,eastern cottontail
+GCF_950005125.1,269649,Chionomys nivalis,European snow vole
+GCA_023898255.1,261741,Nycticebus bengalensis,Bengal slow loris
+GCA_021498465.1,9589,Hylobates pileatus,pileated gibbon
+GCF_016906955.1,41426,Phacochoerus africanus,Common warthog
+GCF_007474595.2,61383,Lynx canadensis,Canada lynx
+GCF_903992535.2,1047088,Arvicola amphibius,Eurasian water vole
+GCF_024139225.1,109475,Suncus etruscus,white-toothed pygmy shrew
+GCF_903995435.1,60746,Acomys russatus,golden spiny mouse
+GCA_951394435.1,9737,Stenella coeruleoalba,striped dolphin
+GCF_949774975.1,27610,Lagenorhynchus albirostris,white-beaked dolphin
+GCA_949752795.1,48744,Hyperoodon ampullatus,northern bottlenose whale
+GCA_963455305.1,61862,Plecotus auritus,brown big-eared bat
+GCF_949786415.1,42410,Peromyscus eremicus,cactus mouse
+GCA_010411085.1,84702,Cervus hanglu yarkandensis,Yarkand deer
+GCA_008782695.1,9888,Muntiacus muntjak,muntjak
+GCF_002201575.2,29088,Neomonachus schauinslandi,Hawaiian monk seal
+GCF_023721935.1,29064,Panthera uncia,snow leopard
+GCA_028646485.1,94188,Cryptoprocta ferox,fossa
+GCA_028551375.1,9638,Tremarctos ornatus,spectacled bear
+GCA_028646465.1,9809,Rhinoceros unicornis,greater Indian rhinoceros
+GCF_002776525.5,591936,Piliocolobus tephrosceles,Ugandan red Colobus
+GCF_900094665.2,10089,Mus caroli,Ryukyu mouse
+GCF_008632895.1,35658,Mastomys coucha,southern multimammate mouse
+GCF_900095145.1,10093,Mus pahari,shrew mouse
+GCA_028975605.1,9719,Pusa sibirica,Baikal seal
+GCA_018282465.1,297284,Bos taurus x Bison bison,beefalo
+GCA_946052875.1,1705790,Bos gaurus x Bos taurus,hybrid cow
+GCA_949786405.1,38679,Onychomys arenicola,Chihuahuan grasshopper mouse
+GCA_020276665.1,71854,Muntiacus crinifrons,black muntjac
+GCA_023065765.1,56798,Hexaprotodon liberiensis,pygmy hippopotamus
+GCA_949786385.1,38668,Onychomys leucogaster,northern grasshopper mouse
+GCA_030247045.1,33548,Colobus guereza,mantled guereza
+GCA_020854095.1,9279,Dasyurus viverrinus,eastern quoll
+GCA_017591445.1,2740528,Giraffa camelopardalis rothschildi,
+GCA_021498475.1,30586,Saguinus midas,Midas tamarin
+GCA_028533765.1,196297,Pteropus rufus,Malagasy flying fox
+GCA_020226075.1,9883,Hydropotes inermis,Chinese water deer
+GCA_028627145.1,58063,Eidolon dupreanum,Malagasy straw-colored fruit bat
+GCA_028533335.1,68728,Chrysocyon brachyurus,maned wolf
+GCA_028551445.1,36231,Miopithecus talapoin,talapoin
+GCA_028533245.1,9634,Helarctos malayanus,Malayan sun bear
+GCF_016433145.1,191870,Gracilinanus agilis,Agile Gracile Mouse Opossum
+GCA_028534135.1,29067,Potos flavus,kinkajou
+GCA_028533885.1,352831,Nasua narica,White-nosed coati
+GCA_028533395.1,77223,Rousettus madagascariensis,Madagascan rousette
+GCA_028646355.1,161921,Arctocephalus townsendi,Guadalupe fur seal
+GCA_028533065.1,148073,Trachops cirrhosus,
+GCA_028646385.1,46167,Steno bredanensis,rough-toothed dolphin
+GCA_015711505.1,365149,Sylvilagus bachmani,brush rabbit
+GCA_028644305.1,226860,Xerus rutilus,unstriped ground squirrel
+GCA_028533205.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_028533165.1,30588,Leontopithecus rosalia,golden lion tamarin
+GCA_028533215.1,1303000,Babyrousa celebensis,North Sulawesi babirusa
+GCA_028551405.1,36800,Uromys caudimaculatus,giant uromys
+GCA_028658305.1,298894,Pachyuromys duprasi,fat-tailed gerbil
+GCA_028658325.1,173936,Potorous gilbertii,Gilbert's potoroo
+GCA_028627215.1,9317,Macropus giganteus,eastern gray kangaroo
+GCA_028533085.1,9455,Varecia variegata,ruffed lemur
+GCA_028534055.1,34828,Eulemur mongoz,mongoose lemur
+GCA_907164435.1,60744,Acomys dimidiatus,
+GCA_028534165.1,187985,Coendou prehensilis,
+GCA_028583105.1,9316,Macropus fuliginosus,western gray kangaroo
+GCA_028627265.1,36225,Cercopithecus mitis,blue monkey
+GCA_028646595.1,65615,Phalanger gymnotis,
+GCA_028627135.1,37702,Pseudochirops cupreus,coppery ringtail possum
+GCA_028646515.1,65629,Pseudochirops corinnae,golden ringtail possum
+GCA_907169655.1,83527,Acomys percivali,Percival's spiny mouse
+GCA_013496395.1,439328,Giraffa tippelskirchi,
+GCA_028646575.1,656515,Pseudocheirus occidentalis,Western ringtail oppossum
+GCF_000164845.4,30538,Vicugna pacos,alpaca
+GCF_017311325.1,29073,Ursus maritimus,polar bear
+GCF_017639785.1,10036,Mesocricetus auratus,golden hamster
+GCF_000223135.1,10029,Cricetulus griseus,Chinese hamster
+GCF_015252025.1,60711,Chlorocebus sabaeus,green monkey
+GCF_011764305.1,9669,Mustela putorius furo,domestic ferret
+GCF_000151735.1,10141,Cavia porcellus,domestic guinea pig
+GCA_023783515.1,9534,Chlorocebus aethiops,grivet
+GCF_000247695.1,10181,Heterocephalus glaber,naked mole-rat
+GCF_000767855.1,9837,Camelus bactrianus,Bactrian camel
+GCF_000956065.1,9545,Macaca nemestrina,pig-tailed macaque
+GCF_021218885.2,9995,Marmota monax,woodchuck
+GCA_023781915.1,9557,Papio hamadryas,hamadryas baboon
+GCF_022376915.1,68408,Moschus berezovskii,Chinese forest musk deer
+GCF_002099425.1,38626,Phascolarctos cinereus,koala
+GCF_000334495.1,246437,Tupaia chinensis,Chinese tree shrew
+GCA_000181375.1,37347,Tupaia belangeri,northern tree shrew
+GCA_030556225.1,10044,Phodopus sungorus,Djungarian hamster
+GCF_902806735.1,447135,Myodes glareolus,Bank vole
+GCF_014570535.1,9974,Manis javanica,Malayan pangolin
+GCF_000001905.1,9785,Loxodonta africana,African savanna elephant
+GCF_000147115.1,59463,Myotis lucifugus,little brown bat
+GCF_002204375.1,10047,Meriones unguiculatus,Mongolian gerbil
+GCF_020975775.1,9643,Ursus americanus,American black bear
+GCF_002288925.2,9749,Delphinapterus leucas,beluga whale
+GCF_014176215.1,9407,Rousettus aegyptiacus,Egyptian rousette
+GCF_000325575.1,9402,Pteropus alecto,black flying fox
+GCA_007844835.1,30520,Bos frontalis,gayal
+GCA_003118495.1,9543,Macaca fuscata fuscata,Japanese macaque
+GCF_021234435.1,9417,Artibeus jamaicensis,Jamaican fruit-eating bat
+GCF_000283155.1,73337,Ceratotherium simum simum,southern white rhinoceros
+GCF_017591425.1,130825,Ochotona curzoniae,black-lipped pika
+GCF_003426925.1,9999,Urocitellus parryii,Arctic ground squirrel
+GCF_003160815.1,9627,Vulpes vulpes,red fox
+GCF_000622305.1,1026970,Nannospalax galili,Upper Galilee mountains blind mole rat
+GCF_000298355.1,72004,Bos mutus,wild yak
+GCF_000754665.1,43346,Bison bison bison,
+GCF_002102435.1,9880,Odocoileus virginianus texanus,
+GCF_905146905.1,34880,Nyctereutes procyonoides,raccoon dog
+GCA_024803745.1,10013,Thomomys bottae,Botta's pocket gopher
+GCF_014885135.2,100897,Microtus fortis,reed vole
+GCA_004025045.1,42415,Sigmodon hispidus,hispid cotton rat
+GCF_000151845.1,132908,Pteropus vampyrus,large flying fox
+GCA_001675575.1,56216,Neotoma lepida,desert woodrat
+GCF_007827085.1,564181,Peromyscus californicus insignis,
+GCF_003031525.2,1706337,Neophocaena asiaeorientalis asiaeorientalis,Yangtze finless porpoise
+GCA_009660055.1,441215,Ursus thibetanus thibetanus,
+GCA_951849835.1,9858,Capreolus capreolus,Western roe deer
+GCA_023783475.1,31869,Daubentonia madagascariensis,aye-aye
+GCF_014108235.1,51298,Myotis myotis,
+GCA_003508835.1,58065,Eonycteris spelaea,lesser dawn bat
+GCF_001984765.1,51338,Castor canadensis,American beaver
+GCF_004028035.1,34886,Eumetopias jubatus,Steller sea lion
+GCF_009761245.1,9515,Sapajus apella,tufted capuchin
+GCA_009823505.1,53275,Rhizomys pruinosus,hoary bamboo rat
+GCA_015832495.2,9852,Alces alces,Eurasian elk
+GCF_012274545.1,885580,Fukomys damarensis,Damara mole-rat
+GCA_002406435.1,99837,Spermophilus dauricus,Daurian ground squirrel
+GCF_003327715.1,9696,Puma concolor,puma
+GCF_000696425.1,482537,Galeopterus variegatus,Sunda flying lemur
+GCF_000260255.1,10160,Octodon degus,degu
+GCA_004026945.1,37174,Ovis canadensis,bighorn sheep
+GCF_022079265.1,61384,Lynx rufus,bobcat
+GCA_028537955.1,100895,Microtus californicus,California vole
+GCA_029958975.1,9983,Lepus europaeus,European hare
+GCF_943737965.1,109678,Phodopus roborovskii,desert hamster
+GCA_024711535.1,94247,Dipodomys merriami,Merriam's kangaroo rat
+GCF_005190385.1,40151,Monodon monoceros,narwhal
+GCF_003676075.3,93162,Marmota flaviventris,yellow-bellied marmot
+GCF_000952055.2,37293,Aotus nancymaae,Ma's night monkey
+GCF_000955945.1,9531,Cercocebus atys,sooty mangabey
+GCA_004026525.1,9433,Miniopterus schreibersii,Schreibers' long-fingered bat
+GCF_907164565.1,48139,Psammomys obesus,fat sand rat
+GCA_004026605.1,10060,Ondatra zibethicus,muskrat
+GCA_004216515.1,9622,Lycaon pictus,African hunting dog
+GCF_000696695.1,9798,Equus przewalskii,Przewalski's horse
+GCA_027943515.1,73109,Tokudaia osimensis,Amami-oshima island spiny rat
+GCA_030674055.1,121573,Rhabdomys pumilio,four-striped grass mouse
+GCF_001890085.2,186990,Hipposideros armiger,great roundleaf bat
+GCF_000164805.1,1868482,Carlito syrichta,Philippine tarsier
+GCF_000243295.1,127582,Trichechus manatus latirostris,Florida manatee
+GCF_001698545.2,61621,Rhinopithecus bieti,black snub-nosed monkey
+GCA_000152225.2,9813,Procavia capensis,Cape rock hyrax
+GCA_007455615.1,47230,Microtus arvalis,Common vole
+GCA_004024705.2,68415,Moschus moschiferus,Siberian musk deer
+GCF_000181295.1,30611,Otolemur garnettii,small-eared galago
+GCA_004025085.1,10169,Thryonomys swinderianus,Greater cane rat
+GCA_019593525.1,59515,Addax nasomaculatus,
+GCA_004329385.1,9773,Megaptera novaeangliae,humpback whale
+GCA_005458795.1,93167,Marmota vancouverensis,Vancouver Island marmot
+GCA_011754075.1,48723,Pontoporia blainvillei,franciscana
+GCA_017311385.1,118798,Platanista gangetica,Ganges River dolphin
+GCF_021234165.1,1884717,Pteronotus parnellii mesoamericanus,
+GCF_002288905.1,391180,Enhydra lutris kenyoni,northern sea otter
+GCF_000321225.1,9708,Odobenus rosmarus divergens,Pacific walrus
+GCA_028583685.1,3040969,Petaurus breviceps papuanus,
+GCA_025583905.1,360967,Ia io,Great evening bat
+GCF_018167655.1,111838,Microtus oregoni,creeping vole
+GCA_028538775.1,159337,Myotis yumanensis,
+GCA_023748175.1,593543,Hoolock leuconedys,eastern hoolock gibbon
+GCF_014108415.1,27622,Molossus molossus,Pallas's mastiff bat
+GCA_026230045.1,124745,Corynorhinus townsendii,Townsend's big-eared bat
+GCA_023783455.1,9538,Erythrocebus patas,red guenon
+GCA_023783575.1,9514,Cebus albifrons,white-fronted capuchin
+GCF_009764315.1,54180,Trachypithecus francoisi,Francois's langur
+GCF_014108245.1,59472,Pipistrellus kuhlii,Kuhl's pipistrelle
+GCF_019054845.1,105255,Dipodomys spectabilis,banner-tailed kangaroo rat
+GCA_027257055.1,9477,Cephalopachus bancanus,Horsfield's tarsier
+GCF_016699345.2,39432,Saimiri boliviensis boliviensis,Bolivian squirrel monkey
+GCA_902825105.1,9970,Syncerus caffer,African buffalo
+GCA_021653895.1,10112,Mastomys natalensis,African soft-furred rat
+GCA_021462335.1,37176,Ovibos moschatus,muskox
+GCA_900642305.1,37190,Arctocephalus gazella,antarctic fur seal
+GCF_006547405.1,9731,Globicephala melas,long-finned pilot whale
+GCF_003009895.1,95912,Hyaena hyaena,striped hyena
+GCF_004348235.1,9720,Phoca vitulina,harbor seal
+GCF_009828535.3,81572,Hylobates moloch,silvery gibbon
+GCF_003676395.1,90247,Lagenorhynchus obliquidens,Pacific white-sided dolphin
+GCA_004363575.1,79805,Solenodon paradoxus,Hispaniolan solenodon
+GCA_007570785.1,9891,Antilocapra americana,pronghorn
+GCF_011800145.1,9715,Mirounga leonina,Southern elephant seal
+GCA_003798545.1,57737,Axis porcinus,Hog deer
+GCA_004025025.1,9801,Tapirus terrestris,Brazilian tapir
+GCA_004027455.1,10149,Hydrochoerus hydrochaeris,capybara
+GCA_023338255.1,9770,Balaenoptera physalus,Fin whale
+GCA_007760645.1,103600,Sousa chinensis,Indo-pacific humpbacked dolphin
+GCA_029783875.1,358128,Phataginus tricuspis,Tree pangolin
+GCA_005280165.1,93163,Marmota himalayana,Himalayan marmot
+GCA_008692635.1,9678,Crocuta crocuta,spotted hyena
+GCA_004363495.1,9742,Phocoena phocoena,harbor porpoise
+GCA_004027575.1,10085,Cricetomys gambianus,Gambian giant pouched rat
+GCA_012922965.1,48560,Capreolus pygargus,Eastern roe deer
+GCA_004024965.2,9849,Tragulus javanicus,Java mouse-deer
+GCA_021188215.1,9540,Macaca arctoides,stump-tailed macaque
+GCA_004026885.1,9413,Megaderma lyra,Indian false vampire
+GCA_012583365.1,36722,Martes zibellina,sable
+GCF_000276665.1,34839,Chinchilla lanigera,long-tailed chinchilla
+GCA_007922755.1,10023,Pedetes capensis,springhare
+GCF_001604975.1,2715852,Cebus imitator,Panamanian white-faced capuchin
+GCA_023553655.1,55782,Myrmecobius fasciatus,numbat
+GCA_004027165.1,43321,Ctenomys sociabilis,social tuco-tuco
+GCA_008086735.1,9460,Cheirogaleus medius,Lesser dwarf lemur
+GCA_021018665.1,43332,Elaphurus davidianus,Pere David's deer
+GCF_000951045.1,9568,Mandrillus leucophaeus,drill
+GCA_004024685.1,323379,Dipodomys stephensi,Stephens's kangaroo rat
+GCA_016801275.1,143286,Hystrix brachyura,
+GCF_000956105.1,379532,Propithecus coquereli,Coquerel's sifaka
+GCA_004025065.1,88029,Semnopithecus entellus,Hanuman langur
+GCA_004363515.1,9725,Inia geoffrensis,boutu
+GCA_003182575.1,59542,Pseudois nayaur,bharal
+GCA_004363435.1,48752,Platanista minor,Indus River dolphin
+GCF_000313985.2,9371,Echinops telfairi,small Madagascar hedgehog
+GCA_007922815.1,9419,Macrotus californicus,California big-eared bat
+GCF_000327345.1,225400,Myotis davidii,
+GCA_004026855.1,48086,Lepus americanus,snowshoe hare
+GCA_002335545.1,105296,Apodemus speciosus,large Japanese field mouse
+GCA_000688575.1,37548,Cavia aperea,Brazilian guinea pig
+GCA_024510155.1,2888765,Gulo gulo luscus,American wolverine
+GCF_001458135.2,9994,Marmota marmota marmota,Alpine marmot
+GCA_013239585.1,273914,Lama glama chaku,
+GCA_014189135.1,310711,Dicerorhinus sumatrensis harrissoni,
+GCA_028564725.1,61408,Otocolobus manul,Pallas's cat
+GCA_030846915.1,59451,Eptesicus nilssonii,northern bat
+GCF_029834395.1,62283,Sorex fumeus,smoky shrew
+GCA_917880005.1,67940,Nanger dama,Dama gazelle
+GCF_019186645.2,9423,Phyllostomus hastatus,greater spear-nosed bat
+GCA_023783555.1,9509,Ateles geoffroyi,black-handed spider monkey
+GCF_024362965.1,9691,Panthera pardus,leopard
+GCA_023783085.1,9561,Mandrillus sphinx,mandrill
+GCA_023764695.1,310352,Pygathrix nigripes,Black-shanked douc langur
+GCA_023783065.1,9586,Nomascus siki,southern white-cheeked gibbon
+GCA_026018925.1,70687,Tupaia tana,large tree shrew
+GCA_902806775.1,29092,Microtus agrestis,short-tailed field vole
+GCF_014898055.3,50954,Talpa occidentalis,Iberian mole
+GCF_014824575.3,192404,Sturnira hondurensis,
+GCA_023101885.1,687455,Typhlomys cinereus,Soft-furred tree mouse
+GCF_012393455.1,9711,Halichoerus grypus,gray seal
+GCF_010015895.1,76717,Lontra canadensis,Northern American river otter
+GCA_011680675.1,38618,Gymnobelideus leadbeateri,Leadbeater's possum
+GCA_003182615.2,72544,Capra sibirica,Siberian ibex
+GCF_014754425.2,59534,Oryx dammah,scimitar-horned oryx
+GCA_004027375.1,326083,Macroglossus sobrinus,
+GCA_020311275.1,204263,Eira barbara,Tayra
+GCF_902729225.1,143291,Pteropus giganteus,Indian flying fox
+GCA_019141155.1,36239,Mustela nivalis,least weasel
+GCA_004023785.1,210652,Mungos mungo,banded mongoose
+GCA_004027475.1,27642,Anoura caudifer,tailed tailless bat
+GCA_004024845.1,171122,Tonatia saurophila,stripe-headed round-eared bat
+GCA_004026585.1,94963,Noctilio leporinus,greater bulldog bat
+GCF_003265705.1,34884,Callorhinus ursinus,northern fur seal
+GCA_026826555.1,183749,Tolypeutes matacus,
+GCA_011751065.1,257879,Aeorestes cinereus,hoary bat
+GCA_004023845.1,210647,Helogale parvula,dwarf mongoose
+GCA_902729485.2,10105,Mus minutoides,Southern African pygmy mouse
+GCF_014898765.1,1608482,Puma yagouaroundi,jaguarundi
+GCA_002007465.1,424585,Ailurus styani,
+GCA_029532125.1,63225,Lepus townsendii,white-tailed jackrabbit
+GCA_004024605.1,9672,Pteronura brasiliensis,giant otter
+GCA_006408695.1,9897,Aepyceros melampus,impala
+GCA_020662805.1,64683,Glaucomys volans,southern flying squirrel
+GCA_019455555.1,202257,Galemys pyrenaicus,
+GCA_000164785.2,9358,Choloepus hoffmanni,Hoffmann's two-fingered sloth
+GCA_004023965.1,30551,Spilogale gracilis,western spotted skunk
+GCA_004026765.1,148065,Micronycteris hirsuta,
+GCA_004024585.1,71117,Paradoxurus hermaphroditus,Asian palm civet
+GCA_004024645.1,47180,Mirza coquereli,Coquerel's mouse lemur
+GCA_004027495.1,59527,Beatragus hunteri,
+GCF_004785775.1,491861,Grammomys surdaster,
+GCA_004024825.1,54133,Pygathrix nemaeus,Red shanked douc langur
+GCA_004027835.1,30589,Alouatta palliata,mantled howler monkey
+GCA_004024625.1,9664,Mellivora capensis,ratel
+GCF_000151885.1,10020,Dipodomys ordii,Ord's kangaroo rat
+GCA_003258685.1,1328070,Prolemur simus,greater bamboo lemur
+GCF_000260355.1,143302,Condylura cristata,star-nosed mole
+GCA_004024945.1,182669,Uropsilus gracilis,gracile shrew mole
+GCA_004027715.1,230833,Plecturocebus donacophilus,Bolivian titi
+GCA_015472975.1,9408,Rousettus leschenaultii,Leschenault's rousette
+GCA_023170115.1,68741,Speothos venaticus,bush dog
+GCF_000951035.1,336983,Colobus angolensis palliatus,
+GCA_004026745.1,71006,Myrmecophaga tridactyla,giant anteater
+GCA_004026805.1,258930,Lasiurus borealis,red bat
+GCA_004363455.1,302098,Eubalaena japonica,North Pacific right whale
+GCA_025584935.1,27596,Bubalus depressicornis,lowland anoa
+GCA_004027875.1,51342,Aplodontia rufa,mountain beaver
+GCA_016801355.1,61394,Caracal caracal,caracal
+GCF_000442215.2,118797,Lipotes vexillifer,Yangtze River dolphin
+GCF_001595765.1,291302,Miniopterus natalensis,
+GCA_004027085.1,48745,Mesoplodon bidens,Sowerby's beaked whale
+GCA_004027025.1,10157,Myocastor coypus,nutria
+GCA_004363605.1,34827,Indri indri,
+GCA_004027185.1,41261,Glis glis,Fat dormouse
+GCF_000299155.1,28737,Elephantulus edwardii,Cape elephant shrew
+GCF_000349705.1,9713,Leptonychotes weddellii,Weddell seal
+GCF_000412655.1,109478,Myotis brandtii,Brandt's bat
+GCA_028555095.1,85952,Dicrostonyx torquatus,Arctic lemming
+GCA_004027275.1,13515,Eulemur fulvus,brown lemur
+GCF_000296735.1,185453,Chrysochloris asiatica,Cape golden mole
+GCA_029224305.1,27604,Caperea marginata,pygmy right whale
+GCF_000298275.1,1230840,Orycteropus afer afer,
+GCA_009793145.1,58060,Cynopterus brachyotis,lesser short-nosed fruit bat
+GCA_902168415.1,246392,Peromyscus melanophrys,plateau mouse
+GCA_019206885.2,111840,Microtus richardsoni,water vole
+GCA_000465285.1,77214,Eidolon helvum,straw-colored fruit bat
+GCA_032201145.1,302418,Smutsia temminckii,ground pangolin
+GCA_006410515.1,157668,Procapra przewalskii,Przewalski's gazelle
+GCA_004027735.1,40233,Carollia perspicillata,Seba's short-tailed bat
+GCA_004027615.1,36227,Cercopithecus neglectus,De Brazza's monkey
+GCA_000978805.1,33556,Balaenoptera bonaerensis,Antarctic minke whale
+GCA_016801295.1,1496684,Manis crassicaudata,Indian pangolin
+GCA_004024985.1,34875,Saiga tatarica,
+GCA_004364475.1,9760,Ziphius cavirostris,Cuvier's beaked whale
+GCA_020392405.1,88450,Microtus montanus,montane vole
+GCA_004027775.1,9355,Bradypus variegatus,Brown-throated sloth
+GCA_004027955.1,340076,Chaetophractus vellerosus,Screaming hairy armadillo
+GCA_013239625.1,273908,Lama guanicoe cacsilensis,
+GCA_013265495.1,273917,Vicugna vicugna mensalis,
+GCA_014926565.1,91880,Kobus leche leche,
+GCA_006942125.1,82127,Hippotragus niger niger,
+GCA_003697995.1,2282171,Taxidea taxus jeffersonii,
+GCA_928851695.1,54600,Macaca nigra,Celebes crested macaque
+GCA_916098195.1,129801,Ateles hybridus,brown spider monkey
+GCA_022376925.1,1088131,Tragulus kanchil,
+GCA_023783095.1,9551,Macaca assamensis,Assam macaque
+GCA_023807365.1,54601,Macaca silenus,liontail macaque
+GCA_020226025.1,145526,Muntiacus gongshanensis,Gongshanensis muntjac
+GCA_014849445.1,36226,Cercopithecus mona,Mona monkey
+GCA_026936385.1,2997257,Molossus nigricans,northern black mastiff bat
+GCA_935064755.1,69297,Tragelaphus eurycerus,bongo
+GCA_031021685.1,249017,Rhynchonycteris naso,proboscis bat
+GCA_023764705.1,1194336,Rhinopithecus strykeri,Burmese snub-nosed monkey
+GCA_023159085.1,2340998,Spilogale interrupta,plains spotted skunk
+GCA_023762245.1,272121,Trachypithecus phayrei crepuscula,
+GCA_023783535.1,867370,Cercopithecus albogularis,Sykes' monkey
+GCA_026225945.1,1157628,Cricetomys ansorgei,southern giant pouched rat
+GCA_023779675.1,43777,Pithecia pithecia,white-faced saki
+GCA_023783135.1,9468,Loris tardigradus,slender loris
+GCA_023783235.1,75566,Lophocebus aterrimus,Black crested mangabey
+GCA_031001765.1,1552295,Molossus alvarezi,Alvarez's mastiff bat
+GCA_947044825.1,248495,Pusa hispida saimensis,
+GCA_023548195.1,881300,Bettongia penicillata ogilbyi,
+GCA_903231385.1,1867112,Ovis nivicola lydekkeri,
+GCA_017311185.1,2793304,Proteles cristata cristata,
+GCA_017311455.1,2793302,Otocyon megalotis megalotis,
+GCA_023783435.1,30609,Galago moholi,Moholi bushbaby
+GCA_014363405.1,1496133,Pteropus pselaphon,Bonin flying fox
+GCA_006410555.1,72542,Capra ibex,Alpine ibex
+GCA_963422785.1,77149,Mustela eversmannii,steppe polecat
+GCA_032199065.1,1559511,Smutsia gigantea,giant pangolin
+GCA_004027205.1,10166,Ctenodactylus gundi,northern gundi
+GCA_003227395.1,79784,Tursiops aduncus,Indo-pacific bottlenose dolphin
+GCA_020740815.1,34861,Sciurus niger,fox squirrel
+GCA_905335845.1,315377,Sus cebifrons,Visayan warty pig
+GCA_004026545.1,118852,Mormoops blainvillei,Antillean ghost-faced bat
+GCA_006408755.1,69308,Eudorcas thomsonii,Thomson's gazelle
+GCF_900497805.2,29139,Vombatus ursinus,common wombat
+GCA_021461705.1,183661,Cryptotis parvus,least shrew
+GCA_900661375.1,191816,Lynx pardinus,Spanish lynx
+GCA_019843965.1,1217597,Rhynchomys soricoides,Mount Data shrew rat
+GCA_016696395.1,9283,Antechinus stuartii,brown antechinus
+GCA_008750895.1,339999,Mirza zaza,
+GCA_021464545.1,867831,Hipposideros pendleburyi,Pendlebury's leaf-nosed bat
+GCA_004024925.1,71119,Scalopus aquaticus,eastern mole
+GCA_006408615.1,9927,Connochaetes taurinus,brindled gnu
+GCA_004026825.1,330464,Hemitragus hylocrius,Nilgiri tahr
+GCA_004024745.2,51154,Catagonus wagneri,Chacoan peccary
+GCA_004027695.1,143287,Cavia tschudii,Montane guinea pig
+GCA_004027595.1,108858,Dinomys branickii,pacarana
+GCA_004024805.1,234690,Xerus inauris,South African ground squirrel
+GCA_006410535.1,69311,Litocranius walleri,gerenuk
+GCA_006410635.1,129224,Cephalophus harveyi,Harvey's duiker
+GCA_006410615.1,66442,Neotragus moschatus,suni
+GCA_004026905.1,10137,Hystrix cristata,crested porcupine
+GCA_004026705.1,2583312,Nesogale talazaci,Talazac's shrew tenrec
+GCA_010120015.1,186474,Rhombomys opimus,great gerbil
+GCA_004024885.1,9491,Saguinus imperator,tamarin
+GCA_025134845.1,2613871,Neodon shergylaensis,
+GCA_007455595.1,2162900,Alexandromys oeconomus,root vole
+GCA_027422475.1,427616,Neofelis diardi,Sunda clouded leopard
+GCA_006408585.1,59523,Antidorcas marsupialis,springbok
+GCA_006410675.1,66444,Oreotragus oreotragus,klipspringer
+GCA_006408465.1,1088058,Cervus albirostris,white-lipped deer
+GCA_030324115.1,395025,Sorex maritimensis,Maritime shrew
+GCA_006410935.1,59556,Redunca redunca,Bohar reedbuck
+GCA_006408505.1,9929,Damaliscus lunatus,topi
+GCA_004363535.1,34846,Dasyprocta punctata,punctate agouti
+GCA_008750915.1,2508170,Microcebus sp. 3 GT-2019,
+GCA_907164525.1,248799,Lophiomys imhausi,crested rat
+GCA_006410795.1,9946,Tragelaphus strepsiceros,greater kudu
+GCA_003336285.2,10103,Mus spicilegus,steppe mouse
+GCA_006410875.1,1027985,Neotragus pygmaeus,royal antelope
+GCA_004027895.1,1041416,Orientallactaga bullata,Gobi jerboa
+GCA_004026965.1,10183,Petromus typicus,dassie-rat
+GCA_008750935.1,143351,Microcebus tavaratra,
+GCA_006410495.1,66440,Tragelaphus scriptus,bushbuck
+GCA_004027295.1,29091,Dolichotis patagonum,Patagonian cavy
+GCA_018403415.1,37030,Prionailurus iriomotensis,Iriomote cat
+GCA_006408675.1,66434,Madoqua kirkii,Kirk's dik-dik
+GCA_001262665.1,87288,Eulemur flavifrons,Sclater's lemur
+GCA_019844195.1,996586,Rhabdomys dilectus,mesic four-striped grass rat
+GCA_006410655.1,9962,Kobus ellipsiprymnus,waterbuck
+GCA_006410735.1,59544,Raphicerus campestris,steenbok
+GCA_009758055.1,34873,Oreamnos americanus,mountain goat
+GCA_004026665.1,1453894,Murina aurata feae,
+GCA_004024765.1,160400,Zapus hudsonius,meadow jumping mouse
+GCA_004027555.1,208972,Craseonycteris thonglongyai,hog-nosed bat
+GCA_004027655.1,51346,Graphiurus murinus,woodland dormouse
+GCA_008750975.1,122231,Microcebus ravelobensis,
+GCA_902168425.1,97206,Peromyscus attwateri,Texas deermouse
+GCA_001262655.1,30602,Eulemur macaco,black lemur
+GCA_902168325.1,162314,Peromyscus nudipes,
+GCA_003945745.1,9958,Oryx gazella,gemsbok
+GCA_032200785.1,73815,Phataginus tetradactyla,long-tailed pangolin
+GCA_902168405.1,57100,Peromyscus aztecus,Aztec mouse
+GCA_008750995.1,143354,Microcebus griseorufus,
+GCA_008750955.1,236274,Microcebus mittermeieri,Mittermeier's mouse lemur
+GCA_007922795.1,27670,Nycticeius humeralis,evening bat
+GCA_019843815.1,119565,Praomys delectorum,delectable soft-furred mouse
+GCA_006410775.1,9947,Tragelaphus imberbis,lesser kudu
+GCA_001685075.1,39086,Ellobius lutescens,Transcaucasian mole vole
+GCA_006410695.1,907741,Philantomba maxwellii,Maxwell's duiker
+GCA_006408735.1,119562,Sylvicapra grimmia,bush duiker
+GCA_001685095.1,329620,Ellobius talpinus,Northern mole vole
+GCA_006408635.1,27591,Nanger granti,Grant's gazelle
+GCA_029593785.1,48852,Cabassous unicinctus,southern naked-tailed armadillo
+GCA_019843835.1,491754,Grammomys dolichurus,common thicket rat
+GCA_004027635.1,876679,Crocidura indochinensis,
+GCA_028565675.1,46219,Sorex palustris,American water shrew
+GCA_002564305.1,135583,Octomys mimax,viscacha rat
+GCA_019843855.1,34858,Hylomyscus alleni,Allen's wood mouse
+GCA_002564285.1,61882,Tympanoctomys barrerae,plains viscacha rat
+GCA_004027915.1,34842,Capromys pilorides,Desmarest's hutia
+GCA_004365215.1,108852,Cuniculus paca,Lowland paca
+GCA_006461725.1,68412,Moschus chrysogaster,alpine musk deer
+GCA_006411685.1,69296,Tragelaphus buxtoni,mountain nyala
+GCA_006416875.1,9945,Tragelaphus oryx,eland
+GCA_006417275.1,59536,Ourebia ourebi,oribi
+GCA_006408545.1,59517,Alcelaphus buselaphus,hartebeest
+GCA_032206105.1,1836949,Manis culionensis,Palawan pangolin
+GCF_009914755.1,9606,Homo sapiens,human
+GCA_026225855.1,861190,Neophocaena asiaeorientalis sunameri,East Asian finless porpoise
+GCA_006511355.2,415978,Sus scrofa scrofa,
+GCA_012044875.1,9615,Canis lupus familiaris,dog
+GCA_012045015.1,9615,Canis lupus familiaris,dog
+GCA_002968435.1,72004,Bos mutus,wild yak
+GCA_011064465.2,9606,Homo sapiens,human
+GCA_018873775.2,9606,Homo sapiens,human
+GCA_024586135.1,9606,Homo sapiens,human
+GCA_021950905.1,9606,Homo sapiens,human
+GCA_021951015.1,9606,Homo sapiens,human
+GCA_002180035.3,9606,Homo sapiens,human
+GCA_001524155.4,9606,Homo sapiens,human
+GCA_003634875.1,9606,Homo sapiens,human
+GCA_020497115.1,9606,Homo sapiens,human
+GCA_014905855.1,9606,Homo sapiens,human
+GCA_020497085.1,9606,Homo sapiens,human
+GCA_002077035.3,9606,Homo sapiens,human
+GCA_016700455.2,9606,Homo sapiens,human
+GCA_016695395.2,9606,Homo sapiens,human
+GCA_015476435.1,9606,Homo sapiens,human
+GCA_022833125.2,9606,Homo sapiens,human
+GCA_001292825.2,9606,Homo sapiens,human
+GCA_000252825.1,9606,Homo sapiens,human
+GCA_000212995.1,9606,Homo sapiens,human
+GCA_001712695.1,9606,Homo sapiens,human
+GCA_921998315.2,10090,Mus musculus,house mouse
+GCA_030265425.1,10090,Mus musculus,house mouse
+GCA_949316315.1,10090,Mus musculus,house mouse
+GCA_031763685.1,10090,Mus musculus,house mouse
+GCA_921997145.2,10090,Mus musculus,house mouse
+GCA_947593165.1,10090,Mus musculus,house mouse
+GCA_031761455.1,10090,Mus musculus,house mouse
+GCA_947599735.1,10090,Mus musculus,house mouse
+GCA_921998355.2,10090,Mus musculus,house mouse
+GCA_921998905.2,10090,Mus musculus,house mouse
+GCA_921997125.2,10090,Mus musculus,house mouse
+GCA_921999865.2,10090,Mus musculus,house mouse
+GCA_921998325.2,10090,Mus musculus,house mouse
+GCA_921998555.2,10090,Mus musculus,house mouse
+GCA_921998335.2,39442,Mus musculus musculus,eastern European house mouse
+GCA_921999095.2,57486,Mus musculus molossinus,Japanese wild mouse
+GCA_021556685.1,10116,Rattus norvegicus,Norway rat
+GCA_023515805.1,10116,Rattus norvegicus,Norway rat
+GCA_023515785.1,10116,Rattus norvegicus,Norway rat
+GCA_030704935.1,9823,Sus scrofa,pig
+GCA_031225015.1,9823,Sus scrofa,pig
+GCA_024718415.1,9823,Sus scrofa,pig
+GCA_002844635.1,9823,Sus scrofa,pig
+GCA_031306245.1,9823,Sus scrofa,pig
+GCA_015776825.1,9823,Sus scrofa,pig
+GCA_007644095.1,9823,Sus scrofa,pig
+GCA_017957985.1,9825,Sus scrofa domesticus,domestic pig
+GCA_020567905.1,9825,Sus scrofa domesticus,domestic pig
+GCA_947034695.1,9913,Bos taurus,cattle
+GCA_028973685.2,9913,Bos taurus,cattle
+GCA_021234555.1,9913,Bos taurus,cattle
+GCA_905123885.1,9913,Bos taurus,cattle
+GCA_905123515.1,9913,Bos taurus,cattle
+GCA_021347905.1,9913,Bos taurus,cattle
+GCA_013276365.2,9615,Canis lupus familiaris,dog
+GCA_031010295.1,9615,Canis lupus familiaris,dog
+GCF_000002285.5,9615,Canis lupus familiaris,dog
+GCA_031010765.1,9615,Canis lupus familiaris,dog
+GCA_031165255.1,9615,Canis lupus familiaris,dog
+GCA_008641055.3,9615,Canis lupus familiaris,dog
+GCF_014441545.1,9615,Canis lupus familiaris,dog
+GCA_031010635.1,9615,Canis lupus familiaris,dog
+GCA_004886185.2,9615,Canis lupus familiaris,dog
+GCA_905319855.2,9612,Canis lupus,gray wolf
+GCA_012295265.2,286419,Canis lupus dingo,dingo
+GCA_008058575.1,9544,Macaca mulatta,Rhesus monkey
+GCA_000230795.1,9544,Macaca mulatta,Rhesus monkey
+GCA_022416915.1,9940,Ovis aries,sheep
+GCA_018804185.1,9940,Ovis aries,sheep
+GCA_022432835.1,9940,Ovis aries,sheep
+GCA_022416755.1,9940,Ovis aries,sheep
+GCA_022416685.1,9940,Ovis aries,sheep
+GCA_017524585.1,9940,Ovis aries,sheep
+GCA_024222265.1,9940,Ovis aries,sheep
+GCA_022432845.1,9940,Ovis aries,sheep
+GCA_019145175.1,9940,Ovis aries,sheep
+GCA_022416785.1,9940,Ovis aries,sheep
+GCA_022538005.1,9940,Ovis aries,sheep
+GCA_022416745.1,9940,Ovis aries,sheep
+GCA_022416725.1,9940,Ovis aries,sheep
+GCA_022244705.1,9940,Ovis aries,sheep
+GCA_022244695.1,9940,Ovis aries,sheep
+GCA_022432825.1,9940,Ovis aries,sheep
+GCA_022416775.1,9940,Ovis aries,sheep
+GCA_016772045.2,9940,Ovis aries,sheep
+GCA_024222175.1,9940,Ovis aries,sheep
+GCA_022416695.1,9940,Ovis aries,sheep
+GCA_011170295.1,9940,Ovis aries,sheep
+GCA_015443085.1,9925,Capra hircus,goat
+GCA_026652205.1,9925,Capra hircus,goat
+GCA_000317765.2,9925,Capra hircus,goat
+GCA_004361675.1,9925,Capra hircus,goat
+GCA_011100615.1,9541,Macaca fascicularis,crab-eating macaque
+GCA_000230815.1,9541,Macaca fascicularis,crab-eating macaque
+GCA_000222185.1,9541,Macaca fascicularis,crab-eating macaque
+GCA_013371645.1,568996,Oryctolagus cuniculus cuniculus,
+GCF_003668045.3,10029,Cricetulus griseus,Chinese hamster
+GCA_016509815.2,9685,Felis catus,domestic cat
+GCA_000181335.6,9685,Felis catus,domestic cat
+GCA_000003115.1,9685,Felis catus,domestic cat
+GCA_011100535.2,9483,Callithrix jacchus,white-tufted-ear marmoset
+GCA_011078405.1,9483,Callithrix jacchus,white-tufted-ear marmoset
+GCA_030269505.1,9915,Bos indicus,zebu cattle
+GCA_030272235.1,9915,Bos indicus,zebu cattle
+GCA_030272135.1,9915,Bos indicus,zebu cattle
+GCA_030267375.1,9915,Bos indicus,zebu cattle
+GCA_030271795.1,9915,Bos indicus,zebu cattle
+GCA_030269815.1,9915,Bos indicus,zebu cattle
+GCA_029378745.1,9915,Bos indicus,zebu cattle
+GCA_030271805.1,9915,Bos indicus,zebu cattle
+GCA_030267355.1,9915,Bos indicus,zebu cattle
+GCA_029378735.1,9915,Bos indicus,zebu cattle
+GCA_030267345.1,9915,Bos indicus,zebu cattle
+GCA_030270715.1,9915,Bos indicus,zebu cattle
+GCA_030270685.1,9915,Bos indicus,zebu cattle
+GCA_030270805.1,9915,Bos indicus,zebu cattle
+GCA_030270705.1,9915,Bos indicus,zebu cattle
+GCA_030270725.1,9915,Bos indicus,zebu cattle
+GCA_030272475.1,9915,Bos indicus,zebu cattle
+GCA_030270825.1,9915,Bos indicus,zebu cattle
+GCA_030270935.1,9915,Bos indicus,zebu cattle
+GCA_026262465.1,9915,Bos indicus,zebu cattle
+GCA_030270865.1,9915,Bos indicus,zebu cattle
+GCA_026262545.1,9915,Bos indicus,zebu cattle
+GCA_026262515.1,9915,Bos indicus,zebu cattle
+GCA_026262375.1,9915,Bos indicus,zebu cattle
+GCA_030270995.1,9915,Bos indicus,zebu cattle
+GCA_030270845.1,9915,Bos indicus,zebu cattle
+GCA_030270855.1,9915,Bos indicus,zebu cattle
+GCA_030272505.1,9915,Bos indicus,zebu cattle
+GCA_030272495.1,9915,Bos indicus,zebu cattle
+GCA_030270955.1,9915,Bos indicus,zebu cattle
+GCA_030270945.1,9915,Bos indicus,zebu cattle
+GCA_027580245.1,30521,Bos grunniens,domestic yak
+GCA_028858805.1,9598,Pan troglodytes,chimpanzee
+GCA_011800105.1,10117,Rattus rattus,black rat
+GCA_008728515.2,9555,Papio anubis,olive baboon
+GCA_944319715.1,10181,Heterocephalus glaber,naked mole-rat
+GCA_944319725.1,10181,Heterocephalus glaber,naked mole-rat
+GCA_029963865.1,9646,Ailuropoda melanoleuca,giant panda
+GCA_021130815.1,74535,Panthera tigris tigris,Bengal tiger
+GCA_021131075.1,74535,Panthera tigris tigris,Bengal tiger
+GCA_024034525.1,9694,Panthera tigris,tiger
+GCA_023856395.1,10044,Phodopus sungorus,Djungarian hamster
+GCA_028885475.1,9595,Gorilla gorilla gorilla,western lowland gorilla
+GCA_028885495.1,9595,Gorilla gorilla gorilla,western lowland gorilla
+GCA_900006655.3,9595,Gorilla gorilla gorilla,western lowland gorilla
+GCA_030014295.1,9785,Loxodonta africana,African savanna elephant
+GCA_032717415.1,9785,Loxodonta africana,African savanna elephant
+GCA_032717405.1,9785,Loxodonta africana,African savanna elephant
+GCA_030254825.1,10047,Meriones unguiculatus,Mongolian gerbil
+GCA_030445055.1,9361,Dasypus novemcinctus,nine-banded armadillo
+GCA_003369685.2,30522,Bos indicus x Bos taurus,hybrid cattle
+GCA_000002275.2,9258,Ornithorhynchus anatinus,platypus
+GCA_032718585.1,9783,Elephas maximus,Asiatic elephant
+GCA_032718755.1,9783,Elephas maximus,Asiatic elephant
+GCA_951394145.1,228257,Rangifer tarandus platyrhyncus,
+GCA_019903745.2,86327,Rangifer tarandus caribou,
+GCA_002197005.1,46360,Cervus elaphus hippelaphus,
+GCA_028885525.1,9600,Pongo pygmaeus,Bornean orangutan
+GCA_028885685.1,9601,Pongo abelii,Sumatran orangutan
+GCA_015598185.1,9261,Tachyglossus aculeatus,Australian echidna
+GCA_000001545.3,9601,Pongo abelii,Sumatran orangutan
+GCA_023653735.1,73337,Ceratotherium simum simum,southern white rhinoceros
+GCA_021442165.1,310713,Ceratotherium simum cottoni,northern white rhinoceros
+GCA_027580195.1,72004,Bos mutus,wild yak
+GCA_022682395.1,9430,Desmodus rotundus,common vampire bat
+GCA_023699985.2,9874,Odocoileus virginianus,white-tailed deer
+GCA_028858845.1,9597,Pan paniscus,pygmy chimpanzee
+GCA_028858825.1,9597,Pan paniscus,pygmy chimpanzee
+GCA_013052645.3,9597,Pan paniscus,pygmy chimpanzee
+GCA_030435715.1,9978,Ochotona princeps,American pika
+GCA_031878665.1,10013,Thomomys bottae,Botta's pocket gopher
+GCA_031878675.1,10013,Thomomys bottae,Botta's pocket gopher
+GCA_028749965.3,9696,Puma concolor,puma
+GCA_028749985.3,9696,Puma concolor,puma
+GCA_008795835.1,9689,Panthera leo,lion
+GCA_001624865.1,10096,Mus spretus,western wild mouse
+GCA_023065835.1,9833,Hippopotamus amphibius,hippopotamus
+GCA_922984935.2,9662,Meles meles,Eurasian badger
+GCA_009493655.1,331036,Bos grunniens x Bos taurus,dzo
+GCA_030062865.1,9728,Delphinus delphis,saddleback dolphin
+GCA_031878655.1,9802,Tapirus indicus,Asiatic tapir
+GCA_026419985.1,27615,Kogia breviceps,pygmy sperm whale
+GCA_028643795.1,30640,Sciurus carolinensis,gray squirrel
+GCA_001887905.1,9622,Lycaon pictus,African hunting dog
+GCA_001883655.1,9622,Lycaon pictus,African hunting dog
+GCA_028533375.1,9805,Diceros bicornis,black rhinoceros
+GCA_030324275.1,61452,Neofelis nebulosa,Clouded leopard
+GCA_028878085.1,9590,Symphalangus syndactylus,siamang
+GCA_028571275.1,27606,Eubalaena glacialis,North Atlantic right whale
+GCA_963455315.1,9731,Globicephala melas,long-finned pilot whale
+GCA_949787125.1,38674,Onychomys torridus,southern grasshopper mouse
+GCA_008787405.2,9886,Muntiacus reevesi,Reeves' muntjac
+GCA_015741225.1,10149,Hydrochoerus hydrochaeris,capybara
+GCA_028533075.1,9565,Theropithecus gelada,gelada
+GCA_028533255.1,9801,Tapirus terrestris,Brazilian tapir
+GCA_028551425.1,61388,Prionailurus viverrinus,fishing cat
+GCA_028642525.1,9590,Symphalangus syndactylus,siamang
+GCA_028534125.1,9844,Lama glama,llama
+GCA_023701675.1,2918886,Ovis ammon polii x Ovis aries,
+GCA_951640355.1,59451,Eptesicus nilssonii,northern bat
+GCA_949786435.1,42410,Peromyscus eremicus,cactus mouse
+GCA_028646445.1,29064,Panthera uncia,snow leopard
+GCA_028533875.1,210652,Mungos mungo,banded mongoose
+GCA_028533295.1,61379,Felis nigripes,black-footed cat
+GCA_018282365.1,297284,Bos taurus x Bison bison,beefalo
+GCA_030254855.1,297284,Bos taurus x Bison bison,beefalo
+GCA_949786425.1,38679,Onychomys arenicola,Chihuahuan grasshopper mouse
+GCA_949786395.1,38668,Onychomys leucogaster,northern grasshopper mouse
+GCA_021498455.1,33548,Colobus guereza,mantled guereza
+GCA_020226055.1,71854,Muntiacus crinifrons,black muntjac
+GCA_028626985.1,29139,Vombatus ursinus,common wombat
+GCA_028551515.1,43777,Pithecia pithecia,white-faced saki
+GCA_028643805.1,9279,Dasyurus viverrinus,eastern quoll
+GCA_001292865.1,9823,Sus scrofa,pig
+GCA_000448345.1,10029,Cricetulus griseus,Chinese hamster
+GCA_013373975.1,9483,Callithrix jacchus,white-tufted-ear marmoset
+GCA_018852605.1,9606,Homo sapiens,human
+GCA_018467155.1,9606,Homo sapiens,human
+GCA_018852615.1,9606,Homo sapiens,human
+GCA_018506965.1,9606,Homo sapiens,human
+GCA_018472865.1,9606,Homo sapiens,human
+GCA_018469875.1,9606,Homo sapiens,human
+GCA_018466985.1,9606,Homo sapiens,human
+GCA_018466845.1,9606,Homo sapiens,human
+GCA_018467005.1,9606,Homo sapiens,human
+GCA_018466835.1,9606,Homo sapiens,human
+GCA_018506945.1,9606,Homo sapiens,human
+GCA_018466855.1,9606,Homo sapiens,human
+GCA_018471075.1,9606,Homo sapiens,human
+GCA_018467165.1,9606,Homo sapiens,human
+GCA_018469405.1,9606,Homo sapiens,human
+GCA_018472765.1,9606,Homo sapiens,human
+GCA_018472725.1,9606,Homo sapiens,human
+GCA_018469415.1,9606,Homo sapiens,human
+GCA_018467015.1,9606,Homo sapiens,human
+GCA_018471515.1,9606,Homo sapiens,human
+GCA_018472575.1,9606,Homo sapiens,human
+GCA_018471545.1,9606,Homo sapiens,human
+GCA_018469665.1,9606,Homo sapiens,human
+GCA_018472695.1,9606,Homo sapiens,human
+GCA_018472715.1,9606,Homo sapiens,human
+GCA_018472845.1,9606,Homo sapiens,human
+GCA_018469965.1,9606,Homo sapiens,human
+GCA_018469925.1,9606,Homo sapiens,human
+GCA_018471105.1,9606,Homo sapiens,human
+GCA_018472605.1,9606,Homo sapiens,human
+GCA_018472685.1,9606,Homo sapiens,human
+GCA_018469675.1,9606,Homo sapiens,human
+GCA_018469865.1,9606,Homo sapiens,human
+GCA_018472595.1,9606,Homo sapiens,human
+GCA_018471345.1,9606,Homo sapiens,human
+GCA_018469705.1,9606,Homo sapiens,human
+GCA_018470425.1,9606,Homo sapiens,human
+GCA_018472705.1,9606,Homo sapiens,human
+GCA_018469685.1,9606,Homo sapiens,human
+GCA_018469425.1,9606,Homo sapiens,human
+GCA_018469695.1,9606,Homo sapiens,human
+GCA_018506975.1,9606,Homo sapiens,human
+GCA_018471555.1,9606,Homo sapiens,human
+GCA_018469935.1,9606,Homo sapiens,human
+GCA_018503285.1,9606,Homo sapiens,human
+GCA_018471525.1,9606,Homo sapiens,human
+GCA_018471095.1,9606,Homo sapiens,human
+GCA_018506955.1,9606,Homo sapiens,human
+GCA_018503255.1,9606,Homo sapiens,human
+GCA_018471535.1,9606,Homo sapiens,human
+GCA_018506165.1,9606,Homo sapiens,human
+GCA_018471085.1,9606,Homo sapiens,human
+GCA_018506125.1,9606,Homo sapiens,human
+GCA_018471065.1,9606,Homo sapiens,human
+GCA_018472585.1,9606,Homo sapiens,human
+GCA_018506155.1,9606,Homo sapiens,human
+GCA_018473315.1,9606,Homo sapiens,human
+GCA_018505855.1,9606,Homo sapiens,human
+GCA_001420765.1,9606,Homo sapiens,human
+GCA_018504365.1,9606,Homo sapiens,human
+GCA_018398555.1,9606,Homo sapiens,human
+GCA_018398495.1,9606,Homo sapiens,human
+GCA_018398505.1,9606,Homo sapiens,human
+GCA_018504375.1,9606,Homo sapiens,human
+GCA_009935935.1,9606,Homo sapiens,human
+GCA_001420755.1,9606,Homo sapiens,human
+GCA_018473295.1,9606,Homo sapiens,human
+GCA_018504645.1,9606,Homo sapiens,human
+GCA_009176485.1,9606,Homo sapiens,human
+GCA_002884485.1,9606,Homo sapiens,human
+GCA_018469945.1,9606,Homo sapiens,human
+GCA_018504045.1,9606,Homo sapiens,human
+GCA_018470465.1,9606,Homo sapiens,human
+GCA_018472565.1,9606,Homo sapiens,human
+GCA_018503275.1,9606,Homo sapiens,human
+GCA_018470455.1,9606,Homo sapiens,human
+GCA_012067775.1,9606,Homo sapiens,human
+GCA_018472835.1,9606,Homo sapiens,human
+GCA_018503245.1,9606,Homo sapiens,human
+GCA_018473305.1,9606,Homo sapiens,human
+GCA_018472825.1,9606,Homo sapiens,human
+GCA_013364845.1,9606,Homo sapiens,human
+GCA_012553475.1,9606,Homo sapiens,human
+GCA_012553465.1,9606,Homo sapiens,human
+GCA_001297185.2,9606,Homo sapiens,human
+GCA_018472855.1,9606,Homo sapiens,human
+GCA_012067855.1,9606,Homo sapiens,human
+GCA_012067805.1,9606,Homo sapiens,human
+GCA_001307015.1,9606,Homo sapiens,human
+GCA_013364835.1,9606,Homo sapiens,human
+GCA_018469955.1,9606,Homo sapiens,human
+GCA_003070785.1,9606,Homo sapiens,human
+GCA_018503265.1,9606,Homo sapiens,human
+GCA_018504055.1,9606,Homo sapiens,human
+GCA_018503525.1,9606,Homo sapiens,human
+GCA_018504075.1,9606,Homo sapiens,human
+GCA_018505865.1,9606,Homo sapiens,human
+GCA_018852585.1,9606,Homo sapiens,human
+GCA_011008995.1,9606,Homo sapiens,human
+GCA_001307125.1,9606,Homo sapiens,human
+GCA_018470445.1,9606,Homo sapiens,human
+GCA_018505825.1,9606,Homo sapiens,human
+GCA_009650525.1,9606,Homo sapiens,human
+GCA_012069725.1,9606,Homo sapiens,human
+GCA_003574075.1,9606,Homo sapiens,human
+GCA_012069735.1,9606,Homo sapiens,human
+GCA_018504065.1,9606,Homo sapiens,human
+GCA_012069705.1,9606,Homo sapiens,human
+GCA_018504625.1,9606,Homo sapiens,human
+GCA_002208065.1,9606,Homo sapiens,human
+GCA_012933705.1,9606,Homo sapiens,human
+GCA_012933715.1,9606,Homo sapiens,human
+GCA_002209525.2,9606,Homo sapiens,human
+GCA_002872155.1,9606,Homo sapiens,human
+GCA_018504635.1,9606,Homo sapiens,human
+GCA_001307025.1,9606,Homo sapiens,human
+GCA_009769715.1,9606,Homo sapiens,human
+GCA_018504655.1,9606,Homo sapiens,human
+GCA_018504085.1,9606,Homo sapiens,human
+GCA_018505835.1,9606,Homo sapiens,human
+GCA_008065235.1,9606,Homo sapiens,human
+GCA_010580585.1,9606,Homo sapiens,human
+GCA_014083845.1,9606,Homo sapiens,human
+GCA_018852595.1,9606,Homo sapiens,human
+GCA_018470435.1,9606,Homo sapiens,human
+GCA_018503585.1,9606,Homo sapiens,human
+GCA_001015355.1,9606,Homo sapiens,human
+GCA_018505845.1,9606,Homo sapiens,human
+GCA_009299535.1,9606,Homo sapiens,human
+GCA_018503575.1,9606,Homo sapiens,human
+GCA_001750385.2,9606,Homo sapiens,human
+GCA_004796485.2,9606,Homo sapiens,human
+GCA_001421375.1,9606,Homo sapiens,human
+GCA_018504665.1,9606,Homo sapiens,human
+GCA_009734825.1,9606,Homo sapiens,human
+GCA_004796285.1,9606,Homo sapiens,human
+GCA_010580605.1,9606,Homo sapiens,human
+GCA_000983465.1,9606,Homo sapiens,human
+GCA_010279795.1,9606,Homo sapiens,human
+GCA_021234545.1,9606,Homo sapiens,human
+GCA_001015385.3,9606,Homo sapiens,human
+GCA_900232925.2,9606,Homo sapiens,human
+GCA_001420745.1,9606,Homo sapiens,human
+GCA_013364825.1,9606,Homo sapiens,human
+GCA_000983455.2,9606,Homo sapiens,human
+GCA_001856745.1,9606,Homo sapiens,human
+GCA_003601015.1,9606,Homo sapiens,human
+GCA_001708065.2,9606,Homo sapiens,human
+GCA_015476415.1,9606,Homo sapiens,human
+GCA_903995575.2,9606,Homo sapiens,human
+GCA_904060995.1,9606,Homo sapiens,human
+GCA_002884475.1,9606,Homo sapiens,human
+GCA_000983475.1,9606,Homo sapiens,human
+GCA_003086635.1,9606,Homo sapiens,human
+GCA_001542345.1,9606,Homo sapiens,human
+GCA_001007805.1,9606,Homo sapiens,human
+GCA_000772585.3,9606,Homo sapiens,human
+GCA_007821485.1,9606,Homo sapiens,human
+GCA_008583285.1,9606,Homo sapiens,human
+GCA_010646975.1,9606,Homo sapiens,human
+GCA_010645205.1,9606,Homo sapiens,human
+GCA_010646935.1,9606,Homo sapiens,human
+GCA_001013985.1,9606,Homo sapiens,human
+GCA_001549595.1,9606,Homo sapiens,human
+GCA_001549605.1,9606,Homo sapiens,human
+GCA_002008905.1,9606,Homo sapiens,human
+GCA_015129125.1,9606,Homo sapiens,human
+GCA_015128985.1,9606,Homo sapiens,human
+GCA_015156275.1,9606,Homo sapiens,human
+GCA_015156255.1,9606,Homo sapiens,human
+GCA_015121945.1,9606,Homo sapiens,human
+GCA_015128265.1,9606,Homo sapiens,human
+GCA_015128305.1,9606,Homo sapiens,human
+GCA_015121925.1,9606,Homo sapiens,human
+GCA_015128845.1,9606,Homo sapiens,human
+GCA_015129205.1,9606,Homo sapiens,human
+GCA_015129225.1,9606,Homo sapiens,human
+GCA_015128865.1,9606,Homo sapiens,human
+GCA_015129085.1,9606,Homo sapiens,human
+GCA_015155735.1,9606,Homo sapiens,human
+GCA_015129105.1,9606,Homo sapiens,human
+GCA_015129065.1,9606,Homo sapiens,human
+GCA_015156195.1,9606,Homo sapiens,human
+GCA_015156095.1,9606,Homo sapiens,human
+GCA_015129165.1,9606,Homo sapiens,human
+GCA_015156155.1,9606,Homo sapiens,human
+GCA_015126335.1,9606,Homo sapiens,human
+GCA_015126355.1,9606,Homo sapiens,human
+GCA_015127405.1,9606,Homo sapiens,human
+GCA_015127365.1,9606,Homo sapiens,human
+GCA_015126315.1,9606,Homo sapiens,human
+GCA_015126895.1,9606,Homo sapiens,human
+GCA_015127485.1,9606,Homo sapiens,human
+GCA_015126375.1,9606,Homo sapiens,human
+GCA_015126935.1,9606,Homo sapiens,human
+GCA_015126955.1,9606,Homo sapiens,human
+GCA_015128285.1,9606,Homo sapiens,human
+GCA_015128325.1,9606,Homo sapiens,human
+GCA_015156235.1,9606,Homo sapiens,human
+GCA_015156715.1,9606,Homo sapiens,human
+GCA_015124935.1,9606,Homo sapiens,human
+GCA_015125315.1,9606,Homo sapiens,human
+GCA_015124505.1,9606,Homo sapiens,human
+GCA_015124955.1,9606,Homo sapiens,human
+GCA_015159535.1,9606,Homo sapiens,human
+GCA_015159515.1,9606,Homo sapiens,human
+GCA_015075955.1,9606,Homo sapiens,human
+GCA_015159405.1,9606,Homo sapiens,human
+GCA_015159385.1,9606,Homo sapiens,human
+GCA_015076005.1,9606,Homo sapiens,human
+GCA_015125495.1,9606,Homo sapiens,human
+GCA_015150555.1,9606,Homo sapiens,human
+GCA_015098215.1,9606,Homo sapiens,human
+GCA_015149745.1,9606,Homo sapiens,human
+GCA_015124455.1,9606,Homo sapiens,human
+GCA_015150615.1,9606,Homo sapiens,human
+GCA_015098175.1,9606,Homo sapiens,human
+GCA_015129715.1,9606,Homo sapiens,human
+GCA_015125435.1,9606,Homo sapiens,human
+GCA_015158525.1,9606,Homo sapiens,human
+GCA_015124495.1,9606,Homo sapiens,human
+GCA_015129835.1,9606,Homo sapiens,human
+GCA_015158555.1,9606,Homo sapiens,human
+GCA_015129375.1,9606,Homo sapiens,human
+GCA_015151915.1,9606,Homo sapiens,human
+GCA_015129185.1,9606,Homo sapiens,human
+GCA_015149575.1,9606,Homo sapiens,human
+GCA_015151895.1,9606,Homo sapiens,human
+GCA_015149805.1,9606,Homo sapiens,human
+GCA_015125335.1,9606,Homo sapiens,human
+GCA_015129385.1,9606,Homo sapiens,human
+GCA_015149545.1,9606,Homo sapiens,human
+GCA_015158375.1,9606,Homo sapiens,human
+GCA_015129145.1,9606,Homo sapiens,human
+GCA_015158515.1,9606,Homo sapiens,human
+GCA_015121905.1,9606,Homo sapiens,human
+GCA_015129475.1,9606,Homo sapiens,human
+GCA_015129675.1,9606,Homo sapiens,human
+GCA_015124575.1,9606,Homo sapiens,human
+GCA_015125355.1,9606,Homo sapiens,human
+GCA_015129575.1,9606,Homo sapiens,human
+GCA_015117995.1,9606,Homo sapiens,human
+GCA_015129415.1,9606,Homo sapiens,human
+GCA_015095815.1,9606,Homo sapiens,human
+GCA_015129815.1,9606,Homo sapiens,human
+GCA_015129655.1,9606,Homo sapiens,human
+GCA_015129455.1,9606,Homo sapiens,human
+GCA_015112895.1,9606,Homo sapiens,human
+GCA_015129495.1,9606,Homo sapiens,human
+GCA_015143275.1,9606,Homo sapiens,human
+GCA_015149785.1,9606,Homo sapiens,human
+GCA_015149825.1,9606,Homo sapiens,human
+GCA_015150635.1,9606,Homo sapiens,human
+GCA_015095775.1,9606,Homo sapiens,human
+GCA_015129435.1,9606,Homo sapiens,human
+GCA_015129315.1,9606,Homo sapiens,human
+GCA_015119835.1,9606,Homo sapiens,human
+GCA_015129615.1,9606,Homo sapiens,human
+GCA_015150595.1,9606,Homo sapiens,human
+GCA_015119915.1,9606,Homo sapiens,human
+GCA_015151975.1,9606,Homo sapiens,human
+GCA_015151935.1,9606,Homo sapiens,human
+GCA_015143305.1,9606,Homo sapiens,human
+GCA_015129005.1,9606,Homo sapiens,human
+GCA_015129025.1,9606,Homo sapiens,human
+GCA_015129295.1,9606,Homo sapiens,human
+GCA_015149845.1,9606,Homo sapiens,human
+GCA_015152155.1,9606,Homo sapiens,human
+GCA_015152315.1,9606,Homo sapiens,human
+GCA_015121845.1,9606,Homo sapiens,human
+GCA_015150535.1,9606,Homo sapiens,human
+GCA_015129595.1,9606,Homo sapiens,human
+GCA_015149725.1,9606,Homo sapiens,human
+GCA_015129555.1,9606,Homo sapiens,human
+GCA_015150475.1,9606,Homo sapiens,human
+GCA_015121585.1,9606,Homo sapiens,human
+GCA_015129535.1,9606,Homo sapiens,human
+GCA_015150655.1,9606,Homo sapiens,human
+GCA_015121825.1,9606,Homo sapiens,human
+GCA_015129515.1,9606,Homo sapiens,human
+GCA_015121605.1,9606,Homo sapiens,human
+GCA_015150015.1,9606,Homo sapiens,human
+GCA_015149705.1,9606,Homo sapiens,human
+GCA_015146925.1,9606,Homo sapiens,human
+GCA_015147305.1,9606,Homo sapiens,human
+GCA_015150815.1,9606,Homo sapiens,human
+GCA_015152365.1,9606,Homo sapiens,human
+GCA_015152095.1,9606,Homo sapiens,human
+GCA_015150035.1,9606,Homo sapiens,human
+GCA_015150835.1,9606,Homo sapiens,human
+GCA_015152395.1,9606,Homo sapiens,human
+GCA_015128785.1,9606,Homo sapiens,human
+GCA_015152115.1,9606,Homo sapiens,human
+GCA_015128805.1,9606,Homo sapiens,human
+GCA_015149685.1,9606,Homo sapiens,human
+GCA_015129335.1,9606,Homo sapiens,human
+GCA_015152275.1,9606,Homo sapiens,human
+GCA_015152035.1,9606,Homo sapiens,human
+GCA_015146865.1,9606,Homo sapiens,human
+GCA_015104115.1,9606,Homo sapiens,human
+GCA_015129635.1,9606,Homo sapiens,human
+GCA_015129355.1,9606,Homo sapiens,human
+GCA_015119095.1,9606,Homo sapiens,human
+GCA_015150505.1,9606,Homo sapiens,human
+GCA_015119085.1,9606,Homo sapiens,human
+GCA_015129725.1,9606,Homo sapiens,human
+GCA_015104135.1,9606,Homo sapiens,human
+GCA_015147265.1,9606,Homo sapiens,human
+GCA_015129755.1,9606,Homo sapiens,human
+GCA_015129695.1,9606,Homo sapiens,human
+GCA_015147365.1,9606,Homo sapiens,human
+GCA_015144785.1,9606,Homo sapiens,human
+GCA_015144145.1,9606,Homo sapiens,human
+GCA_015129775.1,9606,Homo sapiens,human
+GCA_015146905.1,9606,Homo sapiens,human
+GCA_015146985.1,9606,Homo sapiens,human
+GCA_015149915.1,9606,Homo sapiens,human
+GCA_015129795.1,9606,Homo sapiens,human
+GCA_015150695.1,9606,Homo sapiens,human
+GCA_015152335.1,9606,Homo sapiens,human
+GCA_015158355.1,9606,Homo sapiens,human
+GCA_015147285.1,9606,Homo sapiens,human
+GCA_015152135.1,9606,Homo sapiens,human
+GCA_015149765.1,9606,Homo sapiens,human
+GCA_015121765.1,9606,Homo sapiens,human
+GCA_015150915.1,9606,Homo sapiens,human
+GCA_015150575.1,9606,Homo sapiens,human
+GCA_015146945.1,9606,Homo sapiens,human
+GCA_015150075.1,9606,Homo sapiens,human
+GCA_015144225.1,9606,Homo sapiens,human
+GCA_015158335.1,9606,Homo sapiens,human
+GCA_015144825.1,9606,Homo sapiens,human
+GCA_015150755.1,9606,Homo sapiens,human
+GCA_015149955.1,9606,Homo sapiens,human
+GCA_015147245.1,9606,Homo sapiens,human
+GCA_015150775.1,9606,Homo sapiens,human
+GCA_015152295.1,9606,Homo sapiens,human
+GCA_015121665.1,9606,Homo sapiens,human
+GCA_015150415.1,9606,Homo sapiens,human
+GCA_015152075.1,9606,Homo sapiens,human
+GCA_015149975.1,9606,Homo sapiens,human
+GCA_015149375.1,9606,Homo sapiens,human
+GCA_015125475.1,9606,Homo sapiens,human
+GCA_015155765.1,9606,Homo sapiens,human
+GCA_015151215.1,9606,Homo sapiens,human
+GCA_015155795.1,9606,Homo sapiens,human
+GCA_015148185.1,9606,Homo sapiens,human
+GCA_015144845.1,9606,Homo sapiens,human
+GCA_015149135.1,9606,Homo sapiens,human
+GCA_015118045.1,9606,Homo sapiens,human
+GCA_015149895.1,9606,Homo sapiens,human
+GCA_015125415.1,9606,Homo sapiens,human
+GCA_015117975.1,9606,Homo sapiens,human
+GCA_015150715.1,9606,Homo sapiens,human
+GCA_015149875.1,9606,Homo sapiens,human
+GCA_015150675.1,9606,Homo sapiens,human
+GCA_015150495.1,9606,Homo sapiens,human
+GCA_015152175.1,9606,Homo sapiens,human
+GCA_015144245.1,9606,Homo sapiens,human
+GCA_015148445.1,9606,Homo sapiens,human
+GCA_015104095.1,9606,Homo sapiens,human
+GCA_015150235.1,9606,Homo sapiens,human
+GCA_015104055.1,9606,Homo sapiens,human
+GCA_015150995.1,9606,Homo sapiens,human
+GCA_015150355.1,9606,Homo sapiens,human
+GCA_015152215.1,9606,Homo sapiens,human
+GCA_015152015.1,9606,Homo sapiens,human
+GCA_015151175.1,9606,Homo sapiens,human
+GCA_015148405.1,9606,Homo sapiens,human
+GCA_015145875.1,9606,Homo sapiens,human
+GCA_015146075.1,9606,Homo sapiens,human
+GCA_015149095.1,9606,Homo sapiens,human
+GCA_015149355.1,9606,Homo sapiens,human
+GCA_015149295.1,9606,Homo sapiens,human
+GCA_015149435.1,9606,Homo sapiens,human
+GCA_015148155.1,9606,Homo sapiens,human
+GCA_015149455.1,9606,Homo sapiens,human
+GCA_015156295.1,9606,Homo sapiens,human
+GCA_015109015.1,9606,Homo sapiens,human
+GCA_015149195.1,9606,Homo sapiens,human
+GCA_015149115.1,9606,Homo sapiens,human
+GCA_015145485.1,9606,Homo sapiens,human
+GCA_015074505.1,9606,Homo sapiens,human
+GCA_015109075.1,9606,Homo sapiens,human
+GCA_015145125.1,9606,Homo sapiens,human
+GCA_015074525.1,9606,Homo sapiens,human
+GCA_015149335.1,9606,Homo sapiens,human
+GCA_015148285.1,9606,Homo sapiens,human
+GCA_015121865.1,9606,Homo sapiens,human
+GCA_015150215.1,9606,Homo sapiens,human
+GCA_015149075.1,9606,Homo sapiens,human
+GCA_015147705.1,9606,Homo sapiens,human
+GCA_015150335.1,9606,Homo sapiens,human
+GCA_015151035.1,9606,Homo sapiens,human
+GCA_015151135.1,9606,Homo sapiens,human
+GCA_015128245.1,9606,Homo sapiens,human
+GCA_015150375.1,9606,Homo sapiens,human
+GCA_015151195.1,9606,Homo sapiens,human
+GCA_015150115.1,9606,Homo sapiens,human
+GCA_015121875.1,9606,Homo sapiens,human
+GCA_015149415.1,9606,Homo sapiens,human
+GCA_015148365.1,9606,Homo sapiens,human
+GCA_015074745.1,9606,Homo sapiens,human
+GCA_015128225.1,9606,Homo sapiens,human
+GCA_015149175.1,9606,Homo sapiens,human
+GCA_015150895.1,9606,Homo sapiens,human
+GCA_015074605.1,9606,Homo sapiens,human
+GCA_015148075.1,9606,Homo sapiens,human
+GCA_015151075.1,9606,Homo sapiens,human
+GCA_015093255.1,9606,Homo sapiens,human
+GCA_015148205.1,9606,Homo sapiens,human
+GCA_015121785.1,9606,Homo sapiens,human
+GCA_015148265.1,9606,Homo sapiens,human
+GCA_015148545.1,9606,Homo sapiens,human
+GCA_015143175.1,9606,Homo sapiens,human
+GCA_015149395.1,9606,Homo sapiens,human
+GCA_015149155.1,9606,Homo sapiens,human
+GCA_015093275.1,9606,Homo sapiens,human
+GCA_015148465.1,9606,Homo sapiens,human
+GCA_015152195.1,9606,Homo sapiens,human
+GCA_015150295.1,9606,Homo sapiens,human
+GCA_015151955.1,9606,Homo sapiens,human
+GCA_015121725.1,9606,Homo sapiens,human
+GCA_015145145.1,9606,Homo sapiens,human
+GCA_015095855.1,9606,Homo sapiens,human
+GCA_015076025.1,9606,Homo sapiens,human
+GCA_015144705.1,9606,Homo sapiens,human
+GCA_015144745.1,9606,Homo sapiens,human
+GCA_015146745.1,9606,Homo sapiens,human
+GCA_015076045.1,9606,Homo sapiens,human
+GCA_015129255.1,9606,Homo sapiens,human
+GCA_015129275.1,9606,Homo sapiens,human
+GCA_015151235.1,9606,Homo sapiens,human
+GCA_015146395.1,9606,Homo sapiens,human
+GCA_015157055.1,9606,Homo sapiens,human
+GCA_015144125.1,9606,Homo sapiens,human
+GCA_015152055.1,9606,Homo sapiens,human
+GCA_015148135.1,9606,Homo sapiens,human
+GCA_015148425.1,9606,Homo sapiens,human
+GCA_015150385.1,9606,Homo sapiens,human
+GCA_015152235.1,9606,Homo sapiens,human
+GCA_015157095.1,9606,Homo sapiens,human
+GCA_015121485.1,9606,Homo sapiens,human
+GCA_015120625.1,9606,Homo sapiens,human
+GCA_015151155.1,9606,Homo sapiens,human
+GCA_015149935.1,9606,Homo sapiens,human
+GCA_015144285.1,9606,Homo sapiens,human
+GCA_015112955.1,9606,Homo sapiens,human
+GCA_015150735.1,9606,Homo sapiens,human
+GCA_015151995.1,9606,Homo sapiens,human
+GCA_015152255.1,9606,Homo sapiens,human
+GCA_015112875.1,9606,Homo sapiens,human
+GCA_015148115.1,9606,Homo sapiens,human
+GCA_015148385.1,9606,Homo sapiens,human
+GCA_015149005.1,9606,Homo sapiens,human
+GCA_015144905.1,9606,Homo sapiens,human
+GCA_015074685.1,9606,Homo sapiens,human
+GCA_015150955.1,9606,Homo sapiens,human
+GCA_015074645.1,9606,Homo sapiens,human
+GCA_015157255.1,9606,Homo sapiens,human
+GCA_015150275.1,9606,Homo sapiens,human
+GCA_015128905.1,9606,Homo sapiens,human
+GCA_015128965.1,9606,Homo sapiens,human
+GCA_015157295.1,9606,Homo sapiens,human
+GCA_015150195.1,9606,Homo sapiens,human
+GCA_015151015.1,9606,Homo sapiens,human
+GCA_015149515.1,9606,Homo sapiens,human
+GCA_015128945.1,9606,Homo sapiens,human
+GCA_015151095.1,9606,Homo sapiens,human
+GCA_015128925.1,9606,Homo sapiens,human
+GCA_015149035.1,9606,Homo sapiens,human
+GCA_015151055.1,9606,Homo sapiens,human
+GCA_015150435.1,9606,Homo sapiens,human
+GCA_015149315.1,9606,Homo sapiens,human
+GCA_015150315.1,9606,Homo sapiens,human
+GCA_015150175.1,9606,Homo sapiens,human
+GCA_015149215.1,9606,Homo sapiens,human
+GCA_015151255.1,9606,Homo sapiens,human
+GCA_015145405.1,9606,Homo sapiens,human
+GCA_015145685.1,9606,Homo sapiens,human
+GCA_015145465.1,9606,Homo sapiens,human
+GCA_015120235.1,9606,Homo sapiens,human
+GCA_015144185.1,9606,Homo sapiens,human
+GCA_015144805.1,9606,Homo sapiens,human
+GCA_015146495.1,9606,Homo sapiens,human
+GCA_015120275.1,9606,Homo sapiens,human
+GCA_015144045.1,9606,Homo sapiens,human
+GCA_015150135.1,9606,Homo sapiens,human
+GCA_015150935.1,9606,Homo sapiens,human
+GCA_015146235.1,9606,Homo sapiens,human
+GCA_015144685.1,9606,Homo sapiens,human
+GCA_015143195.1,9606,Homo sapiens,human
+GCA_015149275.1,9606,Homo sapiens,human
+GCA_015144085.1,9606,Homo sapiens,human
+GCA_015149255.1,9606,Homo sapiens,human
+GCA_015148325.1,9606,Homo sapiens,human
+GCA_015128825.1,9606,Homo sapiens,human
+GCA_015145725.1,9606,Homo sapiens,human
+GCA_015145365.1,9606,Homo sapiens,human
+GCA_015148335.1,9606,Homo sapiens,human
+GCA_015150455.1,9606,Homo sapiens,human
+GCA_015146585.1,9606,Homo sapiens,human
+GCA_015146275.1,9606,Homo sapiens,human
+GCA_015146375.1,9606,Homo sapiens,human
+GCA_015149235.1,9606,Homo sapiens,human
+GCA_015148485.1,9606,Homo sapiens,human
+GCA_015143215.1,9606,Homo sapiens,human
+GCA_015146535.1,9606,Homo sapiens,human
+GCA_015148225.1,9606,Homo sapiens,human
+GCA_015086795.1,9606,Homo sapiens,human
+GCA_015146635.1,9606,Homo sapiens,human
+GCA_015146825.1,9606,Homo sapiens,human
+GCA_015144325.1,9606,Homo sapiens,human
+GCA_015157215.1,9606,Homo sapiens,human
+GCA_015144945.1,9606,Homo sapiens,human
+GCA_015121685.1,9606,Homo sapiens,human
+GCA_015159335.1,9606,Homo sapiens,human
+GCA_015159365.1,9606,Homo sapiens,human
+GCA_015112915.1,9606,Homo sapiens,human
+GCA_015144925.1,9606,Homo sapiens,human
+GCA_015121805.1,9606,Homo sapiens,human
+GCA_015112935.1,9606,Homo sapiens,human
+GCA_015158305.1,9606,Homo sapiens,human
+GCA_015148505.1,9606,Homo sapiens,human
+GCA_015144305.1,9606,Homo sapiens,human
+GCA_015105875.1,9606,Homo sapiens,human
+GCA_015147565.1,9606,Homo sapiens,human
+GCA_015075605.1,9606,Homo sapiens,human
+GCA_015148525.1,9606,Homo sapiens,human
+GCA_015148245.1,9606,Homo sapiens,human
+GCA_015159255.1,9606,Homo sapiens,human
+GCA_015159215.1,9606,Homo sapiens,human
+GCA_015148305.1,9606,Homo sapiens,human
+GCA_015147825.1,9606,Homo sapiens,human
+GCA_015074965.1,9606,Homo sapiens,human
+GCA_015100085.1,9606,Homo sapiens,human
+GCA_015100035.1,9606,Homo sapiens,human
+GCA_015147225.1,9606,Homo sapiens,human
+GCA_015147585.1,9606,Homo sapiens,human
+GCA_015147805.1,9606,Homo sapiens,human
+GCA_015105835.1,9606,Homo sapiens,human
+GCA_015121425.1,9606,Homo sapiens,human
+GCA_015121545.1,9606,Homo sapiens,human
+GCA_015146355.1,9606,Homo sapiens,human
+GCA_015147505.1,9606,Homo sapiens,human
+GCA_015147665.1,9606,Homo sapiens,human
+GCA_015146675.1,9606,Homo sapiens,human
+GCA_015146885.1,9606,Homo sapiens,human
+GCA_015150855.1,9606,Homo sapiens,human
+GCA_015150095.1,9606,Homo sapiens,human
+GCA_015159235.1,9606,Homo sapiens,human
+GCA_015159275.1,9606,Homo sapiens,human
+GCA_015150975.1,9606,Homo sapiens,human
+GCA_015119855.1,9606,Homo sapiens,human
+GCA_015105855.1,9606,Homo sapiens,human
+GCA_015145205.1,9606,Homo sapiens,human
+GCA_015145545.1,9606,Homo sapiens,human
+GCA_015075025.1,9606,Homo sapiens,human
+GCA_015120255.1,9606,Homo sapiens,human
+GCA_015075085.1,9606,Homo sapiens,human
+GCA_015105815.1,9606,Homo sapiens,human
+GCA_015150155.1,9606,Homo sapiens,human
+GCA_015144665.1,9606,Homo sapiens,human
+GCA_015076065.1,9606,Homo sapiens,human
+GCA_015075945.1,9606,Homo sapiens,human
+GCA_015110605.1,9606,Homo sapiens,human
+GCA_015151115.1,9606,Homo sapiens,human
+GCA_015150255.1,9606,Homo sapiens,human
+GCA_015074545.1,9606,Homo sapiens,human
+GCA_015074585.1,9606,Homo sapiens,human
+GCA_015086735.1,9606,Homo sapiens,human
+GCA_015145105.1,9606,Homo sapiens,human
+GCA_015146255.1,9606,Homo sapiens,human
+GCA_015146615.1,9606,Homo sapiens,human
+GCA_015110655.1,9606,Homo sapiens,human
+GCA_015102475.1,9606,Homo sapiens,human
+GCA_015074485.1,9606,Homo sapiens,human
+GCA_015121565.1,9606,Homo sapiens,human
+GCA_015086715.1,9606,Homo sapiens,human
+GCA_015107175.1,9606,Homo sapiens,human
+GCA_015074565.1,9606,Homo sapiens,human
+GCA_015102535.1,9606,Homo sapiens,human
+GCA_015121525.1,9606,Homo sapiens,human
+GCA_015120705.1,9606,Homo sapiens,human
+GCA_015120605.1,9606,Homo sapiens,human
+GCA_015120635.1,9606,Homo sapiens,human
+GCA_015109095.1,9606,Homo sapiens,human
+GCA_015120665.1,9606,Homo sapiens,human
+GCA_015147135.1,9606,Homo sapiens,human
+GCA_015147685.1,9606,Homo sapiens,human
+GCA_015101755.1,9606,Homo sapiens,human
+GCA_015146515.1,9606,Homo sapiens,human
+GCA_015101675.1,9606,Homo sapiens,human
+GCA_015101655.1,9606,Homo sapiens,human
+GCA_015101705.1,9606,Homo sapiens,human
+GCA_015093335.1,9606,Homo sapiens,human
+GCA_015081335.1,9606,Homo sapiens,human
+GCA_015146315.1,9606,Homo sapiens,human
+GCA_015089695.1,9606,Homo sapiens,human
+GCA_015076165.1,9606,Homo sapiens,human
+GCA_015076135.1,9606,Homo sapiens,human
+GCA_015121645.1,9606,Homo sapiens,human
+GCA_015121625.1,9606,Homo sapiens,human
+GCA_015081215.1,9606,Homo sapiens,human
+GCA_015126875.1,9606,Homo sapiens,human
+GCA_015126915.1,9606,Homo sapiens,human
+GCA_015146475.1,9606,Homo sapiens,human
+GCA_015098195.1,9606,Homo sapiens,human
+GCA_015146195.1,9606,Homo sapiens,human
+GCA_015075045.1,9606,Homo sapiens,human
+GCA_015110585.1,9606,Homo sapiens,human
+GCA_015076085.1,9606,Homo sapiens,human
+GCA_015098235.1,9606,Homo sapiens,human
+GCA_015147405.1,9606,Homo sapiens,human
+GCA_015159295.1,9606,Homo sapiens,human
+GCA_015110535.1,9606,Homo sapiens,human
+GCA_015121975.1,9606,Homo sapiens,human
+GCA_015122005.1,9606,Homo sapiens,human
+GCA_015075845.1,9606,Homo sapiens,human
+GCA_015147025.1,9606,Homo sapiens,human
+GCA_015159315.1,9606,Homo sapiens,human
+GCA_015145955.1,9606,Homo sapiens,human
+GCA_015125915.1,9606,Homo sapiens,human
+GCA_015145775.1,9606,Homo sapiens,human
+GCA_015076205.1,9606,Homo sapiens,human
+GCA_015125955.1,9606,Homo sapiens,human
+GCA_015107275.1,9606,Homo sapiens,human
+GCA_015100115.1,9606,Homo sapiens,human
+GCA_015107195.1,9606,Homo sapiens,human
+GCA_015147725.1,9606,Homo sapiens,human
+GCA_015095795.1,9606,Homo sapiens,human
+GCA_015095755.1,9606,Homo sapiens,human
+GCA_015147465.1,9606,Homo sapiens,human
+GCA_015100055.1,9606,Homo sapiens,human
+GCA_015102375.1,9606,Homo sapiens,human
+GCA_015147765.1,9606,Homo sapiens,human
+GCA_015102455.1,9606,Homo sapiens,human
+GCA_015076225.1,9606,Homo sapiens,human
+GCA_015078955.1,9606,Homo sapiens,human
+GCA_015147525.1,9606,Homo sapiens,human
+GCA_015149995.1,9606,Homo sapiens,human
+GCA_015112335.1,9606,Homo sapiens,human
+GCA_015112975.1,9606,Homo sapiens,human
+GCA_015146555.1,9606,Homo sapiens,human
+GCA_015150795.1,9606,Homo sapiens,human
+GCA_015075905.1,9606,Homo sapiens,human
+GCA_015146295.1,9606,Homo sapiens,human
+GCA_015086755.1,9606,Homo sapiens,human
+GCA_015143235.1,9606,Homo sapiens,human
+GCA_015086825.1,9606,Homo sapiens,human
+GCA_015145915.1,9606,Homo sapiens,human
+GCA_015146175.1,9606,Homo sapiens,human
+GCA_015081235.1,9606,Homo sapiens,human
+GCA_015164135.1,9606,Homo sapiens,human
+GCA_015156355.1,9606,Homo sapiens,human
+GCA_015078775.1,9606,Homo sapiens,human
+GCA_015146785.1,9606,Homo sapiens,human
+GCA_015147185.1,9606,Homo sapiens,human
+GCA_015146965.1,9606,Homo sapiens,human
+GCA_015147345.1,9606,Homo sapiens,human
+GCA_015147905.1,9606,Homo sapiens,human
+GCA_015074705.1,9606,Homo sapiens,human
+GCA_015147325.1,9606,Homo sapiens,human
+GCA_015074715.1,9606,Homo sapiens,human
+GCA_015158435.1,9606,Homo sapiens,human
+GCA_015158395.1,9606,Homo sapiens,human
+GCA_015075825.1,9606,Homo sapiens,human
+GCA_015147645.1,9606,Homo sapiens,human
+GCA_015075875.1,9606,Homo sapiens,human
+GCA_015121745.1,9606,Homo sapiens,human
+GCA_015147045.1,9606,Homo sapiens,human
+GCA_015150055.1,9606,Homo sapiens,human
+GCA_015121695.1,9606,Homo sapiens,human
+GCA_015119075.1,9606,Homo sapiens,human
+GCA_015150875.1,9606,Homo sapiens,human
+GCA_015078815.1,9606,Homo sapiens,human
+GCA_015119155.1,9606,Homo sapiens,human
+GCA_015074985.1,9606,Homo sapiens,human
+GCA_015078835.1,9606,Homo sapiens,human
+GCA_015119895.1,9606,Homo sapiens,human
+GCA_015074765.1,9606,Homo sapiens,human
+GCA_015119865.1,9606,Homo sapiens,human
+GCA_015076105.1,9606,Homo sapiens,human
+GCA_015147925.1,9606,Homo sapiens,human
+GCA_015076125.1,9606,Homo sapiens,human
+GCA_015075925.1,9606,Homo sapiens,human
+GCA_015146765.1,9606,Homo sapiens,human
+GCA_015147785.1,9606,Homo sapiens,human
+GCA_015075985.1,9606,Homo sapiens,human
+GCA_015147445.1,9606,Homo sapiens,human
+GCA_015147865.1,9606,Homo sapiens,human
+GCA_015147625.1,9606,Homo sapiens,human
+GCA_015145165.1,9606,Homo sapiens,human
+GCA_015145505.1,9606,Homo sapiens,human
+GCA_015156315.1,9606,Homo sapiens,human
+GCA_015157105.1,9606,Homo sapiens,human
+GCA_015147845.1,9606,Homo sapiens,human
+GCA_015147545.1,9606,Homo sapiens,human
+GCA_015147385.1,9606,Homo sapiens,human
+GCA_015147005.1,9606,Homo sapiens,human
+GCA_015076185.1,9606,Homo sapiens,human
+GCA_015125395.1,9606,Homo sapiens,human
+GCA_015089495.1,9606,Homo sapiens,human
+GCA_015125975.1,9606,Homo sapiens,human
+GCA_015076245.1,9606,Homo sapiens,human
+GCA_015089475.1,9606,Homo sapiens,human
+GCA_015110565.1,9606,Homo sapiens,human
+GCA_015110625.1,9606,Homo sapiens,human
+GCA_015112435.1,9606,Homo sapiens,human
+GCA_015112355.1,9606,Homo sapiens,human
+GCA_015075805.1,9606,Homo sapiens,human
+GCA_015158455.1,9606,Homo sapiens,human
+GCA_015075865.1,9606,Homo sapiens,human
+GCA_015158415.1,9606,Homo sapiens,human
+GCA_015121505.1,9606,Homo sapiens,human
+GCA_015121455.1,9606,Homo sapiens,human
+GCA_015078855.1,9606,Homo sapiens,human
+GCA_015078795.1,9606,Homo sapiens,human
+GCA_015147425.1,9606,Homo sapiens,human
+GCA_015147105.1,9606,Homo sapiens,human
+GCA_015147605.1,9606,Homo sapiens,human
+GCA_015147885.1,9606,Homo sapiens,human
+GCA_015074665.1,9606,Homo sapiens,human
+GCA_015074625.1,9606,Homo sapiens,human
+GCA_015147485.1,9606,Homo sapiens,human
+GCA_015147745.1,9606,Homo sapiens,human
+GCA_015128885.1,9606,Homo sapiens,human
+GCA_015128765.1,9606,Homo sapiens,human
+GCA_015144725.1,9606,Homo sapiens,human
+GCA_015144105.1,9606,Homo sapiens,human
+GCA_003113115.1,9606,Homo sapiens,human
+GCA_003391555.1,9606,Homo sapiens,human
+GCA_015129045.1,9606,Homo sapiens,human
+GCA_015143255.1,9606,Homo sapiens,human
+GCA_001500205.1,9606,Homo sapiens,human
+GCA_003391435.1,9606,Homo sapiens,human
+GCA_003112915.1,9606,Homo sapiens,human
+GCA_015145795.1,9606,Homo sapiens,human
+GCA_003384065.1,9606,Homo sapiens,human
+GCA_003112815.1,9606,Homo sapiens,human
+GCA_015145975.1,9606,Homo sapiens,human
+GCA_015145285.1,9606,Homo sapiens,human
+GCA_003113235.1,9606,Homo sapiens,human
+GCA_015145585.1,9606,Homo sapiens,human
+GCA_003391495.1,9606,Homo sapiens,human
+GCA_015145225.1,9606,Homo sapiens,human
+GCA_015145325.1,9606,Homo sapiens,human
+GCA_015145565.1,9606,Homo sapiens,human
+GCA_015145665.1,9606,Homo sapiens,human
+GCA_002022865.1,9606,Homo sapiens,human
+GCA_003113175.1,9606,Homo sapiens,human
+GCA_003391775.1,9606,Homo sapiens,human
+GCA_003112875.1,9606,Homo sapiens,human
+GCA_003384745.1,9606,Homo sapiens,human
+GCA_003113215.1,9606,Homo sapiens,human
+GCA_003391525.1,9606,Homo sapiens,human
+GCA_015144265.1,9606,Homo sapiens,human
+GCA_015144885.1,9606,Homo sapiens,human
+GCA_003391885.1,9606,Homo sapiens,human
+GCA_003112955.1,9606,Homo sapiens,human
+GCA_003112855.1,9606,Homo sapiens,human
+GCA_003391825.1,9606,Homo sapiens,human
+GCA_015146415.1,9606,Homo sapiens,human
+GCA_015146695.1,9606,Homo sapiens,human
+GCA_003112975.1,9606,Homo sapiens,human
+GCA_003391855.1,9606,Homo sapiens,human
+GCA_015145835.1,9606,Homo sapiens,human
+GCA_002022825.1,9606,Homo sapiens,human
+GCA_015146055.1,9606,Homo sapiens,human
+GCA_002022845.1,9606,Homo sapiens,human
+GCA_002022975.1,9606,Homo sapiens,human
+GCA_003112835.1,9606,Homo sapiens,human
+GCA_003382745.1,9606,Homo sapiens,human
+GCA_015145265.1,9606,Homo sapiens,human
+GCA_015145895.1,9606,Homo sapiens,human
+GCA_015145705.1,9606,Homo sapiens,human
+GCA_003112895.1,9606,Homo sapiens,human
+GCA_003391745.1,9606,Homo sapiens,human
+GCA_015145605.1,9606,Homo sapiens,human
+GCA_001517065.1,9606,Homo sapiens,human
+GCA_015146425.1,9606,Homo sapiens,human
+GCA_015146715.1,9606,Homo sapiens,human
+GCA_015146135.1,9606,Homo sapiens,human
+GCA_015146015.1,9606,Homo sapiens,human
+GCA_015146035.1,9606,Homo sapiens,human
+GCA_015145855.1,9606,Homo sapiens,human
+GCA_015145305.1,9606,Homo sapiens,human
+GCA_002022805.1,9606,Homo sapiens,human
+GCA_015145815.1,9606,Homo sapiens,human
+GCA_015145645.1,9606,Homo sapiens,human
+GCA_015145995.1,9606,Homo sapiens,human
+GCA_002022525.1,9606,Homo sapiens,human
+GCA_003391465.1,9606,Homo sapiens,human
+GCA_015145245.1,9606,Homo sapiens,human
+GCA_015146335.1,9606,Homo sapiens,human
+GCA_015146575.1,9606,Homo sapiens,human
+GCA_015145625.1,9606,Homo sapiens,human
+GCA_015143905.1,9606,Homo sapiens,human
+GCA_015144445.1,9606,Homo sapiens,human
+GCA_015144615.1,9606,Homo sapiens,human
+GCA_015145065.1,9606,Homo sapiens,human
+GCA_003112935.1,9606,Homo sapiens,human
+GCA_003391915.1,9606,Homo sapiens,human
+GCA_015143805.1,9606,Homo sapiens,human
+GCA_015144345.1,9606,Homo sapiens,human
+GCA_002023025.1,9606,Homo sapiens,human
+GCA_015144635.1,9606,Homo sapiens,human
+GCA_015144505.1,9606,Homo sapiens,human
+GCA_015143885.1,9606,Homo sapiens,human
+GCA_015144005.1,9606,Homo sapiens,human
+GCA_015146455.1,9606,Homo sapiens,human
+GCA_015146155.1,9606,Homo sapiens,human
+GCA_015146805.1,9606,Homo sapiens,human
+GCA_015147095.1,9606,Homo sapiens,human
+GCA_015143845.1,9606,Homo sapiens,human
+GCA_015144425.1,9606,Homo sapiens,human
+GCA_015145345.1,9606,Homo sapiens,human
+GCA_015143765.1,9606,Homo sapiens,human
+GCA_015145005.1,9606,Homo sapiens,human
+GCA_015147165.1,9606,Homo sapiens,human
+GCA_015144385.1,9606,Homo sapiens,human
+GCA_015146845.1,9606,Homo sapiens,human
+GCA_015144485.1,9606,Homo sapiens,human
+GCA_015143865.1,9606,Homo sapiens,human
+GCA_015125375.1,9606,Homo sapiens,human
+GCA_015125015.1,9606,Homo sapiens,human
+GCA_015144015.1,9606,Homo sapiens,human
+GCA_015144585.1,9606,Homo sapiens,human
+GCA_015144205.1,9606,Homo sapiens,human
+GCA_015144865.1,9606,Homo sapiens,human
+GCA_015143785.1,9606,Homo sapiens,human
+GCA_015144365.1,9606,Homo sapiens,human
+GCA_015145045.1,9606,Homo sapiens,human
+GCA_015145425.1,9606,Homo sapiens,human
+GCA_015144565.1,9606,Homo sapiens,human
+GCA_015143985.1,9606,Homo sapiens,human
+GCA_015144405.1,9606,Homo sapiens,human
+GCA_015143825.1,9606,Homo sapiens,human
+GCA_015144525.1,9606,Homo sapiens,human
+GCA_015143945.1,9606,Homo sapiens,human
+GCA_015143965.1,9606,Homo sapiens,human
+GCA_015144545.1,9606,Homo sapiens,human
+GCA_015145445.1,9606,Homo sapiens,human
+GCA_015145085.1,9606,Homo sapiens,human
+GCA_015145185.1,9606,Homo sapiens,human
+GCA_015145525.1,9606,Homo sapiens,human
+GCA_015145375.1,9606,Homo sapiens,human
+GCA_015145025.1,9606,Homo sapiens,human
+GCA_015143925.1,9606,Homo sapiens,human
+GCA_015144465.1,9606,Homo sapiens,human
+GCA_011801095.1,9606,Homo sapiens,human
+GCA_015145935.1,9606,Homo sapiens,human
+GCA_015146215.1,9606,Homo sapiens,human
+GCA_001483685.1,9606,Homo sapiens,human
+GCA_001483585.1,9606,Homo sapiens,human
+GCA_001483605.1,9606,Homo sapiens,human
+GCA_001500185.1,9606,Homo sapiens,human
+GCA_000004845.2,9606,Homo sapiens,human
+GCA_015144165.1,9606,Homo sapiens,human
+GCA_015144765.1,9606,Homo sapiens,human
+GCA_029237265.1,10090,Mus musculus,house mouse
+GCA_029233705.1,10090,Mus musculus,house mouse
+GCA_029233295.1,10090,Mus musculus,house mouse
+GCA_029234015.1,10090,Mus musculus,house mouse
+GCA_029237465.1,10090,Mus musculus,house mouse
+GCA_029237485.1,10090,Mus musculus,house mouse
+GCA_029255695.1,10090,Mus musculus,house mouse
+GCA_029237445.1,10090,Mus musculus,house mouse
+GCA_029255665.1,10090,Mus musculus,house mouse
+GCA_029237185.1,10090,Mus musculus,house mouse
+GCA_029233695.1,10090,Mus musculus,house mouse
+GCA_029237205.1,10090,Mus musculus,house mouse
+GCA_029236065.1,10090,Mus musculus,house mouse
+GCA_029237225.1,10090,Mus musculus,house mouse
+GCA_029237415.1,10090,Mus musculus,house mouse
+GCA_029234525.1,10090,Mus musculus,house mouse
+GCA_029234035.1,10090,Mus musculus,house mouse
+GCA_029237405.1,10090,Mus musculus,house mouse
+GCA_029233825.1,10090,Mus musculus,house mouse
+GCA_029234005.1,10090,Mus musculus,house mouse
+GCA_003774525.2,10090,Mus musculus,house mouse
+GCA_018555405.1,9823,Sus scrofa,pig
+GCA_019290145.1,9823,Sus scrofa,pig
+GCA_021656055.1,9823,Sus scrofa,pig
+GCA_001700165.1,9823,Sus scrofa,pig
+GCA_001700295.1,9823,Sus scrofa,pig
+GCA_001700575.1,9823,Sus scrofa,pig
+GCA_001700135.1,9823,Sus scrofa,pig
+GCA_001700215.1,9823,Sus scrofa,pig
+GCA_001700255.1,9823,Sus scrofa,pig
+GCA_001700155.1,9823,Sus scrofa,pig
+GCA_001700235.1,9823,Sus scrofa,pig
+GCA_001700195.1,9823,Sus scrofa,pig
+GCA_000472085.2,9823,Sus scrofa,pig
+GCA_000331475.1,9823,Sus scrofa,pig
+GCA_029784025.1,9825,Sus scrofa domesticus,domestic pig
+GCA_029890225.1,9825,Sus scrofa domesticus,domestic pig
+GCA_029890215.1,9825,Sus scrofa domesticus,domestic pig
+GCA_914753205.1,9913,Bos taurus,cattle
+GCA_024542955.1,9913,Bos taurus,cattle
+GCA_031771975.1,9615,Canis lupus familiaris,dog
+GCA_004027395.1,9615,Canis lupus familiaris,dog
+GCA_000331495.1,9615,Canis lupus familiaris,dog
+GCA_011327655.1,9615,Canis lupus familiaris,dog
+GCA_011634725.1,9615,Canis lupus familiaris,dog
+GCA_000181415.1,9615,Canis lupus familiaris,dog
+GCA_905319845.1,9612,Canis lupus,gray wolf
+GCA_007922845.1,9612,Canis lupus,gray wolf
+GCA_030222085.1,9544,Macaca mulatta,Rhesus monkey
+GCA_030222105.1,9544,Macaca mulatta,Rhesus monkey
+GCA_005453305.1,9544,Macaca mulatta,Rhesus monkey
+GCA_005453525.2,9544,Macaca mulatta,Rhesus monkey
+GCA_022702505.1,9940,Ovis aries,sheep
+GCA_022702665.1,9940,Ovis aries,sheep
+GCA_021328995.1,9940,Ovis aries,sheep
+GCA_021327435.1,9940,Ovis aries,sheep
+GCA_021327375.1,9940,Ovis aries,sheep
+GCA_024222135.1,9940,Ovis aries,sheep
+GCA_021325935.1,9940,Ovis aries,sheep
+GCA_021325905.1,9940,Ovis aries,sheep
+GCA_021326735.1,9940,Ovis aries,sheep
+GCA_021328955.1,9940,Ovis aries,sheep
+GCA_024222185.1,9940,Ovis aries,sheep
+GCA_021327305.1,9940,Ovis aries,sheep
+GCA_021327315.1,9940,Ovis aries,sheep
+GCA_021326705.1,9940,Ovis aries,sheep
+GCA_021325815.1,9940,Ovis aries,sheep
+GCA_024256485.1,9940,Ovis aries,sheep
+GCA_021327145.1,9940,Ovis aries,sheep
+GCA_021326975.1,9940,Ovis aries,sheep
+GCA_021327245.1,9940,Ovis aries,sheep
+GCA_021325855.1,9940,Ovis aries,sheep
+GCA_024256505.1,9940,Ovis aries,sheep
+GCA_021327285.1,9940,Ovis aries,sheep
+GCA_021325865.1,9940,Ovis aries,sheep
+GCA_021325835.1,9940,Ovis aries,sheep
+GCA_021327395.1,9940,Ovis aries,sheep
+GCA_021325875.1,9940,Ovis aries,sheep
+GCA_021327355.1,9940,Ovis aries,sheep
+GCA_021327335.1,9940,Ovis aries,sheep
+GCA_032433645.1,9940,Ovis aries,sheep
+GCA_902985625.2,9541,Macaca fascicularis,crab-eating macaque
+GCA_903231565.1,9541,Macaca fascicularis,crab-eating macaque
+GCA_903645275.1,9541,Macaca fascicularis,crab-eating macaque
+GCA_903645265.1,9541,Macaca fascicularis,crab-eating macaque
+GCA_933851455.1,9541,Macaca fascicularis,crab-eating macaque
+GCA_933666475.1,9541,Macaca fascicularis,crab-eating macaque
+GCA_029814055.1,9796,Equus caballus,horse
+GCA_029814075.1,9796,Equus caballus,horse
+GCA_029784105.1,9796,Equus caballus,horse
+GCA_029814095.1,9796,Equus caballus,horse
+GCA_029814115.1,9796,Equus caballus,horse
+GCA_029818875.1,9796,Equus caballus,horse
+GCA_029784085.1,9796,Equus caballus,horse
+GCA_000696655.1,9796,Equus caballus,horse
+GCA_023213145.1,10036,Mesocricetus auratus,golden hamster
+GCA_900186095.1,10029,Cricetulus griseus,Chinese hamster
+GCA_026545065.1,10029,Cricetulus griseus,Chinese hamster
+GCA_013340865.1,9685,Felis catus,domestic cat
+GCA_030222145.1,9483,Callithrix jacchus,white-tufted-ear marmoset
+GCA_030222185.1,9483,Callithrix jacchus,white-tufted-ear marmoset
+GCA_009811775.1,9483,Callithrix jacchus,white-tufted-ear marmoset
+GCA_002754865.1,9483,Callithrix jacchus,white-tufted-ear marmoset
+GCA_001269965.1,9483,Callithrix jacchus,white-tufted-ear marmoset
+GCA_000832365.1,9483,Callithrix jacchus,white-tufted-ear marmoset
+GCA_004794615.1,89462,Bubalus bubalis,water buffalo
+GCA_002993835.1,89462,Bubalus bubalis,water buffalo
+GCA_000180995.3,89462,Bubalus bubalis,water buffalo
+GCA_030269805.1,9915,Bos indicus,zebu cattle
+GCA_030847515.1,9915,Bos indicus,zebu cattle
+GCA_015251995.1,60711,Chlorocebus sabaeus,green monkey
+GCA_009859225.1,9669,Mustela putorius furo,domestic ferret
+GCA_010015535.1,9669,Mustela putorius furo,domestic ferret
+GCA_009859175.1,9669,Mustela putorius furo,domestic ferret
+GCA_009859215.1,9669,Mustela putorius furo,domestic ferret
+GCA_009859245.1,9669,Mustela putorius furo,domestic ferret
+GCA_009859265.1,9669,Mustela putorius furo,domestic ferret
+GCA_009859235.1,9669,Mustela putorius furo,domestic ferret
+GCA_010367565.1,9669,Mustela putorius furo,domestic ferret
+GCA_010367575.1,9669,Mustela putorius furo,domestic ferret
+GCA_009859125.1,9669,Mustela putorius furo,domestic ferret
+GCA_918429305.1,9669,Mustela putorius furo,domestic ferret
+GCA_920103865.1,9669,Mustela putorius furo,domestic ferret
+GCA_902207235.1,9668,Mustela putorius,European polecat
+GCA_902460205.1,9668,Mustela putorius,European polecat
+GCA_902460215.1,9668,Mustela putorius,European polecat
+GCA_902460255.1,9668,Mustela putorius,European polecat
+GCA_902460245.1,9668,Mustela putorius,European polecat
+GCA_902460195.1,9668,Mustela putorius,European polecat
+GCA_902460225.1,9668,Mustela putorius,European polecat
+GCA_902460235.1,9668,Mustela putorius,European polecat
+GCA_902460175.1,9668,Mustela putorius,European polecat
+GCA_902460185.1,9668,Mustela putorius,European polecat
+GCA_030128855.1,9598,Pan troglodytes,chimpanzee
+GCA_030128845.1,9598,Pan troglodytes,chimpanzee
+GCA_000325845.1,9598,Pan troglodytes,chimpanzee
+GCA_027917375.1,13616,Monodelphis domestica,gray short-tailed opossum
+GCA_014060925.1,10181,Heterocephalus glaber,naked mole-rat
+GCA_004006685.1,43179,Ictidomys tridecemlineatus,thirteen-lined ground squirrel
+GCA_000181315.1,43179,Ictidomys tridecemlineatus,thirteen-lined ground squirrel
+GCA_003033725.1,83772,Equus asinus asinus,
+GCA_935104035.1,9837,Camelus bactrianus,Bactrian camel
+GCA_000604445.1,9837,Camelus bactrianus,Bactrian camel
+GCA_011762515.1,9739,Tursiops truncatus,common bottlenose dolphin
+GCA_011762535.1,9739,Tursiops truncatus,common bottlenose dolphin
+GCA_003314715.1,9739,Tursiops truncatus,common bottlenose dolphin
+GCA_003435595.3,9739,Tursiops truncatus,common bottlenose dolphin
+GCA_026167925.1,372063,Peromyscus maniculatus sonoriensis,
+GCA_026229955.1,372063,Peromyscus maniculatus sonoriensis,
+GCA_014108255.1,59479,Rhinolophus ferrumequinum,greater horseshoe bat
+GCA_007922735.1,59479,Rhinolophus ferrumequinum,greater horseshoe bat
+GCA_000465495.1,59479,Rhinolophus ferrumequinum,greater horseshoe bat
+GCA_024703135.1,9995,Marmota monax,woodchuck
+GCA_014533835.1,9995,Marmota monax,woodchuck
+GCA_901343595.1,9995,Marmota monax,woodchuck
+GCA_019348595.1,419130,Panthera tigris jacksoni,Malayan tiger
+GCA_030178435.1,38626,Phascolarctos cinereus,koala
+GCA_003287225.2,38626,Phascolarctos cinereus,koala
+GCA_006459085.1,68408,Moschus berezovskii,Chinese forest musk deer
+GCA_001640815.1,9838,Camelus dromedarius,Arabian camel
+GCA_000767525.1,273913,Vicugna pacos huacaya,
+GCA_028389975.1,9315,Notamacropus eugenii,tammar wallaby
+GCA_004368595.1,447135,Myodes glareolus,Bank vole
+GCA_902648505.1,9305,Sarcophilus harrisii,Tasmanian devil
+GCA_902806745.1,447135,Myodes glareolus,Bank vole
+GCA_020004485.1,79684,Microtus ochrogaster,prairie vole
+GCA_900108605.1,452646,Neogale vison,American mink
+GCA_007988765.1,9305,Sarcophilus harrisii,Tasmanian devil
+GCA_000219685.1,9305,Sarcophilus harrisii,Tasmanian devil
+GCA_000004035.1,9315,Notamacropus eugenii,tammar wallaby
+GCA_001707965.1,10044,Phodopus sungorus,Djungarian hamster
+GCA_001305785.1,447135,Myodes glareolus,Bank vole
+GCA_030174185.1,9595,Gorilla gorilla gorilla,western lowland gorilla
+GCA_030174155.1,9595,Gorilla gorilla gorilla,western lowland gorilla
+GCA_030020305.1,9785,Loxodonta africana,African savanna elephant
+GCA_024605085.1,9974,Manis javanica,Malayan pangolin
+GCA_030077915.1,9785,Loxodonta africana,African savanna elephant
+GCA_030078015.1,9785,Loxodonta africana,African savanna elephant
+GCA_030077925.1,9785,Loxodonta africana,African savanna elephant
+GCA_030078065.1,9785,Loxodonta africana,African savanna elephant
+GCA_004026785.1,10047,Meriones unguiculatus,Mongolian gerbil
+GCA_008131255.1,10047,Meriones unguiculatus,Mongolian gerbil
+GCA_024610735.1,9643,Ursus americanus,American black bear
+GCA_012070465.1,30522,Bos indicus x Bos taurus,hybrid cattle
+GCA_012070485.1,30522,Bos indicus x Bos taurus,hybrid cattle
+GCA_012070445.1,30522,Bos indicus x Bos taurus,hybrid cattle
+GCA_012070475.1,30522,Bos indicus x Bos taurus,hybrid cattle
+GCA_012069665.1,30522,Bos indicus x Bos taurus,hybrid cattle
+GCA_002966995.1,9258,Ornithorhynchus anatinus,platypus
+GCA_012070425.1,30522,Bos indicus x Bos taurus,hybrid cattle
+GCA_004115175.2,9258,Ornithorhynchus anatinus,platypus
+GCA_029941455.1,9749,Delphinapterus leucas,beluga whale
+GCA_029941435.1,9749,Delphinapterus leucas,beluga whale
+GCA_029941415.1,9749,Delphinapterus leucas,beluga whale
+GCA_009917745.1,9749,Delphinapterus leucas,beluga whale
+GCA_009917725.1,9749,Delphinapterus leucas,beluga whale
+GCA_024610745.1,9643,Ursus americanus,American black bear
+GCA_003344425.1,9643,Ursus americanus,American black bear
+GCA_030077995.2,9783,Elephas maximus,Asiatic elephant
+GCA_030077985.1,9783,Elephas maximus,Asiatic elephant
+GCA_030077955.1,9783,Elephas maximus,Asiatic elephant
+GCA_030077935.1,9783,Elephas maximus,Asiatic elephant
+GCA_030077965.1,9783,Elephas maximus,Asiatic elephant
+GCA_014332765.1,9783,Elephas maximus,Asiatic elephant
+GCA_963422255.1,9870,Rangifer tarandus,reindeer
+GCA_022457185.1,9870,Rangifer tarandus,reindeer
+GCA_004026565.1,9870,Rangifer tarandus,reindeer
+GCA_024166345.1,99487,Elephas maximus indicus,
+GCA_014898785.1,191431,Rangifer tarandus granti,
+GCA_902712895.1,86329,Rangifer tarandus tarandus,
+GCA_030555615.1,10068,Acomys cahirinus,Egyptian spiny mouse
+GCA_030247015.1,61622,Rhinopithecus roxellana,golden snub-nosed monkey
+GCA_015472805.1,9407,Rousettus aegyptiacus,Egyptian rousette
+GCA_004024865.1,9407,Rousettus aegyptiacus,Egyptian rousette
+GCA_004027535.1,10068,Acomys cahirinus,Egyptian spiny mouse
+GCA_017311355.1,30520,Bos frontalis,gayal
+GCA_910593805.1,9860,Cervus elaphus,red deer
+GCA_030170355.1,9601,Pongo abelii,Sumatran orangutan
+GCA_030170345.1,9601,Pongo abelii,Sumatran orangutan
+GCA_947095605.1,9600,Pongo pygmaeus,Bornean orangutan
+GCA_023767775.1,9600,Pongo pygmaeus,Bornean orangutan
+GCA_015852515.1,9261,Tachyglossus aculeatus,Australian echidna
+GCA_004027435.1,9417,Artibeus jamaicensis,Jamaican fruit-eating bat
+GCA_029215635.1,9716,Mirounga angustirostris,Northern elephant seal
+GCA_029215605.1,9716,Mirounga angustirostris,Northern elephant seal
+GCA_030020945.1,143292,Manis pentadactyla,Chinese pangolin
+GCA_024244205.1,143292,Manis pentadactyla,Chinese pangolin
+GCA_029890035.1,9764,Eschrichtius robustus,grey whale
+GCA_028021475.1,9764,Eschrichtius robustus,grey whale
+GCA_030142675.1,494514,Vulpes lagopus,Arctic fox
+GCA_018835635.1,494514,Vulpes lagopus,Arctic fox
+GCA_007646595.3,72004,Bos mutus,wild yak
+GCA_004023825.1,494514,Vulpes lagopus,Arctic fox
+GCA_004363415.1,9764,Eschrichtius robustus,grey whale
+GCA_004023865.1,9716,Mirounga angustirostris,Northern elephant seal
+GCA_000738955.1,143292,Manis pentadactyla,Chinese pangolin
+GCA_002189225.1,9764,Eschrichtius robustus,grey whale
+GCA_002738545.1,9764,Eschrichtius robustus,grey whale
+GCA_014726795.1,9874,Odocoileus virginianus,white-tailed deer
+GCA_005406085.2,300877,Prionailurus bengalensis euptilurus,Amur leopard cat
+GCA_018119505.1,37029,Prionailurus bengalensis,leopard cat
+GCA_030221875.1,9597,Pan paniscus,pygmy chimpanzee
+GCA_030221915.1,61853,Nomascus leucogenys,northern white-cheeked gibbon
+GCA_030221885.1,9597,Pan paniscus,pygmy chimpanzee
+GCA_030222095.1,61853,Nomascus leucogenys,northern white-cheeked gibbon
+GCA_024803775.1,10013,Thomomys bottae,Botta's pocket gopher
+GCA_000765075.1,9923,Capra aegagrus,wild goat
+GCA_000164825.1,9978,Ochotona princeps,American pika
+GCA_024363575.2,38669,Perognathus longimembris,little pocket mouse
+GCA_024363435.2,38669,Perognathus longimembris,little pocket mouse
+GCA_003121645.1,30527,Ovis ammon,argali
+GCA_020395145.1,1706337,Neophocaena asiaeorientalis asiaeorientalis,Yangtze finless porpoise
+GCA_006410595.1,30527,Ovis ammon,argali
+GCA_004363475.1,214514,Perognathus longimembris pacificus,Pacific pocket mouse
+GCA_014364545.1,378754,Ursus thibetanus japonicus,Japanese black bear
+GCA_004115125.1,9877,Odocoileus hemionus hemionus,
+GCA_003697985.1,9878,Odocoileus hemionus sitkensis,
+GCA_023762875.2,9515,Sapajus apella,tufted capuchin
+GCA_011762545.1,61156,Arvicanthis niloticus,Nile rat
+GCA_011750645.1,61156,Arvicanthis niloticus,Nile rat
+GCA_009762295.2,9704,Zalophus californianus,California sea lion
+GCA_027595995.1,42254,Sorex araneus,European shrew
+GCA_937001455.1,9733,Orcinus orca,killer whale
+GCA_004027145.1,31869,Daubentonia madagascariensis,aye-aye
+GCA_902653095.1,9657,Lutra lutra,Eurasian river otter
+GCA_004024565.1,9704,Zalophus californianus,California sea lion
+GCA_009822645.1,51338,Castor canadensis,American beaver
+GCA_004027675.1,51338,Castor canadensis,American beaver
+GCA_007570765.1,9852,Alces alces,Eurasian elk
+GCA_026770645.1,89252,Equus quagga burchellii,Burchell's zebra
+GCA_004027255.2,482537,Galeopterus variegatus,Sunda flying lemur
+GCA_012313985.1,9689,Panthera leo,lion
+GCA_004026985.1,51298,Myotis myotis,
+GCA_022120495.1,9515,Sapajus apella,tufted capuchin
+GCA_000241425.1,31869,Daubentonia madagascariensis,aye-aye
+GCA_900168385.1,51338,Castor canadensis,American beaver
+GCA_004026225.1,53275,Rhizomys pruinosus,hoary bamboo rat
+GCA_004027065.2,9833,Hippopotamus amphibius,hippopotamus
+GCA_002995585.1,9833,Hippopotamus amphibius,hippopotamus
+GCA_030028035.1,575201,Hippopotamus amphibius kiboko,
+GCA_922990625.1,9662,Meles meles,Eurasian badger
+GCA_030222135.1,37293,Aotus nancymaae,Ma's night monkey
+GCA_028537755.1,100895,Microtus californicus,California vole
+GCA_030222175.1,37293,Aotus nancymaae,Ma's night monkey
+GCA_020740595.1,9447,Lemur catta,Ring-tailed lemur
+GCA_005190385.3,40151,Monodon monoceros,narwhal
+GCA_014049915.1,89673,Phyllostomus discolor,pale spear-nosed bat
+GCA_023759835.1,9447,Lemur catta,Ring-tailed lemur
+GCA_030122605.1,37293,Aotus nancymaae,Ma's night monkey
+GCA_027595915.1,9440,Antrozous pallidus,pallid bat
+GCA_024711525.1,94247,Dipodomys merriami,Merriam's kangaroo rat
+GCA_020740715.1,51337,Jaculus jaculus,lesser Egyptian jerboa
+GCA_030848815.1,9438,Tadarida brasiliensis,Brazilian free-tailed bat
+GCA_027406535.1,9470,Nycticebus coucang,slow loris
+GCA_004115245.2,89673,Phyllostomus discolor,pale spear-nosed bat
+GCA_949987525.1,9728,Delphinus delphis,saddleback dolphin
+GCA_029941395.1,40151,Monodon monoceros,narwhal
+GCA_011100645.1,9337,Trichosurus vulpecula,common brushtail
+GCA_902685475.1,30640,Sciurus carolinensis,gray squirrel
+GCA_019395325.1,33562,Dromiciops gliroides,monito del monte
+GCA_030013775.1,127582,Trichechus manatus latirostris,Florida manatee
+GCA_008658375.2,9771,Balaenoptera musculus,Blue whale
+GCA_903992515.1,59474,Pipistrellus pipistrellus,common pipistrelle
+GCA_950005055.1,9767,Balaenoptera acutorostrata,minke whale
+GCA_004024905.1,9802,Tapirus indicus,Asiatic tapir
+GCA_004024665.1,9447,Lemur catta,Ring-tailed lemur
+GCA_950295305.1,9365,Erinaceus europaeus,western European hedgehog
+GCA_022079275.1,61384,Lynx rufus,bobcat
+GCA_002215935.2,48139,Psammomys obesus,fat sand rat
+GCA_011751665.1,68415,Moschus moschiferus,Siberian musk deer
+GCA_004027045.1,40151,Monodon monoceros,narwhal
+GCA_004026685.1,40151,Monodon monoceros,narwhal
+GCA_004027105.1,43780,Nasalis larvatus,proboscis monkey
+GCA_020004445.1,30640,Sciurus carolinensis,gray squirrel
+GCA_004026625.1,59474,Pipistrellus pipistrellus,common pipistrelle
+GCA_004363705.1,27615,Kogia breviceps,pygmy sperm whale
+GCA_004025005.1,9438,Tadarida brasiliensis,Brazilian free-tailed bat
+GCA_024323085.1,33562,Dromiciops gliroides,monito del monte
+GCA_004027815.1,9470,Nycticebus coucang,slow loris
+GCA_007922775.1,9440,Antrozous pallidus,pallid bat
+GCA_005125345.1,40151,Monodon monoceros,narwhal
+GCA_000181395.1,9365,Erinaceus europaeus,western European hedgehog
+GCA_004363935.1,48723,Pontoporia blainvillei,franciscana
+GCA_020826835.1,77932,Diceros bicornis minor,
+GCA_004027315.2,9805,Diceros bicornis,black rhinoceros
+GCA_013634535.1,77932,Diceros bicornis minor,
+GCA_030556185.1,310714,Diceros bicornis michaeli,
+GCA_006410715.1,1049777,Enhydra lutris nereis,
+GCA_030020955.1,29137,Dugong dugon,dugong
+GCA_028536395.1,159337,Myotis yumanensis,
+GCA_026230055.1,124745,Corynorhinus townsendii,Townsend's big-eared bat
+GCA_023761135.1,9590,Symphalangus syndactylus,siamang
+GCA_028571665.1,77598,Heterohyrax brucei,yellow-spotted hyrax
+GCA_902500845.1,9970,Syncerus caffer,African buffalo
+GCA_963242275.1,98922,Myotis daubentonii,Daubenton's bat
+GCA_031878685.1,175524,Hipposideros larvatus,
+GCA_028500835.1,34844,Erethizon dorsatum,North American porcupine
+GCA_023853755.1,48850,Tamandua tetradactyla,southern tamandua
+GCA_900500725.1,37190,Arctocephalus gazella,antarctic fur seal
+GCA_015220265.1,27675,Choloepus didactylus,southern two-toed sloth
+GCA_947179525.1,10129,Apodemus sylvaticus,European woodmouse
+GCA_028018655.1,61452,Neofelis nebulosa,Clouded leopard
+GCA_009764325.1,54180,Trachypithecus francoisi,Francois's langur
+GCA_963455355.1,29065,Martes martes,European pine marten
+GCA_902685485.1,55149,Sciurus vulgaris,Eurasian red squirrel
+GCA_003521335.2,103600,Sousa chinensis,Indo-pacific humpbacked dolphin
+GCA_905400935.1,29137,Dugong dugon,dugong
+GCA_023783495.1,9568,Mandrillus leucophaeus,drill
+GCA_004023905.1,37032,Suricata suricatta,meerkat
+GCA_963455345.1,9731,Globicephala melas,long-finned pilot whale
+GCA_008692045.1,42100,Phocoena sinus,vaquita
+GCA_006547115.1,34844,Erethizon dorsatum,North American porcupine
+GCA_004024725.1,9460,Cheirogaleus medius,Lesser dwarf lemur
+GCA_021018645.1,9891,Antilocapra americana,pronghorn
+GCA_027422525.1,61452,Neofelis nebulosa,Clouded leopard
+GCA_006408525.1,9886,Muntiacus reevesi,Reeves' muntjac
+GCA_004023805.1,9690,Panthera onca,jaguar
+GCA_004027515.2,9891,Antilocapra americana,pronghorn
+GCA_002443075.1,43332,Elaphurus davidianus,Pere David's deer
+GCA_006408785.2,9970,Syncerus caffer,African buffalo
+GCA_004023945.1,95912,Hyaena hyaena,striped hyena
+GCA_004027005.1,39082,Muscardinus avellanarius,hazel dormouse
+GCA_963383665.1,39082,Muscardinus avellanarius,hazel dormouse
+GCA_022533635.2,37176,Ovibos moschatus,muskox
+GCA_018119265.1,61388,Prionailurus viverrinus,fishing cat
+GCA_004027335.1,9538,Erythrocebus patas,red guenon
+GCA_004027755.1,9514,Cebus albifrons,white-fronted capuchin
+GCA_004765945.2,358128,Phataginus tricuspis,Tree pangolin
+GCA_015147995.1,29137,Dugong dugon,dugong
+GCA_004025105.1,48850,Tamandua tetradactyla,southern tamandua
+GCA_004026725.1,38674,Onychomys torridus,southern grasshopper mouse
+GCA_030267925.1,83653,Grampus griseus,Risso's dolphin
+GCA_015708975.1,9654,Procyon lotor,raccoon
+GCA_022457235.1,9849,Tragulus javanicus,Java mouse-deer
+GCA_019843795.1,10112,Mastomys natalensis,African soft-furred rat
+GCA_014189835.1,10149,Hydrochoerus hydrochaeris,capybara
+GCA_004027855.1,27675,Choloepus didactylus,southern two-toed sloth
+GCA_000465345.1,9413,Megaderma lyra,Indian false vampire
+GCA_008795845.1,9770,Balaenoptera physalus,Fin whale
+GCA_003071005.2,9742,Phocoena phocoena,harbor porpoise
+GCA_001305905.1,10129,Apodemus sylvaticus,European woodmouse
+GCA_024509225.1,2888765,Gulo gulo luscus,American wolverine
+GCA_023973185.1,2888765,Gulo gulo luscus,American wolverine
+GCA_002844835.1,310712,Dicerorhinus sumatrensis sumatrensis,
+GCA_002901085.1,1906353,Solenodon paradoxus woodi,
+GCA_900006375.2,48420,Gulo gulo,wolverine
+GCA_028554675.1,61408,Otocolobus manul,Pallas's cat
+GCA_028017805.1,2746895,Balaenoptera ricei,Rice's whale
+GCA_024362865.1,9691,Panthera pardus,leopard
+GCA_027409165.1,110931,Cynocephalus volans,Philippine flying lemur
+GCA_951394445.1,9737,Stenella coeruleoalba,striped dolphin
+GCA_014824575.3,192404,Sturnira hondurensis,
+GCA_949987765.1,246814,Pipistrellus pygmaeus,soprano pipistrelle
+GCA_025094165.1,48708,Mesoplodon densirostris,Blainville's beaked whale
+GCA_950005115.1,269649,Chionomys nivalis,European snow vole
+GCA_963455325.1,61862,Plecotus auritus,brown big-eared bat
+GCA_024362975.1,9691,Panthera pardus,leopard
+GCA_024363415.1,9691,Panthera pardus,leopard
+GCA_009829165.1,36723,Mustela erminea,ermine
+GCA_951640545.1,59451,Eptesicus nilssonii,northern bat
+GCA_018403435.2,9809,Rhinoceros unicornis,greater Indian rhinoceros
+GCA_949820125.1,9988,Sylvilagus floridanus,eastern cottontail
+GCA_020311295.1,204263,Eira barbara,Tayra
+GCA_030435785.1,9666,Mustela lutreola,European mink
+GCA_019331625.1,41426,Phacochoerus africanus,Common warthog
+GCA_949752845.1,48744,Hyperoodon ampullatus,northern bottlenose whale
+GCA_019141135.1,36239,Mustela nivalis,least weasel
+GCA_903992525.1,1047088,Arvicola amphibius,Eurasian water vole
+GCA_024140225.1,109475,Suncus etruscus,white-toothed pygmy shrew
+GCA_019022865.1,9809,Rhinoceros unicornis,greater Indian rhinoceros
+GCA_007474575.2,61383,Lynx canadensis,Canada lynx
+GCA_004023885.1,94188,Cryptoprocta ferox,fossa
+GCA_011751095.1,257879,Aeorestes cinereus,hoary bat
+GCA_949774935.1,27610,Lagenorhynchus albirostris,white-beaked dolphin
+GCA_029532105.1,63225,Lepus townsendii,white-tailed jackrabbit
+GCA_021018685.1,86973,Okapia johnstoni,okapi
+GCA_902729475.2,10105,Mus minutoides,Southern African pygmy mouse
+GCA_902702925.1,42410,Peromyscus eremicus,cactus mouse
+GCA_004024785.1,9509,Ateles geoffroyi,black-handed spider monkey
+GCA_024363105.1,48744,Hyperoodon ampullatus,northern bottlenose whale
+GCA_902806755.1,29092,Microtus agrestis,short-tailed field vole
+GCA_026122425.1,62283,Sorex fumeus,smoky shrew
+GCA_902806765.2,29092,Microtus agrestis,short-tailed field vole
+GCA_008931205.1,9888,Muntiacus muntjak,muntjak
+GCA_001660835.1,86973,Okapia johnstoni,okapi
+GCA_018398825.1,9638,Tremarctos ornatus,spectacled bear
+GCA_006409035.1,9888,Muntiacus muntjak,muntjak
+GCA_004802615.1,9561,Mandrillus sphinx,mandrill
+GCA_004365145.1,9818,Orycteropus afer,aardvark
+GCA_004027355.1,28737,Elephantulus edwardii,Cape elephant shrew
+GCA_004023925.1,61379,Felis nigripes,black-footed cat
+GCA_004025125.1,183749,Tolypeutes matacus,
+GCA_032201225.1,1496684,Manis crassicaudata,Indian pangolin
+GCA_004027935.1,185453,Chrysochloris asiatica,Cape golden mole
+GCA_004365275.1,70687,Tupaia tana,large tree shrew
+GCA_024262445.1,68741,Speothos venaticus,bush dog
+GCA_001305995.1,29092,Microtus agrestis,short-tailed field vole
+GCA_019969365.1,67941,Nanger dama ruficollis,
+GCA_020387435.1,2821547,Microtus richardsoni arvicoloides,
+GCA_030247035.1,30586,Saguinus midas,Midas tamarin
+GCA_018282235.1,439324,Giraffa camelopardalis antiquorum,Kordofan giraffe
+GCA_006459105.1,9883,Hydropotes inermis,Chinese water deer
+GCA_004026645.1,43777,Pithecia pithecia,white-faced saki
+GCA_001651235.1,439328,Giraffa tippelskirchi,
+GCA_024262425.1,68728,Chrysocyon brachyurus,maned wolf
+GCA_006408565.1,9894,Giraffa camelopardalis,giraffe
+GCA_015708855.1,29067,Potos flavus,kinkajou
+GCA_006410575.1,9958,Oryx gazella,gemsbok
+GCA_006408655.1,1088131,Tragulus kanchil,
+GCA_011057625.1,79784,Tursiops aduncus,Indo-pacific bottlenose dolphin
+GCA_006408485.1,71854,Muntiacus crinifrons,black muntjac
+GCA_001685115.1,39086,Ellobius lutescens,Transcaucasian mole vole
+GCA_006410755.1,69297,Tragelaphus eurycerus,bongo
+GCA_000442335.2,9606,Homo sapiens,human
+GCF_000306695.2,9606,Homo sapiens,human
+GCF_000002125.1,9606,Homo sapiens,human
+GCA_000365445.1,9606,Homo sapiens,human
+GCA_000002115.2,9606,Homo sapiens,human
+GCA_922000895.2,10090,Mus musculus,house mouse
+GCA_921998635.2,10090,Mus musculus,house mouse
+GCA_001624295.1,10090,Mus musculus,house mouse
+GCA_000002165.1,10090,Mus musculus,house mouse
+GCA_001624215.1,10090,Mus musculus,house mouse
+GCA_001624745.1,10090,Mus musculus,house mouse
+GCA_001632525.1,10090,Mus musculus,house mouse
+GCA_001624535.1,10090,Mus musculus,house mouse
+GCA_001632575.1,10090,Mus musculus,house mouse
+GCA_001624185.1,10090,Mus musculus,house mouse
+GCA_001624505.1,10090,Mus musculus,house mouse
+GCA_001624475.1,10090,Mus musculus,house mouse
+GCA_001632555.1,10090,Mus musculus,house mouse
+GCA_001632615.1,10090,Mus musculus,house mouse
+GCA_001624675.1,10090,Mus musculus,house mouse
+GCA_001624775.1,39442,Mus musculus musculus,eastern European house mouse
+GCA_921998345.2,10092,Mus musculus domesticus,western European house mouse
+GCA_001624835.1,10092,Mus musculus domesticus,western European house mouse
+GCA_921999005.2,10091,Mus musculus castaneus,southeastern Asian house mouse
+GCA_001624445.1,10091,Mus musculus castaneus,southeastern Asian house mouse
+GCF_000001895.5,10116,Rattus norvegicus,Norway rat
+GCF_000002265.2,10116,Rattus norvegicus,Norway rat
+GCF_000003205.7,9913,Bos taurus,cattle
+GCF_000003055.6,9913,Bos taurus,cattle
+GCF_005444595.1,9615,Canis lupus familiaris,dog
+GCF_000772875.2,9544,Macaca mulatta,Rhesus monkey
+GCF_000002255.3,9544,Macaca mulatta,Rhesus monkey
+GCF_002742125.1,9940,Ovis aries,sheep
+GCF_000298735.2,9940,Ovis aries,sheep
+GCA_000005525.1,9940,Ovis aries,sheep
+GCF_000364345.1,9541,Macaca fascicularis,crab-eating macaque
+GCF_000003625.3,9986,Oryctolagus cuniculus,rabbit
+GCF_000002305.2,9796,Equus caballus,horse
+GCF_009663435.1,9483,Callithrix jacchus,white-tufted-ear marmoset
+GCF_000004665.1,9483,Callithrix jacchus,white-tufted-ear marmoset
+GCF_003121395.1,89462,Bubalus bubalis,water buffalo
+GCF_019923925.1,89462,Bubalus bubalis,water buffalo
+GCA_002933975.1,9915,Bos indicus,zebu cattle
+GCF_000409795.2,60711,Chlorocebus sabaeus,green monkey
+GCF_002880755.1,9598,Pan troglodytes,chimpanzee
+GCF_000001515.7,9598,Pan troglodytes,chimpanzee
+GCF_000002295.2,13616,Monodelphis domestica,gray short-tailed opossum
+GCF_000264685.3,9555,Papio anubis,olive baboon
+GCF_008122165.1,9595,Gorilla gorilla gorilla,western lowland gorilla
+GCF_000151905.2,9595,Gorilla gorilla gorilla,western lowland gorilla
+GCF_002880775.1,9601,Pongo abelii,Sumatran orangutan
+GCF_000258655.2,9597,Pan paniscus,pygmy chimpanzee
+GCF_014633375.1,9978,Ochotona princeps,American pika
+GCF_000146795.2,61853,Nomascus leucogenys,northern white-cheeked gibbon
+GCA_007646695.3,9275,Thylacinus cynocephalus,Tasmanian wolf
+GCA_003610035.2,9606,Homo sapiens,human
+GCA_000389885.1,10090,Mus musculus,house mouse
+GCA_026508895.1,39442,Mus musculus musculus,eastern European house mouse
+GCF_000189315.1,9305,Sarcophilus harrisii,Tasmanian devil
+GCA_913843615.1,9606,Homo sapiens,human
+GCA_913844065.1,9606,Homo sapiens,human
+GCA_913844035.1,9606,Homo sapiens,human
+GCA_913843925.1,9606,Homo sapiens,human
+GCA_913844015.1,9606,Homo sapiens,human
+GCA_913844055.1,9606,Homo sapiens,human
+GCA_913843625.1,9606,Homo sapiens,human
+GCA_913844075.1,9606,Homo sapiens,human
+GCA_913843595.1,9606,Homo sapiens,human
+GCA_913843955.1,9606,Homo sapiens,human
+GCA_913844125.1,9606,Homo sapiens,human
+GCA_913844095.1,9606,Homo sapiens,human
+GCA_913844105.1,9606,Homo sapiens,human
+GCA_913844045.1,9606,Homo sapiens,human
+GCA_913844115.1,9606,Homo sapiens,human
+GCA_913843885.1,9606,Homo sapiens,human
+GCA_913843605.1,9606,Homo sapiens,human
+GCA_913843545.1,9606,Homo sapiens,human
+GCA_913843965.1,9606,Homo sapiens,human
+GCA_914822365.1,9606,Homo sapiens,human
+GCA_913843525.1,9606,Homo sapiens,human
+GCA_913843635.1,9606,Homo sapiens,human
+GCA_913843675.1,9606,Homo sapiens,human
+GCA_914823235.1,9606,Homo sapiens,human
+GCA_914823105.1,9606,Homo sapiens,human
+GCA_914824655.1,9606,Homo sapiens,human
+GCA_913843535.1,9606,Homo sapiens,human
+GCA_914824835.1,9606,Homo sapiens,human
+GCA_914826315.1,9606,Homo sapiens,human
+GCA_914826275.1,9606,Homo sapiens,human
+GCA_914825625.1,9606,Homo sapiens,human
+GCA_913843505.1,9606,Homo sapiens,human
+GCA_913843575.1,9606,Homo sapiens,human
+GCA_913844145.1,9606,Homo sapiens,human
+GCA_913843645.1,9606,Homo sapiens,human
+GCA_913844085.1,9606,Homo sapiens,human
+GCA_913843555.1,9606,Homo sapiens,human
+GCA_913843665.1,9606,Homo sapiens,human
+GCA_913843685.1,9606,Homo sapiens,human
+GCA_913843585.1,9606,Homo sapiens,human
+GCA_914822985.1,9606,Homo sapiens,human
+GCA_913843655.1,9606,Homo sapiens,human
+GCA_913844005.1,9606,Homo sapiens,human
+GCA_913843515.1,9606,Homo sapiens,human
+GCA_913843565.1,9606,Homo sapiens,human
+GCA_902652775.1,9606,Homo sapiens,human
+GCA_912157075.1,9606,Homo sapiens,human
+GCA_002009925.1,9606,Homo sapiens,human
+GCA_912157055.1,9606,Homo sapiens,human
+GCA_912157065.1,9606,Homo sapiens,human
+GCA_912157105.1,9606,Homo sapiens,human
+GCA_912157085.1,9606,Homo sapiens,human
+GCA_912157025.1,9606,Homo sapiens,human
+GCA_912157035.1,9606,Homo sapiens,human
+GCA_912157115.1,9606,Homo sapiens,human
+GCA_912157015.1,9606,Homo sapiens,human
+GCA_912157095.1,9606,Homo sapiens,human
+GCA_012069685.1,9606,Homo sapiens,human
+GCA_012069745.1,9606,Homo sapiens,human
+GCA_018398685.1,9606,Homo sapiens,human
+GCA_900009665.2,9606,Homo sapiens,human
+GCA_015144065.1,9606,Homo sapiens,human
+GCA_015144605.1,9606,Homo sapiens,human
+GCA_900010305.2,9606,Homo sapiens,human
+GCA_900008125.2,9606,Homo sapiens,human
+GCA_900008935.2,9606,Homo sapiens,human
+GCA_900009335.2,9606,Homo sapiens,human
+GCA_900008195.2,9606,Homo sapiens,human
+GCA_900011055.2,9606,Homo sapiens,human
+GCA_900010215.2,9606,Homo sapiens,human
+GCA_900008135.2,9606,Homo sapiens,human
+GCA_900661295.1,9606,Homo sapiens,human
+GCA_900010775.2,9606,Homo sapiens,human
+GCA_900010005.2,9606,Homo sapiens,human
+GCA_900016255.2,9606,Homo sapiens,human
+GCA_900010785.2,9606,Homo sapiens,human
+GCA_900009035.2,9606,Homo sapiens,human
+GCA_900008245.2,9606,Homo sapiens,human
+GCA_900009695.2,9606,Homo sapiens,human
+GCA_900008875.2,9606,Homo sapiens,human
+GCA_900009055.2,9606,Homo sapiens,human
+GCA_003711475.1,9606,Homo sapiens,human
+GCA_900009655.2,9606,Homo sapiens,human
+GCA_900008995.2,9606,Homo sapiens,human
+GCA_003711455.1,9606,Homo sapiens,human
+GCA_003709635.1,9606,Homo sapiens,human
+GCA_003709745.1,9606,Homo sapiens,human
+GCA_003709805.1,9606,Homo sapiens,human
+GCA_003709695.1,9606,Homo sapiens,human
+GCA_003709765.1,9606,Homo sapiens,human
+GCA_003709785.1,9606,Homo sapiens,human
+GCA_003709735.1,9606,Homo sapiens,human
+GCA_900009795.2,9606,Homo sapiens,human
+GCA_900009065.2,9606,Homo sapiens,human
+GCA_900008275.2,9606,Homo sapiens,human
+GCA_003709615.1,9606,Homo sapiens,human
+GCA_900008695.2,9606,Homo sapiens,human
+GCA_963426525.1,9606,Homo sapiens,human
+GCA_003709625.1,9606,Homo sapiens,human
+GCA_003709685.1,9606,Homo sapiens,human
+GCA_003709675.1,9606,Homo sapiens,human
+GCA_003864135.1,9606,Homo sapiens,human
+GCA_001483655.1,9606,Homo sapiens,human
+GCA_900009345.2,9606,Homo sapiens,human
+GCA_000185165.1,9606,Homo sapiens,human
+GCA_000005465.1,9606,Homo sapiens,human
+GCA_949316305.1,10090,Mus musculus,house mouse
+GCA_000181195.1,10090,Mus musculus,house mouse
+GCA_000185105.2,10090,Mus musculus,house mouse
+GCA_000185125.1,10090,Mus musculus,house mouse
+GCA_000350445.1,10090,Mus musculus,house mouse
+GCA_015244455.1,10116,Rattus norvegicus,Norway rat
+GCA_000325925.2,9823,Sus scrofa,pig
+GCA_014858485.1,9544,Macaca mulatta,Rhesus monkey
+GCA_021328935.1,9940,Ovis aries,sheep
+GCA_021328945.1,9940,Ovis aries,sheep
+GCA_009823495.1,9925,Capra hircus,goat
+GCA_907165285.1,9925,Capra hircus,goat
+GCF_000349665.1,10036,Mesocricetus auratus,golden hamster
+GCF_000419365.1,10029,Cricetulus griseus,Chinese hamster
+GCF_000471725.1,89462,Bubalus bubalis,water buffalo
+GCA_905249985.1,391902,Bubalus bubalis bubalis,
+GCA_947598445.1,9669,Mustela putorius furo,domestic ferret
+GCF_000239315.1,9669,Mustela putorius furo,domestic ferret
+GCF_000215625.1,9669,Mustela putorius furo,domestic ferret
+GCF_000230445.1,10181,Heterocephalus glaber,naked mole-rat
+GCF_000236235.1,43179,Ictidomys tridecemlineatus,thirteen-lined ground squirrel
+GCF_001305755.1,9793,Equus asinus,ass
+GCF_001922835.1,9739,Tursiops truncatus,common bottlenose dolphin
+GCF_000151865.2,9739,Tursiops truncatus,common bottlenose dolphin
+GCF_000500345.1,230844,Peromyscus maniculatus bairdii,prairie deer mouse
+GCA_004115295.1,59479,Rhinolophus ferrumequinum,greater horseshoe bat
+GCF_000004335.2,9646,Ailuropoda melanoleuca,giant panda
+GCF_000464555.1,74533,Panthera tigris altaica,Amur tiger
+GCA_900166895.1,38626,Phascolarctos cinereus,koala
+GCF_000767585.1,9838,Camelus dromedarius,Arabian camel
+GCA_006461545.1,68408,Moschus berezovskii,Chinese forest musk deer
+GCF_001685135.1,9974,Manis javanica,Malayan pangolin
+GCF_000208655.3,9361,Dasypus novemcinctus,nine-banded armadillo
+GCF_003584765.2,116960,Ursus arctos horribilis,
+GCF_001466805.2,9407,Rousettus aegyptiacus,Egyptian rousette
+GCF_000769185.1,61622,Rhinopithecus roxellana,golden snub-nosed monkey
+GCF_014825515.1,9417,Artibeus jamaicensis,Jamaican fruit-eating bat
+GCA_004027795.1,310713,Ceratotherium simum cottoni,northern white rhinoceros
+GCF_003709585.1,32536,Acinonyx jubatus,cheetah
+GCF_014570555.1,143292,Manis pentadactyla,Chinese pangolin
+GCF_002940915.2,9430,Desmodus rotundus,common vampire bat
+GCF_001443585.1,32536,Acinonyx jubatus,cheetah
+GCF_000687225.1,29073,Ursus maritimus,polar bear
+GCA_900411695.1,9755,Physeter catodon,sperm whale
+GCF_000292845.1,9978,Ochotona princeps,American pika
+GCF_000472045.1,9755,Physeter catodon,sperm whale
+GCF_900631625.1,9704,Zalophus californianus,California sea lion
+GCF_000331955.2,9733,Orcinus orca,killer whale
+GCF_000743615.1,885580,Fukomys damarensis,Damara mole-rat
+GCF_000181275.2,42254,Sorex araneus,European shrew
+GCA_004123975.1,9696,Puma concolor,puma
+GCA_000751575.1,9858,Capreolus capreolus,Western roe deer
+GCA_004026925.3,9813,Procavia capensis,Cape rock hyrax
+GCF_000308155.1,29078,Eptesicus fuscus,big brown bat
+GCF_000296755.1,9365,Erinaceus europaeus,western European hedgehog
+GCF_000280705.1,51337,Jaculus jaculus,lesser Egyptian jerboa
+GCA_000465405.1,59476,Pteronotus parnellii,Parnell's mustached bat
+GCF_000311805.1,419612,Camelus ferus,Wild Bactrian camel
+GCA_004026845.1,77598,Heterohyrax brucei,yellow-spotted hyrax
+GCF_000235385.1,39432,Saimiri boliviensis boliviensis,Bolivian squirrel monkey
+GCF_001888835.1,89399,Rhinolophus sinicus,Chinese rufous horseshoe bat
+GCA_016433095.1,37186,Hippotragus equinus,roan antelope
+GCA_002201775.1,9899,Ammotragus lervia,aoudad
+GCF_001857705.1,9691,Panthera pardus,leopard
+GCF_000400835.1,59538,Pantholops hodgsonii,chiru
+GCA_013391785.1,63631,Hydrodamalis gigas,Steller's sea cow
+GCA_011316645.1,45479,Cynomys gunnisoni,Gunnison's prairie dog
+GCA_004027415.1,58069,Hipposideros galeritus,Cantor's roundleaf bat
+GCA_905120135.1,227166,Megaloceros giganteus,Irish elk
+GCA_006411015.1,69298,Tragelaphus spekii,Sitatunga
+GCA_905120125.1,227166,Megaloceros giganteus,Irish elk
+GCA_948473235.1,9606,Homo sapiens,human
+GCA_948474675.1,9606,Homo sapiens,human
+GCA_948473255.1,9606,Homo sapiens,human
+GCA_948473215.1,9606,Homo sapiens,human
+GCA_948474725.1,9606,Homo sapiens,human
+GCA_948473225.1,9606,Homo sapiens,human
+GCA_948474735.1,9606,Homo sapiens,human
+GCA_900086635.1,9600,Pongo pygmaeus,Bornean orangutan
+GCA_001039535.1,112262,Ovis canadensis canadensis,
+GCA_900119615.2,9823,Sus scrofa,pig
+GCA_001270425.1,9544,Macaca mulatta,Rhesus monkey
+GCA_013138085.1,9483,Callithrix jacchus,white-tufted-ear marmoset
+GCA_000090855.1,9598,Pan troglodytes,chimpanzee
+GCF_000002175.1,37012,Pan troglodytes verus,
+GCA_002087435.1,9615,Canis lupus familiaris,dog
+GCA_018357025.1,9925,Capra hircus,goat
+GCA_030247385.1,9534,Chlorocebus aethiops,grivet
+GCA_030247455.1,9555,Papio anubis,olive baboon
+GCA_030247225.1,9557,Papio hamadryas,hamadryas baboon
+GCA_015021865.1,9595,Gorilla gorilla gorilla,western lowland gorilla
+GCA_001484535.2,9595,Gorilla gorilla gorilla,western lowland gorilla
+GCA_015021835.1,9601,Pongo abelii,Sumatran orangutan
+GCA_015021855.1,9597,Pan paniscus,pygmy chimpanzee
+GCA_030247375.1,31869,Daubentonia madagascariensis,aye-aye
+GCA_030247235.1,9515,Sapajus apella,tufted capuchin
+GCA_030247345.1,593543,Hoolock leuconedys,eastern hoolock gibbon
+GCA_030247245.1,9590,Symphalangus syndactylus,siamang
+GCA_030247355.1,9538,Erythrocebus patas,red guenon
+GCA_030247415.1,9514,Cebus albifrons,white-fronted capuchin
+GCA_030247275.1,9586,Nomascus siki,southern white-cheeked gibbon
+GCA_030247215.1,310352,Pygathrix nigripes,Black-shanked douc langur
+GCA_030247475.1,9509,Ateles geoffroyi,black-handed spider monkey
+GCA_030247295.1,54601,Macaca silenus,liontail macaque
+GCA_030247305.1,9551,Macaca assamensis,Assam macaque
+GCA_001879175.2,9606,Homo sapiens,human
+GCA_900518905.1,9606,Homo sapiens,human
+GCA_900008895.2,9606,Homo sapiens,human
+GCA_900065935.1,9606,Homo sapiens,human
+GCA_900009965.2,9606,Homo sapiens,human
+GCA_900008675.2,9606,Homo sapiens,human
+GCA_900009685.2,9606,Homo sapiens,human
+GCA_900008985.2,9606,Homo sapiens,human
+GCA_900008885.2,9606,Homo sapiens,human
+GCA_900016265.2,9606,Homo sapiens,human
+GCA_900011565.2,9606,Homo sapiens,human
+GCA_900009015.2,9606,Homo sapiens,human
+GCA_900009025.2,9606,Homo sapiens,human
+GCA_900009215.2,9606,Homo sapiens,human
+GCA_900009005.2,9606,Homo sapiens,human
+GCA_900009075.2,9606,Homo sapiens,human
+GCA_900007535.2,9606,Homo sapiens,human
+GCA_900012675.2,9606,Homo sapiens,human
+GCA_900009105.2,9606,Homo sapiens,human
+GCA_900010295.2,9606,Homo sapiens,human
+GCA_900007485.2,9606,Homo sapiens,human
+GCA_900009225.2,9606,Homo sapiens,human
+GCA_900009935.2,9606,Homo sapiens,human
+GCA_900008955.2,9606,Homo sapiens,human
+GCA_900008185.2,9606,Homo sapiens,human
+GCA_900011785.2,9606,Homo sapiens,human
+GCA_900008225.2,9606,Homo sapiens,human
+GCA_900019285.2,9606,Homo sapiens,human
+GCA_900008905.2,9606,Homo sapiens,human
+GCA_900011235.2,9606,Homo sapiens,human
+GCA_900010575.2,9606,Homo sapiens,human
+GCA_900009925.2,9606,Homo sapiens,human
+GCA_900009085.2,9606,Homo sapiens,human
+GCA_900012405.2,9606,Homo sapiens,human
+GCA_900009675.2,9606,Homo sapiens,human
+GCA_900008175.2,9606,Homo sapiens,human
+GCA_900008975.2,9606,Homo sapiens,human
+GCA_900009325.2,9606,Homo sapiens,human
+GCA_900016245.2,9606,Homo sapiens,human
+GCA_900007505.2,9606,Homo sapiens,human
+GCA_900007515.2,9606,Homo sapiens,human
+GCA_900008705.2,9606,Homo sapiens,human
+GCA_900008915.2,9606,Homo sapiens,human
+GCA_900007475.2,9606,Homo sapiens,human
+GCA_900008205.2,9606,Homo sapiens,human
+GCA_900008685.2,9606,Homo sapiens,human
+GCA_900009045.2,9606,Homo sapiens,human
+GCA_900008115.2,9606,Homo sapiens,human
+GCA_900011575.2,9606,Homo sapiens,human
+GCA_900008965.2,9606,Homo sapiens,human
+GCA_900019275.2,9606,Homo sapiens,human
+GCA_900011495.2,9606,Homo sapiens,human
+GCA_900008145.2,9606,Homo sapiens,human
+GCA_900231025.1,9606,Homo sapiens,human
+GCA_900009945.2,9606,Homo sapiens,human
+GCA_900008165.2,9606,Homo sapiens,human
+GCA_900016275.2,9606,Homo sapiens,human
+GCA_900010205.2,9606,Homo sapiens,human
+GCA_900007495.2,9606,Homo sapiens,human
+GCA_900008925.2,9606,Homo sapiens,human
+GCA_900008155.2,9606,Homo sapiens,human
+GCA_900009095.2,9606,Homo sapiens,human
+GCA_900008235.2,9606,Homo sapiens,human
+GCA_900008255.2,9606,Homo sapiens,human
+GCA_900010315.2,9606,Homo sapiens,human
+GCA_900010225.2,9606,Homo sapiens,human
+GCA_900007525.2,9606,Homo sapiens,human
+GCA_900009355.2,9606,Homo sapiens,human
+GCA_900008945.2,9606,Homo sapiens,human
+GCA_900009955.2,9606,Homo sapiens,human
+GCA_900011225.2,9606,Homo sapiens,human
+GCA_000442295.1,9606,Homo sapiens,human
+GCA_900230875.1,9606,Homo sapiens,human
+GCA_900008215.2,9606,Homo sapiens,human
+GCA_900230885.1,9606,Homo sapiens,human
+GCA_900009995.2,9606,Homo sapiens,human
+GCA_900231015.1,9606,Homo sapiens,human
+GCA_900230895.1,9606,Homo sapiens,human
+GCA_900230995.1,9606,Homo sapiens,human
+GCA_900230985.1,9606,Homo sapiens,human
+GCA_900231005.1,9606,Homo sapiens,human
+GCA_900230955.1,9606,Homo sapiens,human
+GCA_900230965.1,9606,Homo sapiens,human
+GCA_900230975.1,9606,Homo sapiens,human
+GCA_900231045.1,9606,Homo sapiens,human
+GCA_000786075.2,9606,Homo sapiens,human
+GCA_000181135.1,9606,Homo sapiens,human
+GCA_000180715.1,10116,Rattus norvegicus,Norway rat
+GCA_000180795.1,10116,Rattus norvegicus,Norway rat
+GCA_000180775.1,10116,Rattus norvegicus,Norway rat
+GCA_000181035.1,10116,Rattus norvegicus,Norway rat
+GCA_000181015.1,10116,Rattus norvegicus,Norway rat
+GCA_900014975.1,10116,Rattus norvegicus,Norway rat
+GCA_005446665.1,9615,Canis lupus familiaris,dog
+GCA_000167555.2,9544,Macaca mulatta,Rhesus monkey
+GCA_001984255.1,9544,Macaca mulatta,Rhesus monkey
+GCA_002166905.2,9796,Equus caballus,horse
+GCA_900156565.1,9598,Pan troglodytes,chimpanzee
+GCA_006757725.1,9837,Camelus bactrianus,Bactrian camel
+GCA_904813555.1,38626,Phascolarctos cinereus,koala
+GCA_904813535.1,38626,Phascolarctos cinereus,koala
+GCA_904813495.1,38626,Phascolarctos cinereus,koala
+GCA_904813595.1,38626,Phascolarctos cinereus,koala
+GCA_018978865.1,30538,Vicugna pacos,alpaca
+GCA_904813355.1,9305,Sarcophilus harrisii,Tasmanian devil
+GCA_900199665.1,9593,Gorilla gorilla,western gorilla
+GCA_000167515.2,9593,Gorilla gorilla,western gorilla
+GCA_904811045.1,1960642,Notamacropus eugenii eugenii,
+GCA_904811105.1,1960664,Notamacropus eugenii derbianus,
+GCA_000612945.1,9644,Ursus arctos,brown bear
+GCA_000167535.2,9601,Pongo abelii,Sumatran orangutan
+GCA_000191625.1,9874,Odocoileus virginianus,white-tailed deer
+GCA_000191605.1,9874,Odocoileus virginianus,white-tailed deer
+GCA_904813205.1,9337,Trichosurus vulpecula,common brushtail
+GCA_904813475.1,33562,Dromiciops gliroides,monito del monte
+GCA_904811855.1,9337,Trichosurus vulpecula,common brushtail
+GCA_904814005.1,9301,Sminthopsis crassicaudata,fat-tailed dunnart
+GCA_904813905.1,9337,Trichosurus vulpecula,common brushtail
+GCA_904813585.1,9337,Trichosurus vulpecula,common brushtail
+GCA_904810895.1,9301,Sminthopsis crassicaudata,fat-tailed dunnart
+GCA_904810845.1,34899,Petaurus breviceps,sugar glider
+GCA_904813035.1,34899,Petaurus breviceps,sugar glider
+GCA_904813275.1,55782,Myrmecobius fasciatus,numbat
+GCA_904813525.1,55782,Myrmecobius fasciatus,numbat
+GCA_904813345.1,9310,Potorous tridactylus,long-nosed potoroo
+GCA_904813315.1,9310,Potorous tridactylus,long-nosed potoroo
+GCA_904813305.1,9310,Potorous tridactylus,long-nosed potoroo
+GCA_904813615.1,38775,Antechinus flavipes,yellow-footed antechinus
+GCA_904812035.1,38618,Gymnobelideus leadbeateri,Leadbeater's possum
+GCA_904812105.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904813065.1,38600,Burramys parvus,mountain pygmy possum
+GCA_904813335.1,190720,Acrobates pygmaeus,
+GCA_904813325.1,38776,Phascogale calura,red-tailed phascogale
+GCA_904813045.1,65616,Pseudochirulus forbesi,Painted ringtail
+GCA_904813375.1,190653,Cercartetus nanus,
+GCA_904810575.1,418659,Murexia naso,Long-nosed dasyure
+GCA_904813505.1,38623,Phalanger carmelitae,mountain cuscus
+GCA_904812355.1,54090,Petrogale xanthopus xanthopus,
+GCA_904813295.1,32557,Planigale tenuirostris,flat-skulled marsupial mouse
+GCA_904812765.1,1648445,Petrogale wilkinsi,Wilkin's rock-wallaby
+GCA_904813265.1,9302,Sminthopsis macroura,stripe-faced dunnart
+GCA_904812605.1,54081,Petrogale coenensis,
+GCA_904813255.1,9293,Phascogale tapoatafa,brush-tailed phascogale
+GCA_904812015.1,479705,Pseudantechinus bilarni,Sandstone dibbler
+GCA_904813225.1,9344,Perameles nasuta,long-nosed bandicoot
+GCA_904812945.1,65624,Lagorchestes conspicillatus,spectacled hare-wallaby
+GCA_904813445.1,656515,Pseudocheirus occidentalis,Western ringtail oppossum
+GCA_904812675.1,54082,Petrogale godmani,Godman's rock wallaby
+GCA_904812955.1,65624,Lagorchestes conspicillatus,spectacled hare-wallaby
+GCA_904813425.1,65631,Hypsiprymnodon moschatus,musky rat kangaroo
+GCA_904812975.1,175810,Spilocuscus maculatus,
+GCA_904810755.1,90764,Sminthopsis longicaudata,long-tailed dunnart
+GCA_904810705.1,90766,Sminthopsis psammophila,sandhill dunnart
+GCA_904812265.1,1119526,Petrogale rothschildi,
+GCA_904813145.1,30668,Lasiorhinus latifrons,southern hairy-nosed wombat
+GCA_904812575.1,54089,Petrogale sharmani,
+GCA_904811155.1,9327,Thylogale billardierii,red-bellied pademelon
+GCA_904810555.1,32544,Dasyuroides byrnei,kowari
+GCA_904813025.1,42473,Phalanger orientalis,gray cuscus
+GCA_904812315.1,1119526,Petrogale rothschildi,
+GCA_904812525.1,54084,Petrogale inornata,unadorned rock wallaby
+GCA_904812225.1,54090,Petrogale xanthopus xanthopus,
+GCA_904812335.1,175627,Petrogale purpureicollis,purple-necked rock-wallaby
+GCA_904810745.1,225043,Dendrolagus dorianus notatus,
+GCA_904812235.1,1648459,Petrogale concinna monastria,
+GCA_904812245.1,1936090,Petrogale concinna canescens,
+GCA_904813285.1,29139,Vombatus ursinus,common wombat
+GCA_904810985.1,65626,Onychogalea unguifera,northern nail-tailed wallaby
+GCA_904813175.1,38598,Aepyprymnus rufescens,rufous rat-kangaroo
+GCA_904812305.1,54091,Petrogale xanthopus celeris,
+GCA_904813075.1,37737,Perameles gunnii,eastern barred bandicoot
+GCA_904812665.1,1648428,Petrogale brachyotis victoriae,
+GCA_904813365.1,9283,Antechinus stuartii,brown antechinus
+GCA_904812615.1,54081,Petrogale coenensis,
+GCA_904813465.1,38614,Distoechurus pennatus,New Guinean feather-tailed possum
+GCA_904813385.1,42733,Echymipera kalubu,Kalubu echymipera
+GCA_904812495.1,54087,Petrogale mareeba,
+GCA_904810625.1,90765,Sminthopsis ooldea,Ooldea dunnart
+GCA_904812475.1,65614,Petrogale persephone,Proserpine rock wallaby
+GCA_904811135.1,9316,Macropus fuliginosus,western gray kangaroo
+GCA_904810995.1,32549,Myoictis melas,three-striped marsupial mouse
+GCA_904813195.1,9333,Pseudocheirus peregrinus,common ring-tailed possum
+GCA_904811065.1,120737,Isoodon macrourus macrourus,
+GCA_904810615.1,9299,Pseudantechinus macdonnellensis,fat-tailed pseudantechinus
+GCA_904813435.1,9330,Wallabia bicolor,swamp wallaby
+GCA_904813155.1,69259,Bettongia penicillata,woylie
+GCA_904810635.1,71385,Antechinus godmani,Atherton antechinus
+GCA_904812835.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811125.1,661127,Petaurus abidi,Northern glider
+GCA_904811165.1,37736,Murexia longicaudata,short-furred dasyure
+GCA_904812275.1,54091,Petrogale xanthopus celeris,
+GCA_904813455.1,146632,Petauroides volans,greater glider
+GCA_904812505.1,54089,Petrogale sharmani,
+GCA_904812595.1,1648428,Petrogale brachyotis victoriae,
+GCA_913248055.1,172274,Petrogale lateralis pearsoni,
+GCA_904811655.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811025.1,9321,Osphranter rufus,red kangaroo
+GCA_904812025.1,38629,Microperoryctes longicauda,striped bandicoot
+GCA_904813215.1,9333,Pseudocheirus peregrinus,common ring-tailed possum
+GCA_904811585.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811405.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811615.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811075.1,65634,Lagostrophus fasciatus,banded hare-wallaby
+GCA_904813055.1,65628,Peroryctes raffrayana,Raffray's bandicoot
+GCA_904811035.1,32556,Planigale gilesi,flat-skulled marsupial mouse
+GCA_904813395.1,69270,Dorcopsulus vanheurni,lesser forest wallaby
+GCA_904811605.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904813545.1,190653,Cercartetus nanus,
+GCA_904811715.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811665.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811485.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904813165.1,65621,Bettongia lesueur,boodie
+GCA_904811765.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811205.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904810785.1,175813,Wyulda squamicaudata,
+GCA_904810925.1,9317,Macropus giganteus,eastern gray kangaroo
+GCA_904811775.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904813185.1,9281,Dasyurus maculatus,spotted-tailed quoll
+GCA_904813115.1,92651,Macrotis lagotis,bilby
+GCA_904811645.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904813235.1,29139,Vombatus ursinus,common wombat
+GCA_904813515.1,65612,Isoodon obesulus,southern brown bandicoot
+GCA_904811745.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811625.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811725.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811595.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904813245.1,596271,Strigocuscus pelengensis,Banggai cuscus
+GCA_904813095.1,63143,Dasyurus geoffroii,western quoll
+GCA_904811575.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904812085.1,65610,Echymipera clara,Clara's echymipera
+GCA_904812115.1,29139,Vombatus ursinus,common wombat
+GCA_904811345.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811385.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811435.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811095.1,38602,Cercartetus caudatus,long-tailed pygmy possum
+GCA_904811465.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904810685.1,190652,Cercartetus lepidus,
+GCA_904811545.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811395.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811245.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904813085.1,120740,Isoodon obesulus obesulus,
+GCA_904813125.1,37699,Notoryctes typhlops,marsupial mole
+GCA_904811365.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811185.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811305.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811695.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811505.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811735.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811635.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811335.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811685.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904813405.1,114227,Onychogalea fraenata,bridled nail-tailed wallaby
+GCA_904811215.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811515.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904810825.1,596258,Petropseudes dahli,Rock-haunting ringtail
+GCA_904811705.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904810765.1,30670,Setonix brachyurus,quokka
+GCA_904811445.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904810835.1,65624,Lagorchestes conspicillatus,spectacled hare-wallaby
+GCA_904811255.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904812425.1,172272,Petrogale lateralis hacketti,
+GCA_904811475.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811525.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904810805.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811055.1,38616,Dactylopsila trivirgata,striped possum
+GCA_904811195.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811235.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811425.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811495.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811565.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811315.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811415.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811535.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811325.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904813135.1,92651,Macrotis lagotis,bilby
+GCA_904811675.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904812965.1,65624,Lagorchestes conspicillatus,spectacled hare-wallaby
+GCA_904811355.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811755.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811295.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811375.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811555.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904812125.1,120740,Isoodon obesulus obesulus,
+GCA_904812255.1,120742,Isoodon obesulus affinis,
+GCA_904812905.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904813485.1,38632,Tarsipes rostratus,honey possum
+GCA_904812155.1,65612,Isoodon obesulus,southern brown bandicoot
+GCA_904810725.1,596260,Pseudochirulus herbertensis,Herbert river ringtail
+GCA_904811965.1,65612,Isoodon obesulus,southern brown bandicoot
+GCA_904810915.1,60701,Antechinomys laniger,
+GCA_904811455.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811015.1,120736,Isoodon auratus barrowensis,
+GCA_904811815.1,9297,Planigale maculata,pygmy planigale
+GCA_904811895.1,175811,Trichosurus arnhemensis,Northern Brushtail Possum
+GCA_904811285.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811265.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904813985.1,9295,Phascolosorex dorsalis,narrow-striped marsupial shrew
+GCA_904812215.1,120742,Isoodon obesulus affinis,
+GCA_904811795.1,120742,Isoodon obesulus affinis,
+GCA_904813945.1,32545,Dasyurus albopunctatus,New Guinean quoll
+GCA_904811785.1,120742,Isoodon obesulus affinis,
+GCA_904812145.1,65612,Isoodon obesulus,southern brown bandicoot
+GCA_904811985.1,65612,Isoodon obesulus,southern brown bandicoot
+GCA_904811275.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904811835.1,120739,Isoodon obesulus peninsulae,
+GCA_904811885.1,120741,Isoodon obesulus nauticus,
+GCA_904812135.1,120740,Isoodon obesulus obesulus,
+GCA_904813765.1,9280,Dasyurus hallucatus,northern quoll
+GCA_904814025.1,9295,Phascolosorex dorsalis,narrow-striped marsupial shrew
+GCA_904813965.1,418657,Murexia rothschildi,short-haired marsupial mouse
+GCA_904814085.1,400481,Antechinus agilis,Agile antechinus
+GCA_904810885.1,418663,Murexia melanurus,Black-tailed dasyure
+GCA_904810695.1,32551,Neophascogale lorentzii,long-clawed marsupial mouse
+GCA_904811935.1,120740,Isoodon obesulus obesulus,
+GCA_904811825.1,120742,Isoodon obesulus affinis,
+GCA_904812295.1,120743,Isoodon fusciventer,
+GCA_904811085.1,88868,Notamacropus rufogriseus banksianus,
+GCA_904813665.1,90761,Sminthopsis leucopus,white-footed dunnart
+GCA_904813865.1,290592,Myoictis leucura,
+GCA_904814035.1,60701,Antechinomys laniger,
+GCA_904811145.1,65611,Echymipera rufescens,long-nosed echymipera
+GCA_904813735.1,90757,Sminthopsis bindi,
+GCA_904810865.1,699040,Pseudochirops albertisii,D'Albertis' ringtail
+GCA_904811175.1,1031270,Isoodon auratus auratus,
+GCA_904814015.1,272619,Pseudantechinus roryi,Rory Cooper's false Antechinus
+GCA_904812845.1,120742,Isoodon obesulus affinis,
+GCA_904811845.1,120741,Isoodon obesulus nauticus,
+GCA_904813825.1,9280,Dasyurus hallucatus,northern quoll
+GCA_904814065.1,75753,Sminthopsis aitkeni,Kangaroo Island dunnart
+GCA_904812875.1,120743,Isoodon fusciventer,
+GCA_904812175.1,37698,Isoodon macrourus,northern brown bandicoot
+GCA_904813635.1,65606,Antechinus leo,cinnamon antechinus
+GCA_904813815.1,90770,Sminthopsis youngsoni,lesser hairy-footed dunnart
+GCA_904812205.1,120742,Isoodon obesulus affinis,
+GCA_904814305.1,32553,Ningaui ridei,Wongai ningaui
+GCA_904811805.1,120740,Isoodon obesulus obesulus,
+GCA_904811955.1,65612,Isoodon obesulus,southern brown bandicoot
+GCA_904813685.1,32554,Ningaui yvonnae,southern ningaui
+GCA_904814205.1,418657,Murexia rothschildi,short-haired marsupial mouse
+GCA_904813105.1,65629,Pseudochirops corinnae,golden ringtail possum
+GCA_904813575.1,32553,Ningaui ridei,Wongai ningaui
+GCA_904811945.1,65612,Isoodon obesulus,southern brown bandicoot
+GCA_904811905.1,120739,Isoodon obesulus peninsulae,
+GCA_904813995.1,60702,Ningaui timealeyi,Pilbara ningaui
+GCA_904810595.1,120735,Perameles bougainville,western barred bandicoot
+GCA_904812165.1,37698,Isoodon macrourus,northern brown bandicoot
+GCA_904813715.1,32560,Sminthopsis murina,narrow-footed marsupial mouse
+GCA_904811005.1,120743,Isoodon fusciventer,
+GCA_904814075.1,71386,Antechinus minimus,swamp antechinus
+GCA_904811225.1,1031270,Isoodon auratus auratus,
+GCA_904814135.1,1981332,Dasycercus blythi,Brush-tailed Mulgara
+GCA_904814175.1,9299,Pseudantechinus macdonnellensis,fat-tailed pseudantechinus
+GCA_904813795.1,32542,Dasycercus cristicauda,Crest-tailed Mulgara
+GCA_904813975.1,290591,Myoictis wavicus,
+GCA_904814265.1,33560,Dasykaluta rosamondae,little red kaluta
+GCA_904813785.1,34895,Planigale ingrami,
+GCA_904813625.1,418664,Murexia habbema,Habbema dasyure
+GCA_904811915.1,120739,Isoodon obesulus peninsulae,
+GCA_904813655.1,32558,Pseudantechinus ningbing,ningbing antechinus
+GCA_904812185.1,120742,Isoodon obesulus affinis,
+GCA_904814105.1,75756,Sminthopsis griseoventer,gray-bellied dunnart
+GCA_904812005.1,293818,Strigocuscus celebensis,little Celebes cuscus
+GCA_904814215.1,38629,Microperoryctes longicauda,striped bandicoot
+GCA_904813925.1,63144,Myoictis wallacei,
+GCA_904813645.1,90759,Sminthopsis granulipes,white-tailed dunnart
+GCA_904813605.1,9280,Dasyurus hallucatus,northern quoll
+GCA_904813935.1,926694,Dorcopsis hageni,White-striped Dorcopsis
+GCA_904814155.1,65607,Dactylopsila palpator,long-fingered triok
+GCA_904813565.1,71384,Antechinus bellus,fawn antechinus
+GCA_904813695.1,9319,Osphranter robustus,common wallaroo
+GCA_904814115.1,75754,Sminthopsis dolichura,little long-tailed dunnart
+GCA_904813955.1,175809,Phalanger vestitus,Stein's cuscus
+GCA_904813915.1,926694,Dorcopsis hageni,White-striped Dorcopsis
+GCA_904813805.1,60701,Antechinomys laniger,
+GCA_904811875.1,120740,Isoodon obesulus obesulus,
+GCA_904811865.1,120740,Isoodon obesulus obesulus,
+GCA_904813775.1,90767,Sminthopsis virginiae,red-cheeked dunnart
+GCA_904810935.1,2547910,Antechinus mimetes,
+GCA_904811115.1,203824,Notoryctes caurinus,
+GCA_904814355.1,196387,Notamacropus irma,western bush wallaby
+GCA_904812065.1,223567,Caloprymnus campestris,desert rat kangaroo
+GCA_904814255.1,65611,Echymipera rufescens,long-nosed echymipera
+GCA_904814285.1,9313,Notamacropus agilis,Agile wallaby
+GCA_904812985.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904812195.1,120742,Isoodon obesulus affinis,
+GCA_904814045.1,75755,Sminthopsis gilberti,Gilbert's dunnart
+GCA_904813885.1,175810,Spilocuscus maculatus,
+GCA_904810585.1,30670,Setonix brachyurus,quokka
+GCA_904813745.1,122272,Petaurus norfolcensis,squirrel glider
+GCA_904814235.1,65613,Microperoryctes papuensis,Papuan bandicoot
+GCA_904813875.1,699039,Pseudochirulus canescens,Lowland ringtail
+GCA_904814095.1,30670,Setonix brachyurus,quokka
+GCA_904814325.1,164530,Microperoryctes longicauda magnus,
+GCA_904814275.1,926694,Dorcopsis hageni,White-striped Dorcopsis
+GCA_904813755.1,65611,Echymipera rufescens,long-nosed echymipera
+GCA_904811925.1,120742,Isoodon obesulus affinis,
+GCA_904814055.1,596258,Petropseudes dahli,Rock-haunting ringtail
+GCA_904814315.1,135160,Bettongia tropica,Northern bettong
+GCA_904813895.1,37702,Pseudochirops cupreus,coppery ringtail possum
+GCA_904812995.1,65632,Lagorchestes hirsutus,rufous hare-wallaby
+GCA_904810675.1,65607,Dactylopsila palpator,long-fingered triok
+GCA_904814145.1,38621,Pseudochirops archeri,green ringtail possum
+GCA_904810945.1,9314,Osphranter antilopinus,antelopine kangaroo
+GCA_904811975.1,223567,Caloprymnus campestris,desert rat kangaroo
+GCA_904813855.1,114229,Spilocuscus rufoniger,black-spotted cuscus
+GCA_904810795.1,190651,Cercartetus concinnus,
+GCA_904813675.1,190651,Cercartetus concinnus,
+GCA_904814295.1,596256,Hemibelideus lemuroides,Lemur-like ringtail
+GCA_904813845.1,710129,Thylogale browni,Brown's pademelon
+GCA_904814335.1,926694,Dorcopsis hageni,White-striped Dorcopsis
+GCA_904813835.1,65610,Echymipera clara,Clara's echymipera
+GCA_904814165.1,65615,Phalanger gymnotis,
+GCA_904814245.1,282342,Petaurus australis,yellow-bellied glider
+GCA_904814225.1,38616,Dactylopsila trivirgata,striped possum
+GCA_904812095.1,1031281,Rhynchomeles prattorum,Seram bandicoot
+GCA_904810775.1,88869,Notamacropus rufogriseus rufogriseus,
+GCA_904810525.1,33560,Dasykaluta rosamondae,little red kaluta
+GCA_904810565.1,32559,Pseudantechinus woolleyae,Woolley's pseudantechinus
+GCA_904814185.1,175808,Phalanger sericeus,
+GCA_904813725.1,710129,Thylogale browni,Brown's pademelon
+GCA_904810605.1,120735,Perameles bougainville,western barred bandicoot
+GCA_904810545.1,418664,Murexia habbema,Habbema dasyure
+GCA_904814195.1,88212,Phalanger lullulae,woodlark cuscus
+GCA_904812285.1,32553,Ningaui ridei,Wongai ningaui
+GCA_904814365.1,60701,Antechinomys laniger,
+GCA_904813705.1,37699,Notoryctes typhlops,marsupial mole
+GCA_904845325.1,38623,Phalanger carmelitae,mountain cuscus
+GCA_904810975.1,75756,Sminthopsis griseoventer,gray-bellied dunnart
+GCA_904810855.1,418657,Murexia rothschildi,short-haired marsupial mouse
+GCA_904814125.1,699038,Pseudochirulus caroli,Weyland ringtail
+GCA_904812045.1,1636722,Bettongia anhydra,
+GCA_904812055.1,32553,Ningaui ridei,Wongai ningaui
+GCA_904810655.1,90760,Sminthopsis hirtipes,hairy-footed dunnart
+GCA_904814345.1,32554,Ningaui yvonnae,southern ningaui
+GCA_904810815.1,65615,Phalanger gymnotis,
+GCA_904845285.1,92651,Macrotis lagotis,bilby
+GCA_904810905.1,38621,Pseudochirops archeri,green ringtail possum
+GCA_904810735.1,223568,Bettongia gaimardi,Tasmanian bettong
+GCA_904810875.1,596256,Hemibelideus lemuroides,Lemur-like ringtail
+GCA_904810955.1,9280,Dasyurus hallucatus,northern quoll
+GCA_904810665.1,992409,Caluromys derbianus,Derby's woolly opossum
+GCA_904810645.1,9295,Phascolosorex dorsalis,narrow-striped marsupial shrew
+GCA_904810965.1,120742,Isoodon obesulus affinis,
+GCA_904812075.1,55310,Potorous longipes,long-footed potoroo
+GCA_904810715.1,9291,Parantechinus apicalis,southern dibbler
+GCA_904810535.1,60702,Ningaui timealeyi,Pilbara ningaui
+GCA_904813415.1,114227,Onychogalea fraenata,bridled nail-tailed wallaby
+GCA_020881995.2,9606,Homo sapiens,human
+GCA_016894425.1,9606,Homo sapiens,human
+GCA_023065335.1,9823,Sus scrofa,pig
+GCA_023065355.1,9823,Sus scrofa,pig
+GCA_030378505.1,9913,Bos taurus,cattle
+GCA_030512445.1,9940,Ovis aries,sheep
